@@ -1,0 +1,3370 @@
+[0;32mI (6582) esp_netif_handlers: sta ip: 172.22.70.215, mask: 255.255.240.0, gw: 172.22.79.254[0m
+[0;32mI (6582) espressif: got ip:172.22.70.215[0m
+[0;32mI (6582) espressif: connected to ap SSID:CINGUESTS password:acessocin[0m
+eFuse Two Point: NOT supported
+eFuse Vref: Supported
+Characterized using eFuse Vref
+Tempo 0.000968	:
+Raw: 3491	Voltage: 2844.000000V
+Tempo 0.000774	:
+Raw: 3423	Voltage: 2805.000000V
+Tempo 0.000830	:
+Raw: 2516	Voltage: 2156.000000V
+Tempo 0.000774	:
+Raw: 2926	Voltage: 2477.000000V
+Tempo 0.000782	:
+Raw: 3880	Voltage: 3035.000000V
+Tempo 0.000774	:
+Raw: 3173	Voltage: 2648.000000V
+Tempo 0.000774	:
+Raw: 2490	Voltage: 2135.000000V
+Tempo 0.000774	:
+Raw: 3193	Voltage: 2662.000000V
+Tempo 0.000774	:
+Raw: 3858	Voltage: 3026.000000V
+Tempo 0.000794	:
+Raw: 2792	Voltage: 2377.000000V
+Tempo 0.000774	:
+Raw: 2530	Voltage: 2167.000000V
+Tempo 0.000782	:
+Raw: 3415	Voltage: 2800.000000V
+Tempo 0.000778	:
+Raw: 3707	Voltage: 2954.000000V
+Tempo 0.000810	:
+Raw: 2742	Voltage: 2337.000000V
+Tempo 0.000798	:
+Raw: 2709	Voltage: 2311.000000V
+Tempo 0.000798	:
+Raw: 3759	Voltage: 2979.000000V
+Tempo 0.000798	:
+Raw: 3542	Voltage: 2871.000000V
+Tempo 0.000798	:
+Raw: 2599	Voltage: 2223.000000V
+Tempo 0.000798	:
+Raw: 2915	Voltage: 2470.000000V
+Tempo 0.000798	:
+Raw: 3939	Voltage: 3062.000000V
+Tensão RMS: 2636.422363V
+Corrente RMS: 5.793300I
+neg: 0	pos: 20
+Energia consumida: 4.211208Wh
+Custo R$: 0.000003
+
+
+
+Tempo 0.000844	:
+Raw: 3548	Voltage: 2874.000000V
+Tempo 0.000778	:
+Raw: 3581	Voltage: 2892.000000V
+Tempo 0.002359	:
+Raw: 2593	Voltage: 2218.000000V
+Tempo 0.000806	:
+Raw: 2877	Voltage: 2445.000000V
+Tempo 0.000798	:
+Raw: 3897	Voltage: 3043.000000V
+Tempo 0.000798	:
+Raw: 3385	Voltage: 2783.000000V
+Tempo 0.000798	:
+Raw: 2539	Voltage: 2174.000000V
+Tempo 0.000798	:
+Raw: 3088	Voltage: 2590.000000V
+Tempo 0.000798	:
+Raw: 3969	Voltage: 3075.000000V
+Tempo 0.000798	:
+Raw: 3105	Voltage: 2602.000000V
+Tempo 0.000798	:
+Raw: 2548	Voltage: 2182.000000V
+Tempo 0.000806	:
+Raw: 3359	Voltage: 2767.000000V
+Tempo 0.000799	:
+Raw: 3855	Voltage: 3024.000000V
+Tempo 0.000798	:
+Raw: 2879	Voltage: 2447.000000V
+Tempo 0.000798	:
+Raw: 2628	Voltage: 2246.000000V
+Tempo 0.000798	:
+Raw: 3600	Voltage: 2901.000000V
+Tempo 0.000798	:
+Raw: 3691	Voltage: 2946.000000V
+Tempo 0.000798	:
+Raw: 2689	Voltage: 2295.000000V
+Tempo 0.000798	:
+Raw: 2795	Voltage: 2379.000000V
+Tempo 0.000798	:
+Raw: 3844	Voltage: 3019.000000V
+Tensão RMS: 2663.798828V
+Corrente RMS: 5.793300I
+neg: 0	pos: 40
+Energia consumida: 8.467694Wh
+Custo R$: 0.000010
+
+
+
+Tempo 0.001761	:
+Raw: 3437	Voltage: 2813.000000V
+Tempo 0.000782	:
+Raw: 3703	Voltage: 2952.000000V
+Tempo 0.000786	:
+Raw: 2708	Voltage: 2310.000000V
+Tempo 0.000854	:
+Raw: 3062	Voltage: 2572.000000V
+Tempo 0.000798	:
+Raw: 3784	Voltage: 2991.000000V
+Tempo 0.000798	:
+Raw: 3531	Voltage: 2866.000000V
+Tempo 0.000798	:
+Raw: 2589	Voltage: 2215.000000V
+Tempo 0.000798	:
+Raw: 2934	Voltage: 2482.000000V
+Tempo 0.000798	:
+Raw: 3944	Voltage: 3064.000000V
+Tempo 0.000798	:
+Raw: 3258	Voltage: 2704.000000V
+Tempo 0.000799	:
+Raw: 2522	Voltage: 2161.000000V
+Tempo 0.000806	:
+Raw: 3192	Voltage: 2661.000000V
+Tempo 0.000798	:
+Raw: 3930	Voltage: 3058.000000V
+Tempo 0.000798	:
+Raw: 2997	Voltage: 2527.000000V
+Tempo 0.000798	:
+Raw: 2576	Voltage: 2204.000000V
+Tempo 0.000798	:
+Raw: 3475	Voltage: 2835.000000V
+Tempo 0.000798	:
+Raw: 3807	Voltage: 3002.000000V
+Tempo 0.000798	:
+Raw: 2797	Voltage: 2381.000000V
+Tempo 0.000798	:
+Raw: 2680	Voltage: 2287.000000V
+Tempo 0.000803	:
+Raw: 3697	Voltage: 2949.000000V
+Tensão RMS: 2669.229736V
+Corrente RMS: 5.793300I
+neg: 0	pos: 60
+Energia consumida: 12.734791Wh
+Custo R$: 0.000021
+
+
+
+Tempo 0.000819	:
+Raw: 3260	Voltage: 2705.000000V
+Tempo 0.000782	:
+Raw: 3750	Voltage: 2975.000000V
+Tempo 0.000774	:
+Raw: 2810	Voltage: 2391.000000V
+Tempo 0.000774	:
+Raw: 2597	Voltage: 2221.000000V
+Tempo 0.000854	:
+Raw: 3691	Voltage: 2946.000000V
+Tempo 0.000798	:
+Raw: 3655	Voltage: 2928.000000V
+Tempo 0.000798	:
+Raw: 2663	Voltage: 2274.000000V
+Tempo 0.000798	:
+Raw: 2821	Voltage: 2400.000000V
+Tempo 0.000798	:
+Raw: 3859	Voltage: 3026.000000V
+Tempo 0.000806	:
+Raw: 3406	Voltage: 2795.000000V
+Tempo 0.000798	:
+Raw: 2539	Voltage: 2174.000000V
+Tempo 0.000798	:
+Raw: 3057	Voltage: 2569.000000V
+Tempo 0.000798	:
+Raw: 3956	Voltage: 3069.000000V
+Tempo 0.000798	:
+Raw: 3134	Voltage: 2621.000000V
+Tempo 0.000798	:
+Raw: 2546	Voltage: 2180.000000V
+Tempo 0.000798	:
+Raw: 3327	Voltage: 2748.000000V
+Tempo 0.000798	:
+Raw: 3878	Voltage: 3035.000000V
+Tempo 0.000798	:
+Raw: 2896	Voltage: 2458.000000V
+Tempo 0.000807	:
+Raw: 2620	Voltage: 2239.000000V
+Tempo 0.000798	:
+Raw: 3572	Voltage: 2887.000000V
+Tensão RMS: 2650.362793V
+Corrente RMS: 5.793300I
+neg: 0	pos: 80
+Energia consumida: 16.970249Wh
+Custo R$: 0.000035
+
+
+
+Tempo 0.000810	:
+Raw: 3119	Voltage: 2611.000000V
+Tempo 0.000798	:
+Raw: 3891	Voltage: 3040.000000V
+Tempo 0.000782	:
+Raw: 2888	Voltage: 2453.000000V
+Tempo 0.000774	:
+Raw: 2540	Voltage: 2175.000000V
+Tempo 0.001944	:
+Raw: 3673	Voltage: 2937.000000V
+Tempo 0.000786	:
+Raw: 3690	Voltage: 2946.000000V
+Tempo 0.000805	:
+Raw: 2654	Voltage: 2267.000000V
+Tempo 0.000806	:
+Raw: 2813	Voltage: 2394.000000V
+Tempo 0.000802	:
+Raw: 3754	Voltage: 2977.000000V
+Tempo 0.000810	:
+Raw: 3532	Voltage: 2866.000000V
+Tempo 0.000802	:
+Raw: 2589	Voltage: 2215.000000V
+Tempo 0.000802	:
+Raw: 2927	Voltage: 2477.000000V
+Tempo 0.000802	:
+Raw: 3935	Voltage: 3060.000000V
+Tempo 0.000802	:
+Raw: 3266	Voltage: 2709.000000V
+Tempo 0.000802	:
+Raw: 2519	Voltage: 2158.000000V
+Tempo 0.000802	:
+Raw: 3178	Voltage: 2651.000000V
+Tempo 0.000802	:
+Raw: 3924	Voltage: 3055.000000V
+Tempo 0.000806	:
+Raw: 3004	Voltage: 2532.000000V
+Tempo 0.000802	:
+Raw: 2571	Voltage: 2200.000000V
+Tempo 0.000830	:
+Raw: 3449	Voltage: 2820.000000V
+Tensão RMS: 2645.977051V
+Corrente RMS: 5.793300I
+neg: 0	pos: 100
+Energia consumida: 21.197874Wh
+Custo R$: 0.000052
+
+
+
+Tempo 0.000814	:
+Raw: 2996	Voltage: 2526.000000V
+Tempo 0.000802	:
+Raw: 3938	Voltage: 3061.000000V
+Tempo 0.000785	:
+Raw: 2790	Voltage: 2375.000000V
+Tempo 0.000774	:
+Raw: 2500	Voltage: 2143.000000V
+Tempo 0.000774	:
+Raw: 3351	Voltage: 2762.000000V
+Tempo 0.000850	:
+Raw: 3667	Voltage: 2934.000000V
+Tempo 0.000798	:
+Raw: 2825	Voltage: 2403.000000V
+Tempo 0.000798	:
+Raw: 2646	Voltage: 2260.000000V
+Tempo 0.000798	:
+Raw: 3636	Voltage: 2919.000000V
+Tempo 0.000798	:
+Raw: 3637	Voltage: 2920.000000V
+Tempo 0.000798	:
+Raw: 2649	Voltage: 2263.000000V
+Tempo 0.000798	:
+Raw: 2832	Voltage: 2409.000000V
+Tempo 0.000798	:
+Raw: 3869	Voltage: 3030.000000V
+Tempo 0.000798	:
+Raw: 3376	Voltage: 2777.000000V
+Tempo 0.000798	:
+Raw: 2537	Voltage: 2173.000000V
+Tempo 0.000798	:
+Raw: 3069	Voltage: 2577.000000V
+Tempo 0.000806	:
+Raw: 3958	Voltage: 3070.000000V
+Tempo 0.000799	:
+Raw: 3118	Voltage: 2610.000000V
+Tempo 0.000798	:
+Raw: 2540	Voltage: 2175.000000V
+Tempo 0.000798	:
+Raw: 3345	Voltage: 2759.000000V
+Tensão RMS: 2625.919434V
+Corrente RMS: 5.793300I
+neg: 0	pos: 120
+Energia consumida: 25.393541Wh
+Custo R$: 0.000073
+
+
+
+Tempo 0.000810	:
+Raw: 2884	Voltage: 2450.000000V
+Tempo 0.000798	:
+Raw: 3957	Voltage: 3070.000000V
+Tempo 0.000798	:
+Raw: 3168	Voltage: 2644.000000V
+Tempo 0.000786	:
+Raw: 2506	Voltage: 2148.000000V
+Tempo 0.000774	:
+Raw: 3241	Voltage: 2693.000000V
+Tempo 0.000774	:
+Raw: 3830	Voltage: 3013.000000V
+Tempo 0.000826	:
+Raw: 2841	Voltage: 2416.000000V
+Tempo 0.000782	:
+Raw: 2551	Voltage: 2184.000000V
+Tempo 0.000774	:
+Raw: 3480	Voltage: 2837.000000V
+Tempo 0.000774	:
+Raw: 3686	Voltage: 2944.000000V
+Tempo 0.000774	:
+Raw: 2687	Voltage: 2293.000000V
+Tempo 0.000774	:
+Raw: 2681	Voltage: 2288.000000V
+Tempo 0.000774	:
+Raw: 3709	Voltage: 2955.000000V
+Tempo 0.000774	:
+Raw: 3456	Voltage: 2824.000000V
+Tempo 0.000774	:
+Raw: 2530	Voltage: 2167.000000V
+Tempo 0.000775	:
+Raw: 2909	Voltage: 2466.000000V
+Tempo 0.000782	:
+Raw: 3882	Voltage: 3036.000000V
+Tempo 0.000774	:
+Raw: 3195	Voltage: 2663.000000V
+Tempo 0.000774	:
+Raw: 2490	Voltage: 2135.000000V
+Tempo 0.000774	:
+Raw: 3153	Voltage: 2634.000000V
+Tensão RMS: 2612.153809V
+Corrente RMS: 5.793300I
+neg: 0	pos: 140
+Energia consumida: 29.566223Wh
+Custo R$: 0.000097
+
+
+
+Tempo 0.000778	:
+Raw: 2732	Voltage: 2329.000000V
+Tempo 0.000774	:
+Raw: 3862	Voltage: 3027.000000V
+Tempo 0.000774	:
+Raw: 3241	Voltage: 2693.000000V
+Tempo 0.001106	:
+Raw: 2476	Voltage: 2124.000000V
+Tempo 0.000777	:
+Raw: 3132	Voltage: 2620.000000V
+Tempo 0.000778	:
+Raw: 3877	Voltage: 3034.000000V
+Tempo 0.000850	:
+Raw: 2736	Voltage: 2332.000000V
+Tempo 0.000798	:
+Raw: 2548	Voltage: 2182.000000V
+Tempo 0.000798	:
+Raw: 3429	Voltage: 2808.000000V
+Tempo 0.000798	:
+Raw: 3811	Voltage: 3004.000000V
+Tempo 0.000798	:
+Raw: 2813	Voltage: 2394.000000V
+Tempo 0.000798	:
+Raw: 2666	Voltage: 2276.000000V
+Tempo 0.000798	:
+Raw: 3678	Voltage: 2940.000000V
+Tempo 0.000798	:
+Raw: 3607	Voltage: 2905.000000V
+Tempo 0.000798	:
+Raw: 2626	Voltage: 2244.000000V
+Tempo 0.000799	:
+Raw: 2861	Voltage: 2432.000000V
+Tempo 0.000798	:
+Raw: 3902	Voltage: 3045.000000V
+Tempo 0.000798	:
+Raw: 3352	Voltage: 2763.000000V
+Tempo 0.000798	:
+Raw: 2531	Voltage: 2168.000000V
+Tempo 0.000798	:
+Raw: 3102	Voltage: 2600.000000V
+Tensão RMS: 2615.712158V
+Corrente RMS: 5.793300I
+neg: 0	pos: 160
+Energia consumida: 33.743683Wh
+Custo R$: 0.000125
+
+
+
+Tempo 0.000810	:
+Raw: 2701	Voltage: 2304.000000V
+Tempo 0.000798	:
+Raw: 3854	Voltage: 3024.000000V
+Tempo 0.000798	:
+Raw: 3403	Voltage: 2793.000000V
+Tempo 0.000798	:
+Raw: 2542	Voltage: 2177.000000V
+Tempo 0.000786	:
+Raw: 3241	Voltage: 2693.000000V
+Tempo 0.000782	:
+Raw: 3914	Voltage: 3051.000000V
+Tempo 0.000775	:
+Raw: 3099	Voltage: 2598.000000V
+Tempo 0.000858	:
+Raw: 2570	Voltage: 2199.000000V
+Tempo 0.000798	:
+Raw: 3318	Voltage: 2742.000000V
+Tempo 0.000798	:
+Raw: 3866	Voltage: 3029.000000V
+Tempo 0.000798	:
+Raw: 2893	Voltage: 2456.000000V
+Tempo 0.000798	:
+Raw: 2618	Voltage: 2238.000000V
+Tempo 0.000798	:
+Raw: 3565	Voltage: 2883.000000V
+Tempo 0.000798	:
+Raw: 3699	Voltage: 2950.000000V
+Tempo 0.000806	:
+Raw: 2708	Voltage: 2310.000000V
+Tempo 0.000798	:
+Raw: 2770	Voltage: 2359.000000V
+Tempo 0.000798	:
+Raw: 3820	Voltage: 3008.000000V
+Tempo 0.000798	:
+Raw: 3460	Voltage: 2826.000000V
+Tempo 0.000798	:
+Raw: 2563	Voltage: 2194.000000V
+Tempo 0.000798	:
+Raw: 2994	Voltage: 2524.000000V
+Tensão RMS: 2636.350830V
+Corrente RMS: 5.793300I
+neg: 0	pos: 180
+Energia consumida: 37.956406Wh
+Custo R$: 0.000156
+
+
+
+Tempo 0.000810	:
+Raw: 2626	Voltage: 2244.000000V
+Tempo 0.000798	:
+Raw: 3775	Voltage: 2987.000000V
+Tempo 0.000798	:
+Raw: 3508	Voltage: 2853.000000V
+Tempo 0.000798	:
+Raw: 2573	Voltage: 2202.000000V
+Tempo 0.000798	:
+Raw: 2951	Voltage: 2492.000000V
+Tempo 0.000794	:
+Raw: 3891	Voltage: 3040.000000V
+Tempo 0.000774	:
+Raw: 3216	Voltage: 2677.000000V
+Tempo 0.002129	:
+Raw: 2489	Voltage: 2134.000000V
+Tempo 0.000834	:
+Raw: 3274	Voltage: 2714.000000V
+Tempo 0.000798	:
+Raw: 3938	Voltage: 3061.000000V
+Tempo 0.000798	:
+Raw: 2997	Voltage: 2527.000000V
+Tempo 0.000798	:
+Raw: 2577	Voltage: 2205.000000V
+Tempo 0.000798	:
+Raw: 3477	Voltage: 2836.000000V
+Tempo 0.000798	:
+Raw: 3798	Voltage: 2998.000000V
+Tempo 0.000806	:
+Raw: 2788	Voltage: 2374.000000V
+Tempo 0.000798	:
+Raw: 2685	Voltage: 2291.000000V
+Tempo 0.000798	:
+Raw: 3715	Voltage: 2958.000000V
+Tempo 0.000798	:
+Raw: 3579	Voltage: 2891.000000V
+Tempo 0.000798	:
+Raw: 2620	Voltage: 2239.000000V
+Tempo 0.000821	:
+Raw: 3332	Voltage: 2751.000000V
+Tensão RMS: 2642.967773V
+Corrente RMS: 5.793300I
+neg: 0	pos: 200
+Energia consumida: 42.178459Wh
+Custo R$: 0.000190
+
+
+
+Tempo 0.000801	:
+Raw: 2574	Voltage: 2203.000000V
+Tempo 0.000774	:
+Raw: 3601	Voltage: 2902.000000V
+Tempo 0.000782	:
+Raw: 3554	Voltage: 2878.000000V
+Tempo 0.000774	:
+Raw: 2602	Voltage: 2225.000000V
+Tempo 0.000783	:
+Raw: 2794	Voltage: 2379.000000V
+Tempo 0.001146	:
+Raw: 3860	Voltage: 3026.000000V
+Tempo 0.000782	:
+Raw: 3317	Voltage: 2742.000000V
+Tempo 0.000778	:
+Raw: 2490	Voltage: 2135.000000V
+Tempo 0.000821	:
+Raw: 3398	Voltage: 2790.000000V
+Tempo 0.000778	:
+Raw: 3915	Voltage: 3051.000000V
+Tempo 0.001115	:
+Raw: 2662	Voltage: 2273.000000V
+Tempo 0.001239	:
+Raw: 2668	Voltage: 2278.000000V
+Tempo 0.000778	:
+Raw: 3320	Voltage: 2743.000000V
+Tempo 0.000774	:
+Raw: 3799	Voltage: 2998.000000V
+Tempo 0.000774	:
+Raw: 2829	Voltage: 2407.000000V
+Tempo 0.000774	:
+Raw: 2579	Voltage: 2207.000000V
+Tempo 0.000774	:
+Raw: 3541	Voltage: 2871.000000V
+Tempo 0.000774	:
+Raw: 3636	Voltage: 2919.000000V
+Tempo 0.000774	:
+Raw: 2642	Voltage: 2257.000000V
+Tempo 0.000774	:
+Raw: 2740	Voltage: 2335.000000V
+Tensão RMS: 2601.306885V
+Corrente RMS: 5.793300I
+neg: 0	pos: 220
+Energia consumida: 46.331749Wh
+Custo R$: 0.000228
+
+
+
+Tempo 0.000790	:
+Raw: 2489	Voltage: 2134.000000V
+Tempo 0.000794	:
+Raw: 3519	Voltage: 2859.000000V
+Tempo 0.000802	:
+Raw: 3589	Voltage: 2896.000000V
+Tempo 0.000806	:
+Raw: 2697	Voltage: 2301.000000V
+Tempo 0.000798	:
+Raw: 2757	Voltage: 2349.000000V
+Tempo 0.000798	:
+Raw: 3796	Voltage: 2997.000000V
+Tempo 0.000782	:
+Raw: 3291	Voltage: 2725.000000V
+Tempo 0.000774	:
+Raw: 2517	Voltage: 2157.000000V
+Tempo 0.000774	:
+Raw: 2923	Voltage: 2475.000000V
+Tempo 0.000850	:
+Raw: 3948	Voltage: 3066.000000V
+Tempo 0.000798	:
+Raw: 3201	Voltage: 2667.000000V
+Tempo 0.000798	:
+Raw: 2522	Voltage: 2161.000000V
+Tempo 0.000806	:
+Raw: 3235	Voltage: 2689.000000V
+Tempo 0.000798	:
+Raw: 3909	Voltage: 3048.000000V
+Tempo 0.000798	:
+Raw: 2957	Voltage: 2497.000000V
+Tempo 0.000798	:
+Raw: 2585	Voltage: 2211.000000V
+Tempo 0.000798	:
+Raw: 3498	Voltage: 2848.000000V
+Tempo 0.000798	:
+Raw: 3778	Voltage: 2988.000000V
+Tempo 0.000798	:
+Raw: 2761	Voltage: 2352.000000V
+Tempo 0.000798	:
+Raw: 2708	Voltage: 2310.000000V
+Tensão RMS: 2606.222656V
+Corrente RMS: 5.793300I
+neg: 0	pos: 240
+Energia consumida: 50.493931Wh
+Custo R$: 0.000269
+
+
+
+Tempo 0.000810	:
+Raw: 2502	Voltage: 2145.000000V
+Tempo 0.000798	:
+Raw: 3454	Voltage: 2823.000000V
+Tempo 0.000798	:
+Raw: 3794	Voltage: 2996.000000V
+Tempo 0.000806	:
+Raw: 2796	Voltage: 2380.000000V
+Tempo 0.000798	:
+Raw: 2680	Voltage: 2287.000000V
+Tempo 0.000798	:
+Raw: 3700	Voltage: 2951.000000V
+Tempo 0.000798	:
+Raw: 3597	Voltage: 2900.000000V
+Tempo 0.000786	:
+Raw: 2576	Voltage: 2204.000000V
+Tempo 0.000774	:
+Raw: 2829	Voltage: 2407.000000V
+Tempo 0.002265	:
+Raw: 3861	Voltage: 3027.000000V
+Tempo 0.000810	:
+Raw: 3268	Voltage: 2710.000000V
+Tempo 0.000804	:
+Raw: 2507	Voltage: 2149.000000V
+Tempo 0.000802	:
+Raw: 3123	Voltage: 2614.000000V
+Tempo 0.000802	:
+Raw: 3954	Voltage: 3068.000000V
+Tempo 0.000802	:
+Raw: 3077	Voltage: 2583.000000V
+Tempo 0.000802	:
+Raw: 2561	Voltage: 2192.000000V
+Tempo 0.000802	:
+Raw: 3390	Voltage: 2786.000000V
+Tempo 0.000802	:
+Raw: 3845	Voltage: 3020.000000V
+Tempo 0.000802	:
+Raw: 2842	Voltage: 2417.000000V
+Tempo 0.000802	:
+Raw: 2643	Voltage: 2258.000000V
+Tensão RMS: 2616.112061V
+Corrente RMS: 5.793300I
+neg: 0	pos: 260
+Energia consumida: 54.671165Wh
+Custo R$: 0.000314
+
+
+
+Tempo 0.000814	:
+Raw: 2480	Voltage: 2127.000000V
+Tempo 0.000811	:
+Raw: 3351	Voltage: 2762.000000V
+Tempo 0.000802	:
+Raw: 3867	Voltage: 3030.000000V
+Tempo 0.000802	:
+Raw: 2880	Voltage: 2447.000000V
+Tempo 0.000802	:
+Raw: 2625	Voltage: 2243.000000V
+Tempo 0.000802	:
+Raw: 3592	Voltage: 2897.000000V
+Tempo 0.000802	:
+Raw: 3698	Voltage: 2950.000000V
+Tempo 0.000786	:
+Raw: 2540	Voltage: 2175.000000V
+Tempo 0.000774	:
+Raw: 2746	Voltage: 2340.000000V
+Tempo 0.000774	:
+Raw: 3765	Voltage: 2982.000000V
+Tempo 0.000850	:
+Raw: 3210	Voltage: 2673.000000V
+Tempo 0.000798	:
+Raw: 2537	Voltage: 2173.000000V
+Tempo 0.000798	:
+Raw: 3006	Voltage: 2533.000000V
+Tempo 0.000798	:
+Raw: 3953	Voltage: 3068.000000V
+Tempo 0.000798	:
+Raw: 3180	Voltage: 2653.000000V
+Tempo 0.000798	:
+Raw: 2529	Voltage: 2166.000000V
+Tempo 0.000798	:
+Raw: 3270	Voltage: 2712.000000V
+Tempo 0.000798	:
+Raw: 3891	Voltage: 3040.000000V
+Tempo 0.000798	:
+Raw: 2932	Voltage: 2480.000000V
+Tempo 0.000806	:
+Raw: 2598	Voltage: 2222.000000V
+Tensão RMS: 2604.380371V
+Corrente RMS: 5.793300I
+neg: 0	pos: 280
+Energia consumida: 58.828777Wh
+Custo R$: 0.000362
+
+
+
+Tempo 0.000810	:
+Raw: 2492	Voltage: 2137.000000V
+Tempo 0.000806	:
+Raw: 3231	Voltage: 2686.000000V
+Tempo 0.000798	:
+Raw: 3913	Voltage: 3050.000000V
+Tempo 0.000798	:
+Raw: 2971	Voltage: 2507.000000V
+Tempo 0.000798	:
+Raw: 2590	Voltage: 2215.000000V
+Tempo 0.000798	:
+Raw: 3487	Voltage: 2841.000000V
+Tempo 0.000798	:
+Raw: 3783	Voltage: 2990.000000V
+Tempo 0.000798	:
+Raw: 2770	Voltage: 2359.000000V
+Tempo 0.000786	:
+Raw: 2673	Voltage: 2282.000000V
+Tempo 0.000774	:
+Raw: 3673	Voltage: 2937.000000V
+Tempo 0.000782	:
+Raw: 3521	Voltage: 2861.000000V
+Tempo 0.000825	:
+Raw: 2538	Voltage: 2174.000000V
+Tempo 0.001538	:
+Raw: 2926	Voltage: 2477.000000V
+Tempo 0.000774	:
+Raw: 3879	Voltage: 3035.000000V
+Tempo 0.000802	:
+Raw: 3276	Voltage: 2715.000000V
+Tempo 0.000798	:
+Raw: 2517	Voltage: 2157.000000V
+Tempo 0.000798	:
+Raw: 3145	Voltage: 2629.000000V
+Tempo 0.000798	:
+Raw: 3944	Voltage: 3064.000000V
+Tempo 0.000798	:
+Raw: 3033	Voltage: 2552.000000V
+Tempo 0.001020	:
+Raw: 2562	Voltage: 2193.000000V
+Tensão RMS: 2613.319824V
+Corrente RMS: 5.793300I
+neg: 0	pos: 300
+Energia consumida: 63.001488Wh
+Custo R$: 0.000413
+
+
+
+Tempo 0.000810	:
+Raw: 2536	Voltage: 2172.000000V
+Tempo 0.000798	:
+Raw: 3116	Voltage: 2609.000000V
+Tempo 0.000798	:
+Raw: 3930	Voltage: 3058.000000V
+Tempo 0.000798	:
+Raw: 3086	Voltage: 2589.000000V
+Tempo 0.000798	:
+Raw: 2555	Voltage: 2187.000000V
+Tempo 0.000798	:
+Raw: 3386	Voltage: 2783.000000V
+Tempo 0.000798	:
+Raw: 3850	Voltage: 3022.000000V
+Tempo 0.000798	:
+Raw: 2860	Voltage: 2431.000000V
+Tempo 0.001717	:
+Raw: 2664	Voltage: 2275.000000V
+Tempo 0.000782	:
+Raw: 3593	Voltage: 2898.000000V
+Tempo 0.000778	:
+Raw: 3626	Voltage: 2914.000000V
+Tempo 0.000854	:
+Raw: 2549	Voltage: 2182.000000V
+Tempo 0.000798	:
+Raw: 2806	Voltage: 2388.000000V
+Tempo 0.000798	:
+Raw: 3859	Voltage: 3026.000000V
+Tempo 0.000798	:
+Raw: 3421	Voltage: 2804.000000V
+Tempo 0.000798	:
+Raw: 2535	Voltage: 2171.000000V
+Tempo 0.000798	:
+Raw: 3050	Voltage: 2564.000000V
+Tempo 0.000806	:
+Raw: 3961	Voltage: 3071.000000V
+Tempo 0.000799	:
+Raw: 3148	Voltage: 2631.000000V
+Tempo 0.000798	:
+Raw: 2541	Voltage: 2176.000000V
+Tensão RMS: 2617.945068V
+Corrente RMS: 5.793300I
+neg: 0	pos: 320
+Energia consumida: 67.181442Wh
+Custo R$: 0.000468
+
+
+
+Tempo 0.000810	:
+Raw: 2595	Voltage: 2219.000000V
+Tempo 0.000798	:
+Raw: 3005	Voltage: 2533.000000V
+Tempo 0.000798	:
+Raw: 3975	Voltage: 3077.000000V
+Tempo 0.000798	:
+Raw: 3192	Voltage: 2661.000000V
+Tempo 0.000798	:
+Raw: 2541	Voltage: 2176.000000V
+Tempo 0.000798	:
+Raw: 3271	Voltage: 2712.000000V
+Tempo 0.000798	:
+Raw: 3915	Voltage: 3051.000000V
+Tempo 0.000798	:
+Raw: 2939	Voltage: 2484.000000V
+Tempo 0.000806	:
+Raw: 2598	Voltage: 2222.000000V
+Tempo 0.000782	:
+Raw: 3652	Voltage: 2927.000000V
+Tempo 0.000774	:
+Raw: 3729	Voltage: 2965.000000V
+Tempo 0.000774	:
+Raw: 2710	Voltage: 2311.000000V
+Tempo 0.000830	:
+Raw: 2742	Voltage: 2337.000000V
+Tempo 0.000774	:
+Raw: 3701	Voltage: 2951.000000V
+Tempo 0.000801	:
+Raw: 3463	Voltage: 2828.000000V
+Tempo 0.000802	:
+Raw: 2575	Voltage: 2203.000000V
+Tempo 0.000798	:
+Raw: 2935	Voltage: 2482.000000V
+Tempo 0.000806	:
+Raw: 3946	Voltage: 3065.000000V
+Tempo 0.000798	:
+Raw: 3264	Voltage: 2708.000000V
+Tempo 0.000798	:
+Raw: 2519	Voltage: 2158.000000V
+Tensão RMS: 2623.544922V
+Corrente RMS: 5.793300I
+neg: 0	pos: 340
+Energia consumida: 71.370972Wh
+Custo R$: 0.000527
+
+
+
+Tempo 0.000810	:
+Raw: 2652	Voltage: 2265.000000V
+Tempo 0.000798	:
+Raw: 2901	Voltage: 2461.000000V
+Tempo 0.000798	:
+Raw: 3921	Voltage: 3054.000000V
+Tempo 0.000798	:
+Raw: 3310	Voltage: 2737.000000V
+Tempo 0.000798	:
+Raw: 2525	Voltage: 2163.000000V
+Tempo 0.000798	:
+Raw: 3155	Voltage: 2636.000000V
+Tempo 0.000798	:
+Raw: 3954	Voltage: 3068.000000V
+Tempo 0.000798	:
+Raw: 3046	Voltage: 2561.000000V
+Tempo 0.000807	:
+Raw: 2569	Voltage: 2199.000000V
+Tempo 0.000798	:
+Raw: 3420	Voltage: 2803.000000V
+Tempo 0.000786	:
+Raw: 3762	Voltage: 2981.000000V
+Tempo 0.000774	:
+Raw: 2788	Voltage: 2374.000000V
+Tempo 0.000774	:
+Raw: 2612	Voltage: 2233.000000V
+Tempo 0.000774	:
+Raw: 3592	Voltage: 2897.000000V
+Tempo 0.000854	:
+Raw: 3191	Voltage: 2660.000000V
+Tempo 0.000802	:
+Raw: 2615	Voltage: 2235.000000V
+Tempo 0.000802	:
+Raw: 2833	Voltage: 2410.000000V
+Tempo 0.000802	:
+Raw: 3876	Voltage: 3034.000000V
+Tempo 0.000802	:
+Raw: 3382	Voltage: 2781.000000V
+Tempo 0.000802	:
+Raw: 2532	Voltage: 2169.000000V
+Tensão RMS: 2604.989258V
+Corrente RMS: 5.793300I
+neg: 0	pos: 360
+Energia consumida: 75.532433Wh
+Custo R$: 0.000589
+
+
+
+Tempo 0.000814	:
+Raw: 2729	Voltage: 2327.000000V
+Tempo 0.000802	:
+Raw: 2810	Voltage: 2391.000000V
+Tempo 0.000802	:
+Raw: 3846	Voltage: 3020.000000V
+Tempo 0.000802	:
+Raw: 3429	Voltage: 2808.000000V
+Tempo 0.000802	:
+Raw: 2547	Voltage: 2181.000000V
+Tempo 0.000802	:
+Raw: 3043	Voltage: 2559.000000V
+Tempo 0.000810	:
+Raw: 3957	Voltage: 3070.000000V
+Tempo 0.000802	:
+Raw: 3155	Voltage: 2636.000000V
+Tempo 0.000802	:
+Raw: 2536	Voltage: 2172.000000V
+Tempo 0.000802	:
+Raw: 3305	Voltage: 2734.000000V
+Tempo 0.001637	:
+Raw: 3729	Voltage: 2965.000000V
+Tempo 0.000778	:
+Raw: 2856	Voltage: 2428.000000V
+Tempo 0.000774	:
+Raw: 2565	Voltage: 2195.000000V
+Tempo 0.000774	:
+Raw: 3488	Voltage: 2842.000000V
+Tempo 0.000825	:
+Raw: 3629	Voltage: 2916.000000V
+Tempo 0.000782	:
+Raw: 2680	Voltage: 2287.000000V
+Tempo 0.000774	:
+Raw: 2701	Voltage: 2304.000000V
+Tempo 0.000774	:
+Raw: 3729	Voltage: 2965.000000V
+Tempo 0.000774	:
+Raw: 3443	Voltage: 2816.000000V
+Tempo 0.000840	:
+Raw: 2520	Voltage: 2159.000000V
+Tensão RMS: 2607.811768V
+Corrente RMS: 5.793300I
+neg: 0	pos: 380
+Energia consumida: 79.698265Wh
+Custo R$: 0.000654
+
+
+
+Tempo 0.000778	:
+Raw: 2779	Voltage: 2367.000000V
+Tempo 0.000774	:
+Raw: 2669	Voltage: 2279.000000V
+Tempo 0.000774	:
+Raw: 3690	Voltage: 2946.000000V
+Tempo 0.000774	:
+Raw: 3487	Voltage: 2841.000000V
+Tempo 0.000774	:
+Raw: 2544	Voltage: 2178.000000V
+Tempo 0.000774	:
+Raw: 2869	Voltage: 2439.000000V
+Tempo 0.000781	:
+Raw: 3875	Voltage: 3033.000000V
+Tempo 0.000841	:
+Raw: 3221	Voltage: 2680.000000V
+Tempo 0.000774	:
+Raw: 2476	Voltage: 2124.000000V
+Tempo 0.000774	:
+Raw: 3122	Voltage: 2613.000000V
+Tempo 0.000774	:
+Raw: 3866	Voltage: 3029.000000V
+Tempo 0.000782	:
+Raw: 2954	Voltage: 2495.000000V
+Tempo 0.000774	:
+Raw: 2526	Voltage: 2164.000000V
+Tempo 0.000774	:
+Raw: 3393	Voltage: 2787.000000V
+Tempo 0.000854	:
+Raw: 3464	Voltage: 2828.000000V
+Tempo 0.000810	:
+Raw: 2780	Voltage: 2367.000000V
+Tempo 0.000802	:
+Raw: 2665	Voltage: 2275.000000V
+Tempo 0.000802	:
+Raw: 3663	Voltage: 2932.000000V
+Tempo 0.000802	:
+Raw: 3595	Voltage: 2899.000000V
+Tempo 0.000802	:
+Raw: 2629	Voltage: 2247.000000V
+Tensão RMS: 2594.567627V
+Corrente RMS: 5.793300I
+neg: 0	pos: 400
+Energia consumida: 83.843750Wh
+Custo R$: 0.000722
+
+
+
+Tempo 0.000860	:
+Raw: 2853	Voltage: 2426.000000V
+Tempo 0.000778	:
+Raw: 2607	Voltage: 2229.000000V
+Tempo 0.000778	:
+Raw: 3581	Voltage: 2892.000000V
+Tempo 0.000778	:
+Raw: 3602	Voltage: 2902.000000V
+Tempo 0.000778	:
+Raw: 2617	Voltage: 2237.000000V
+Tempo 0.000778	:
+Raw: 2780	Voltage: 2367.000000V
+Tempo 0.000778	:
+Raw: 3800	Voltage: 2999.000000V
+Tempo 0.000778	:
+Raw: 3346	Voltage: 2759.000000V
+Tempo 0.000778	:
+Raw: 2499	Voltage: 2142.000000V
+Tempo 0.000778	:
+Raw: 3013	Voltage: 2538.000000V
+Tempo 0.001728	:
+Raw: 3867	Voltage: 3030.000000V
+Tempo 0.000781	:
+Raw: 3061	Voltage: 2572.000000V
+Tempo 0.000778	:
+Raw: 2501	Voltage: 2144.000000V
+Tempo 0.000774	:
+Raw: 3281	Voltage: 2719.000000V
+Tempo 0.000774	:
+Raw: 3803	Voltage: 3000.000000V
+Tempo 0.000854	:
+Raw: 2819	Voltage: 2399.000000V
+Tempo 0.000802	:
+Raw: 2612	Voltage: 2233.000000V
+Tempo 0.000798	:
+Raw: 3577	Voltage: 2889.000000V
+Tempo 0.000798	:
+Raw: 3705	Voltage: 2953.000000V
+Tempo 0.000798	:
+Raw: 2699	Voltage: 2303.000000V
+Tensão RMS: 2605.564453V
+Corrente RMS: 5.793300I
+neg: 0	pos: 420
+Energia consumida: 88.006165Wh
+Custo R$: 0.000794
+
+
+
+Tempo 0.000810	:
+Raw: 3035	Voltage: 2554.000000V
+Tempo 0.000798	:
+Raw: 2608	Voltage: 2230.000000V
+Tempo 0.000798	:
+Raw: 3544	Voltage: 2872.000000V
+Tempo 0.000798	:
+Raw: 3743	Voltage: 2972.000000V
+Tempo 0.000806	:
+Raw: 2721	Voltage: 2320.000000V
+Tempo 0.000798	:
+Raw: 2745	Voltage: 2339.000000V
+Tempo 0.000798	:
+Raw: 3783	Voltage: 2990.000000V
+Tempo 0.000798	:
+Raw: 3509	Voltage: 2854.000000V
+Tempo 0.000798	:
+Raw: 2583	Voltage: 2210.000000V
+Tempo 0.000798	:
+Raw: 2958	Voltage: 2498.000000V
+Tempo 0.000798	:
+Raw: 3959	Voltage: 3070.000000V
+Tempo 0.000798	:
+Raw: 3235	Voltage: 2689.000000V
+Tempo 0.000790	:
+Raw: 2569	Voltage: 2199.000000V
+Tempo 0.000786	:
+Raw: 3173	Voltage: 2648.000000V
+Tempo 0.000778	:
+Raw: 3872	Voltage: 3032.000000V
+Tempo 0.000778	:
+Raw: 2959	Voltage: 2498.000000V
+Tempo 0.000883	:
+Raw: 2690	Voltage: 2295.000000V
+Tempo 0.000786	:
+Raw: 3453	Voltage: 2822.000000V
+Tempo 0.000805	:
+Raw: 3744	Voltage: 2972.000000V
+Tempo 0.000814	:
+Raw: 2686	Voltage: 2292.000000V
+Tensão RMS: 2635.267822V
+Corrente RMS: 5.793300I
+neg: 0	pos: 440
+Energia consumida: 92.218735Wh
+Custo R$: 0.000870
+
+
+
+Tempo 0.000814	:
+Raw: 3141	Voltage: 2626.000000V
+Tempo 0.000802	:
+Raw: 2576	Voltage: 2204.000000V
+Tempo 0.000802	:
+Raw: 3444	Voltage: 2817.000000V
+Tempo 0.000808	:
+Raw: 3820	Voltage: 3008.000000V
+Tempo 0.000810	:
+Raw: 2813	Voltage: 2394.000000V
+Tempo 0.000802	:
+Raw: 2665	Voltage: 2275.000000V
+Tempo 0.000802	:
+Raw: 3673	Voltage: 2937.000000V
+Tempo 0.000802	:
+Raw: 3621	Voltage: 2912.000000V
+Tempo 0.000802	:
+Raw: 2642	Voltage: 2257.000000V
+Tempo 0.000802	:
+Raw: 2865	Voltage: 2435.000000V
+Tempo 0.000802	:
+Raw: 3905	Voltage: 3047.000000V
+Tempo 0.000802	:
+Raw: 3358	Voltage: 2766.000000V
+Tempo 0.000803	:
+Raw: 2534	Voltage: 2170.000000V
+Tempo 0.000793	:
+Raw: 3072	Voltage: 2579.000000V
+Tempo 0.000774	:
+Raw: 3909	Voltage: 3048.000000V
+Tempo 0.000774	:
+Raw: 3060	Voltage: 2571.000000V
+Tempo 0.000774	:
+Raw: 2516	Voltage: 2156.000000V
+Tempo 0.000825	:
+Raw: 3375	Voltage: 2777.000000V
+Tempo 0.000778	:
+Raw: 3809	Voltage: 3003.000000V
+Tempo 0.000774	:
+Raw: 2829	Voltage: 2407.000000V
+Tensão RMS: 2637.613037V
+Corrente RMS: 5.793300I
+neg: 0	pos: 460
+Energia consumida: 96.433945Wh
+Custo R$: 0.000948
+
+
+
+Tempo 0.000778	:
+Raw: 3243	Voltage: 2694.000000V
+Tempo 0.000774	:
+Raw: 2509	Voltage: 2150.000000V
+Tempo 0.000774	:
+Raw: 3267	Voltage: 2710.000000V
+Tempo 0.000774	:
+Raw: 3820	Voltage: 3008.000000V
+Tempo 0.000774	:
+Raw: 2853	Voltage: 2426.000000V
+Tempo 0.000774	:
+Raw: 2568	Voltage: 2198.000000V
+Tempo 0.000774	:
+Raw: 3507	Voltage: 2853.000000V
+Tempo 0.000774	:
+Raw: 3671	Voltage: 2936.000000V
+Tempo 0.000774	:
+Raw: 2665	Voltage: 2275.000000V
+Tempo 0.000774	:
+Raw: 2716	Voltage: 2316.000000V
+Tempo 0.000774	:
+Raw: 3751	Voltage: 2975.000000V
+Tempo 0.000783	:
+Raw: 3431	Voltage: 2809.000000V
+Tempo 0.000779	:
+Raw: 2523	Voltage: 2162.000000V
+Tempo 0.001173	:
+Raw: 2939	Voltage: 2484.000000V
+Tempo 0.000778	:
+Raw: 3888	Voltage: 3039.000000V
+Tempo 0.000778	:
+Raw: 3167	Voltage: 2644.000000V
+Tempo 0.002217	:
+Raw: 2580	Voltage: 2207.000000V
+Tempo 0.000782	:
+Raw: 3255	Voltage: 2702.000000V
+Tempo 0.000802	:
+Raw: 3910	Voltage: 3049.000000V
+Tempo 0.000798	:
+Raw: 2953	Voltage: 2494.000000V
+Tensão RMS: 2624.767822V
+Corrente RMS: 5.793300I
+neg: 0	pos: 480
+Energia consumida: 100.628403Wh
+Custo R$: 0.001031
+
+
+
+Tempo 0.000810	:
+Raw: 3377	Voltage: 2778.000000V
+Tempo 0.000798	:
+Raw: 2537	Voltage: 2173.000000V
+Tempo 0.000806	:
+Raw: 3234	Voltage: 2688.000000V
+Tempo 0.000798	:
+Raw: 3924	Voltage: 3055.000000V
+Tempo 0.000798	:
+Raw: 2973	Voltage: 2509.000000V
+Tempo 0.000798	:
+Raw: 2582	Voltage: 2209.000000V
+Tempo 0.000798	:
+Raw: 3488	Voltage: 2842.000000V
+Tempo 0.000798	:
+Raw: 3793	Voltage: 2995.000000V
+Tempo 0.000798	:
+Raw: 2776	Voltage: 2364.000000V
+Tempo 0.000798	:
+Raw: 2702	Voltage: 2305.000000V
+Tempo 0.000798	:
+Raw: 3736	Voltage: 2968.000000V
+Tempo 0.000806	:
+Raw: 3565	Voltage: 2883.000000V
+Tempo 0.000798	:
+Raw: 2614	Voltage: 2235.000000V
+Tempo 0.000798	:
+Raw: 2904	Voltage: 2463.000000V
+Tempo 0.000781	:
+Raw: 3895	Voltage: 3042.000000V
+Tempo 0.000774	:
+Raw: 3257	Voltage: 2703.000000V
+Tempo 0.000774	:
+Raw: 2488	Voltage: 2134.000000V
+Tempo 0.000774	:
+Raw: 3099	Voltage: 2598.000000V
+Tempo 0.000829	:
+Raw: 3855	Voltage: 3024.000000V
+Tempo 0.000774	:
+Raw: 3001	Voltage: 2530.000000V
+Tensão RMS: 2643.029785V
+Corrente RMS: 5.793300I
+neg: 0	pos: 500
+Energia consumida: 104.852371Wh
+Custo R$: 0.001116
+
+
+
+[0;32mI (9082) espressif: Writing 0[0m
+[0;32mI (9092) espressif: Writing 1[0m
+[0;32mI (9092) espressif: Writing 2[0m
+[0;32mI (9102) espressif: Writing 3[0m
+[0;32mI (9102) espressif: Writing 4[0m
+[0;32mI (9102) espressif: Writing 5[0m
+[0;32mI (9112) espressif: Writing 6[0m
+[0;32mI (9112) espressif: Writing 7[0m
+[0;32mI (9112) espressif: Writing 8[0m
+[0;32mI (9122) espressif: Writing 9[0m
+[0;32mI (9122) espressif: Writing 10[0m
+[0;32mI (9122) espressif: Writing 11[0m
+[0;32mI (9132) espressif: Writing 12[0m
+[0;32mI (9132) espressif: Writing 13[0m
+[0;32mI (9142) espressif: Writing 14[0m
+[0;32mI (9142) espressif: Writing 15[0m
+[0;32mI (9142) espressif: Writing 16[0m
+[0;32mI (9152) espressif: Writing 17[0m
+[0;32mI (9152) espressif: Writing 18[0m
+[0;32mI (9152) espressif: Writing 19[0m
+[0;32mI (9162) espressif: Writing 20[0m
+[0;32mI (9162) espressif: Writing 21[0m
+[0;32mI (9172) espressif: Writing 22[0m
+[0;32mI (9172) espressif: Writing 23[0m
+[0;32mI (9172) espressif: Writing 24[0m
+[0;32mI (9182) espressif: Writing 25[0m
+[0;32mI (9182) espressif: Writing 26[0m
+[0;32mI (9182) espressif: Writing 27[0m
+[0;32mI (9192) espressif: Writing 28[0m
+[0;32mI (9192) espressif: Writing 29[0m
+[0;32mI (9202) espressif: Writing 30[0m
+[0;32mI (9202) espressif: Writing 31[0m
+[0;32mI (9202) espressif: Writing 32[0m
+[0;32mI (9212) espressif: Writing 33[0m
+[0;32mI (9212) espressif: Writing 34[0m
+[0;32mI (9212) espressif: Writing 35[0m
+[0;32mI (9222) espressif: Writing 36[0m
+[0;32mI (9222) espressif: Writing 37[0m
+[0;32mI (9232) espressif: Writing 38[0m
+[0;32mI (9232) espressif: Writing 39[0m
+[0;32mI (9232) espressif: Writing 40[0m
+[0;32mI (9242) espressif: Writing 41[0m
+[0;32mI (9242) espressif: Writing 42[0m
+[0;32mI (9242) espressif: Writing 43[0m
+[0;32mI (9252) espressif: Writing 44[0m
+[0;32mI (9252) espressif: Writing 45[0m
+[0;32mI (9262) espressif: Writing 46[0m
+[0;32mI (9262) espressif: Writing 47[0m
+[0;32mI (9262) espressif: Writing 48[0m
+[0;32mI (9272) espressif: Writing 49[0m
+[0;32mI (9272) espressif: Writing 50[0m
+[0;32mI (9272) espressif: Writing 51[0m
+[0;32mI (9282) espressif: Writing 52[0m
+[0;32mI (9282) espressif: Writing 53[0m
+[0;32mI (9292) espressif: Writing 54[0m
+[0;32mI (9292) espressif: Writing 55[0m
+[0;32mI (9292) espressif: Writing 56[0m
+[0;32mI (9302) espressif: Writing 57[0m
+[0;32mI (9302) espressif: Writing 58[0m
+[0;32mI (9302) espressif: Writing 59[0m
+[0;32mI (9312) espressif: Writing 60[0m
+[0;32mI (9312) espressif: Writing 61[0m
+[0;32mI (9322) espressif: Writing 62[0m
+[0;32mI (9322) espressif: Writing 63[0m
+[0;32mI (9322) espressif: Writing 64[0m
+[0;32mI (9332) espressif: Writing 65[0m
+[0;32mI (9332) espressif: Writing 66[0m
+[0;32mI (9332) espressif: Writing 67[0m
+[0;32mI (9342) espressif: Writing 68[0m
+[0;32mI (9342) espressif: Writing 69[0m
+[0;32mI (9352) espressif: Writing 70[0m
+[0;32mI (9352) espressif: Writing 71[0m
+[0;32mI (9352) espressif: Writing 72[0m
+[0;32mI (9362) espressif: Writing 73[0m
+[0;32mI (9362) espressif: Writing 74[0m
+[0;32mI (9362) espressif: Writing 75[0m
+[0;32mI (9372) espressif: Writing 76[0m
+[0;32mI (9372) espressif: Writing 77[0m
+[0;32mI (9372) espressif: Writing 78[0m
+[0;32mI (9382) espressif: Writing 79[0m
+[0;32mI (9382) espressif: Writing 80[0m
+[0;32mI (9392) espressif: Writing 81[0m
+[0;32mI (9392) espressif: Writing 82[0m
+[0;32mI (9392) espressif: Writing 83[0m
+[0;32mI (9402) espressif: Writing 84[0m
+[0;32mI (9402) espressif: Writing 85[0m
+[0;32mI (9402) espressif: Writing 86[0m
+[0;32mI (9412) espressif: Writing 87[0m
+[0;32mI (9412) espressif: Writing 88[0m
+[0;32mI (9422) espressif: Writing 89[0m
+[0;32mI (9422) espressif: Writing 90[0m
+[0;32mI (9422) espressif: Writing 91[0m
+[0;32mI (9432) espressif: Writing 92[0m
+[0;32mI (9432) espressif: Writing 93[0m
+[0;32mI (9432) espressif: Writing 94[0m
+[0;32mI (9442) espressif: Writing 95[0m
+[0;32mI (9442) espressif: Writing 96[0m
+[0;32mI (9452) espressif: Writing 97[0m
+[0;32mI (9452) espressif: Writing 98[0m
+[0;32mI (9452) espressif: Writing 99[0m
+[0;32mI (9462) espressif: Writing 100[0m
+[0;32mI (9462) espressif: Writing 101[0m
+[0;32mI (9462) espressif: Writing 102[0m
+[0;32mI (9472) espressif: Writing 103[0m
+[0;32mI (9472) espressif: Writing 104[0m
+[0;32mI (9482) espressif: Writing 105[0m
+[0;32mI (9482) espressif: Writing 106[0m
+[0;32mI (9482) espressif: Writing 107[0m
+[0;32mI (9492) espressif: Writing 108[0m
+[0;32mI (9492) espressif: Writing 109[0m
+[0;32mI (9502) espressif: Writing 110[0m
+[0;32mI (9502) espressif: Writing 111[0m
+[0;32mI (9502) espressif: Writing 112[0m
+[0;32mI (9512) espressif: Writing 113[0m
+[0;32mI (9512) espressif: Writing 114[0m
+[0;32mI (9512) espressif: Writing 115[0m
+[0;32mI (9522) espressif: Writing 116[0m
+[0;32mI (9522) espressif: Writing 117[0m
+[0;32mI (9532) espressif: Writing 118[0m
+[0;32mI (9532) espressif: Writing 119[0m
+[0;32mI (9532) espressif: Writing 120[0m
+[0;32mI (9542) espressif: Writing 121[0m
+[0;32mI (9542) espressif: Writing 122[0m
+[0;32mI (9542) espressif: Writing 123[0m
+[0;32mI (9552) espressif: Writing 124[0m
+[0;32mI (9552) espressif: Writing 125[0m
+[0;32mI (9562) espressif: Writing 126[0m
+[0;32mI (9562) espressif: Writing 127[0m
+[0;32mI (9562) espressif: Writing 128[0m
+[0;32mI (9572) espressif: Writing 129[0m
+[0;32mI (9572) espressif: Writing 130[0m
+[0;32mI (9582) espressif: Writing 131[0m
+[0;32mI (9582) espressif: Writing 132[0m
+[0;32mI (9582) espressif: Writing 133[0m
+[0;32mI (9592) espressif: Writing 134[0m
+[0;32mI (9592) espressif: Writing 135[0m
+[0;32mI (9592) espressif: Writing 136[0m
+[0;32mI (9602) espressif: Writing 137[0m
+[0;32mI (9602) espressif: Writing 138[0m
+[0;32mI (9612) espressif: Writing 139[0m
+[0;32mI (9612) espressif: Writing 140[0m
+[0;32mI (9612) espressif: Writing 141[0m
+[0;32mI (9622) espressif: Writing 142[0m
+[0;32mI (9622) espressif: Writing 143[0m
+[0;32mI (9632) espressif: Writing 144[0m
+[0;32mI (9632) espressif: Writing 145[0m
+[0;32mI (9632) espressif: Writing 146[0m
+[0;32mI (9642) espressif: Writing 147[0m
+[0;32mI (9642) espressif: Writing 148[0m
+[0;32mI (9642) espressif: Writing 149[0m
+[0;32mI (9652) espressif: Writing 150[0m
+[0;32mI (9652) espressif: Writing 151[0m
+[0;32mI (9662) espressif: Writing 152[0m
+[0;32mI (9662) espressif: Writing 153[0m
+[0;32mI (9662) espressif: Writing 154[0m
+[0;32mI (9672) espressif: Writing 155[0m
+[0;32mI (9672) espressif: Writing 156[0m
+[0;32mI (9672) espressif: Writing 157[0m
+[0;32mI (9682) espressif: Writing 158[0m
+[0;32mI (9682) espressif: Writing 159[0m
+[0;32mI (9692) espressif: Writing 160[0m
+[0;32mI (9692) espressif: Writing 161[0m
+[0;32mI (9692) espressif: Writing 162[0m
+[0;32mI (9702) espressif: Writing 163[0m
+[0;32mI (9702) espressif: Writing 164[0m
+[0;32mI (9712) espressif: Writing 165[0m
+[0;32mI (9712) espressif: Writing 166[0m
+[0;32mI (9712) espressif: Writing 167[0m
+[0;32mI (9722) espressif: Writing 168[0m
+[0;32mI (9722) espressif: Writing 169[0m
+[0;32mI (9722) espressif: Writing 170[0m
+[0;32mI (9732) espressif: Writing 171[0m
+[0;32mI (9732) espressif: Writing 172[0m
+[0;32mI (9742) espressif: Writing 173[0m
+[0;32mI (9742) espressif: Writing 174[0m
+[0;32mI (9742) espressif: Writing 175[0m
+[0;32mI (9752) espressif: Writing 176[0m
+[0;32mI (9752) espressif: Writing 177[0m
+[0;32mI (9752) espressif: Writing 178[0m
+[0;32mI (9762) espressif: Writing 179[0m
+[0;32mI (9762) espressif: Writing 180[0m
+[0;32mI (9772) espressif: Writing 181[0m
+[0;32mI (9772) espressif: Writing 182[0m
+[0;32mI (9772) espressif: Writing 183[0m
+[0;32mI (9782) espressif: Writing 184[0m
+[0;32mI (9782) espressif: Writing 185[0m
+[0;32mI (9792) espressif: Writing 186[0m
+[0;32mI (9792) espressif: Writing 187[0m
+[0;32mI (9792) espressif: Writing 188[0m
+[0;32mI (9802) espressif: Writing 189[0m
+[0;32mI (9802) espressif: Writing 190[0m
+[0;32mI (9802) espressif: Writing 191[0m
+[0;32mI (9812) espressif: Writing 192[0m
+[0;32mI (9812) espressif: Writing 193[0m
+[0;32mI (9822) espressif: Writing 194[0m
+[0;32mI (9822) espressif: Writing 195[0m
+[0;32mI (9822) espressif: Writing 196[0m
+[0;32mI (9832) espressif: Writing 197[0m
+[0;32mI (9832) espressif: Writing 198[0m
+[0;32mI (9842) espressif: Writing 199[0m
+[0;32mI (9842) espressif: Writing 200[0m
+[0;32mI (9842) espressif: Writing 201[0m
+[0;32mI (9852) espressif: Writing 202[0m
+[0;32mI (9852) espressif: Writing 203[0m
+[0;32mI (9852) espressif: Writing 204[0m
+[0;32mI (9862) espressif: Writing 205[0m
+[0;32mI (9862) espressif: Writing 206[0m
+[0;32mI (9872) espressif: Writing 207[0m
+[0;32mI (9872) espressif: Writing 208[0m
+[0;32mI (9872) espressif: Writing 209[0m
+[0;32mI (9882) espressif: Writing 210[0m
+[0;32mI (9882) espressif: Writing 211[0m
+[0;32mI (9882) espressif: Writing 212[0m
+[0;32mI (9892) espressif: Writing 213[0m
+[0;32mI (9892) espressif: Writing 214[0m
+[0;32mI (9902) espressif: Writing 215[0m
+[0;32mI (9902) espressif: Writing 216[0m
+[0;32mI (9902) espressif: Writing 217[0m
+[0;32mI (9912) espressif: Writing 218[0m
+[0;32mI (9912) espressif: Writing 219[0m
+[0;32mI (9922) espressif: Writing 220[0m
+[0;32mI (9922) espressif: Writing 221[0m
+[0;32mI (9922) espressif: Writing 222[0m
+[0;32mI (9932) espressif: Writing 223[0m
+[0;32mI (9932) espressif: Writing 224[0m
+[0;32mI (9932) espressif: Writing 225[0m
+[0;32mI (9942) espressif: Writing 226[0m
+[0;32mI (9942) espressif: Writing 227[0m
+[0;32mI (9952) espressif: Writing 228[0m
+[0;32mI (9952) espressif: Writing 229[0m
+[0;32mI (9952) espressif: Writing 230[0m
+[0;32mI (9962) espressif: Writing 231[0m
+[0;32mI (9962) espressif: Writing 232[0m
+[0;32mI (9972) espressif: Writing 233[0m
+[0;32mI (9972) espressif: Writing 234[0m
+[0;32mI (9972) espressif: Writing 235[0m
+[0;32mI (9982) espressif: Writing 236[0m
+[0;32mI (9982) espressif: Writing 237[0m
+[0;32mI (9982) espressif: Writing 238[0m
+[0;32mI (9992) espressif: Writing 239[0m
+[0;32mI (9992) espressif: Writing 240[0m
+[0;32mI (10002) espressif: Writing 241[0m
+[0;32mI (10002) espressif: Writing 242[0m
+[0;32mI (10002) espressif: Writing 243[0m
+[0;32mI (10012) espressif: Writing 244[0m
+[0;32mI (10012) espressif: Writing 245[0m
+[0;32mI (10022) espressif: Writing 246[0m
+[0;32mI (10022) espressif: Writing 247[0m
+[0;32mI (10022) espressif: Writing 248[0m
+[0;32mI (10032) espressif: Writing 249[0m
+[0;32mI (10032) espressif: Writing 250[0m
+[0;32mI (10032) espressif: Writing 251[0m
+[0;32mI (10042) espressif: Writing 252[0m
+[0;32mI (10042) espressif: Writing 253[0m
+[0;32mI (10052) espressif: Writing 254[0m
+[0;32mI (10052) espressif: Writing 255[0m
+[0;32mI (10052) espressif: Writing 256[0m
+[0;32mI (10062) espressif: Writing 257[0m
+[0;32mI (10062) espressif: Writing 258[0m
+[0;32mI (10072) espressif: Writing 259[0m
+[0;32mI (10072) espressif: Writing 260[0m
+[0;32mI (10072) espressif: Writing 261[0m
+[0;32mI (10082) espressif: Writing 262[0m
+[0;32mI (10082) espressif: Writing 263[0m
+[0;32mI (10092) espressif: Writing 264[0m
+[0;32mI (10092) espressif: Writing 265[0m
+[0;32mI (10092) espressif: Writing 266[0m
+[0;32mI (10102) espressif: Writing 267[0m
+[0;32mI (10102) espressif: Writing 268[0m
+[0;32mI (10102) espressif: Writing 269[0m
+[0;32mI (10112) espressif: Writing 270[0m
+[0;32mI (10112) espressif: Writing 271[0m
+[0;32mI (10122) espressif: Writing 272[0m
+[0;32mI (10122) espressif: Writing 273[0m
+[0;32mI (10122) espressif: Writing 274[0m
+[0;32mI (10132) espressif: Writing 275[0m
+[0;32mI (10132) espressif: Writing 276[0m
+[0;32mI (10142) espressif: Writing 277[0m
+[0;32mI (10142) espressif: Writing 278[0m
+[0;32mI (10142) espressif: Writing 279[0m
+[0;32mI (10152) espressif: Writing 280[0m
+[0;32mI (10152) espressif: Writing 281[0m
+[0;32mI (10162) espressif: Writing 282[0m
+[0;32mI (10162) espressif: Writing 283[0m
+[0;32mI (10162) espressif: Writing 284[0m
+[0;32mI (10172) espressif: Writing 285[0m
+[0;32mI (10172) espressif: Writing 286[0m
+[0;32mI (10182) espressif: Writing 287[0m
+[0;32mI (10182) espressif: Writing 288[0m
+[0;32mI (10182) espressif: Writing 289[0m
+[0;32mI (10192) espressif: Writing 290[0m
+[0;32mI (10192) espressif: Writing 291[0m
+[0;32mI (10192) espressif: Writing 292[0m
+[0;32mI (10202) espressif: Writing 293[0m
+[0;32mI (10202) espressif: Writing 294[0m
+[0;32mI (10212) espressif: Writing 295[0m
+[0;32mI (10212) espressif: Writing 296[0m
+[0;32mI (10212) espressif: Writing 297[0m
+[0;32mI (10222) espressif: Writing 298[0m
+[0;32mI (10222) espressif: Writing 299[0m
+[0;32mI (10232) espressif: Writing 300[0m
+[0;32mI (10232) espressif: Writing 301[0m
+[0;32mI (10232) espressif: Writing 302[0m
+[0;32mI (10242) espressif: Writing 303[0m
+[0;32mI (10242) espressif: Writing 304[0m
+[0;32mI (10252) espressif: Writing 305[0m
+[0;32mI (10252) espressif: Writing 306[0m
+[0;32mI (10252) espressif: Writing 307[0m
+[0;32mI (10262) espressif: Writing 308[0m
+[0;32mI (10262) espressif: Writing 309[0m
+[0;32mI (10272) espressif: Writing 310[0m
+[0;32mI (10272) espressif: Writing 311[0m
+[0;32mI (10272) espressif: Writing 312[0m
+[0;32mI (10282) espressif: Writing 313[0m
+[0;32mI (10282) espressif: Writing 314[0m
+[0;32mI (10282) espressif: Writing 315[0m
+[0;32mI (10292) espressif: Writing 316[0m
+[0;32mI (10292) espressif: Writing 317[0m
+[0;32mI (10302) espressif: Writing 318[0m
+[0;32mI (10302) espressif: Writing 319[0m
+[0;32mI (10302) espressif: Writing 320[0m
+[0;32mI (10312) espressif: Writing 321[0m
+[0;32mI (10312) espressif: Writing 322[0m
+[0;32mI (10322) espressif: Writing 323[0m
+[0;32mI (10322) espressif: Writing 324[0m
+[0;32mI (10322) espressif: Writing 325[0m
+[0;32mI (10332) espressif: Writing 326[0m
+[0;32mI (10332) espressif: Writing 327[0m
+[0;32mI (10342) espressif: Writing 328[0m
+[0;32mI (10342) espressif: Writing 329[0m
+[0;32mI (10342) espressif: Writing 330[0m
+[0;32mI (10352) espressif: Writing 331[0m
+[0;32mI (10352) espressif: Writing 332[0m
+[0;32mI (10352) espressif: Writing 333[0m
+[0;32mI (10362) espressif: Writing 334[0m
+[0;32mI (10362) espressif: Writing 335[0m
+[0;32mI (10372) espressif: Writing 336[0m
+[0;32mI (10372) espressif: Writing 337[0m
+[0;32mI (10372) espressif: Writing 338[0m
+[0;32mI (10382) espressif: Writing 339[0m
+[0;32mI (10382) espressif: Writing 340[0m
+[0;32mI (10392) espressif: Writing 341[0m
+[0;32mI (10392) espressif: Writing 342[0m
+[0;32mI (10392) espressif: Writing 343[0m
+[0;32mI (10402) espressif: Writing 344[0m
+[0;32mI (10402) espressif: Writing 345[0m
+[0;32mI (10412) espressif: Writing 346[0m
+[0;32mI (10412) espressif: Writing 347[0m
+[0;32mI (10412) espressif: Writing 348[0m
+[0;32mI (10422) espressif: Writing 349[0m
+[0;32mI (10422) espressif: Writing 350[0m
+[0;32mI (10432) espressif: Writing 351[0m
+[0;32mI (10432) espressif: Writing 352[0m
+[0;32mI (10432) espressif: Writing 353[0m
+[0;32mI (10442) espressif: Writing 354[0m
+[0;32mI (10442) espressif: Writing 355[0m
+[0;32mI (10442) espressif: Writing 356[0m
+[0;32mI (10452) espressif: Writing 357[0m
+[0;32mI (10452) espressif: Writing 358[0m
+[0;32mI (10462) espressif: Writing 359[0m
+[0;32mI (10462) espressif: Writing 360[0m
+[0;32mI (10462) espressif: Writing 361[0m
+[0;32mI (10472) espressif: Writing 362[0m
+[0;32mI (10472) espressif: Writing 363[0m
+[0;32mI (10482) espressif: Writing 364[0m
+[0;32mI (10482) espressif: Writing 365[0m
+[0;32mI (10482) espressif: Writing 366[0m
+[0;32mI (10492) espressif: Writing 367[0m
+[0;32mI (10492) espressif: Writing 368[0m
+[0;32mI (10502) espressif: Writing 369[0m
+[0;32mI (10502) espressif: Writing 370[0m
+[0;32mI (10502) espressif: Writing 371[0m
+[0;32mI (10512) espressif: Writing 372[0m
+[0;32mI (10512) espressif: Writing 373[0m
+[0;32mI (10522) espressif: Writing 374[0m
+[0;32mI (10522) espressif: Writing 375[0m
+[0;32mI (10522) espressif: Writing 376[0m
+[0;32mI (10532) espressif: Writing 377[0m
+[0;32mI (10532) espressif: Writing 378[0m
+[0;32mI (10532) espressif: Writing 379[0m
+[0;32mI (10542) espressif: Writing 380[0m
+[0;32mI (10542) espressif: Writing 381[0m
+[0;32mI (10552) espressif: Writing 382[0m
+[0;32mI (10552) espressif: Writing 383[0m
+[0;32mI (10552) espressif: Writing 384[0m
+[0;32mI (10562) espressif: Writing 385[0m
+[0;32mI (10562) espressif: Writing 386[0m
+[0;32mI (10572) espressif: Writing 387[0m
+[0;32mI (10572) espressif: Writing 388[0m
+[0;32mI (10572) espressif: Writing 389[0m
+[0;32mI (10582) espressif: Writing 390[0m
+[0;32mI (10582) espressif: Writing 391[0m
+[0;32mI (10592) espressif: Writing 392[0m
+[0;32mI (10592) espressif: Writing 393[0m
+[0;32mI (10592) espressif: Writing 394[0m
+[0;32mI (10602) espressif: Writing 395[0m
+[0;32mI (10602) espressif: Writing 396[0m
+[0;32mI (10602) espressif: Writing 397[0m
+[0;32mI (10612) espressif: Writing 398[0m
+[0;32mI (10612) espressif: Writing 399[0m
+[0;32mI (10622) espressif: Writing 400[0m
+[0;32mI (10622) espressif: Writing 401[0m
+[0;32mI (10622) espressif: Writing 402[0m
+[0;32mI (10632) espressif: Writing 403[0m
+[0;32mI (10632) espressif: Writing 404[0m
+[0;32mI (10642) espressif: Writing 405[0m
+[0;32mI (10642) espressif: Writing 406[0m
+[0;32mI (10642) espressif: Writing 407[0m
+[0;32mI (10652) espressif: Writing 408[0m
+[0;32mI (10652) espressif: Writing 409[0m
+[0;32mI (10662) espressif: Writing 410[0m
+[0;32mI (10662) espressif: Writing 411[0m
+[0;32mI (10662) espressif: Writing 412[0m
+[0;32mI (10672) espressif: Writing 413[0m
+[0;32mI (10672) espressif: Writing 414[0m
+[0;32mI (10682) espressif: Writing 415[0m
+[0;32mI (10682) espressif: Writing 416[0m
+[0;32mI (10682) espressif: Writing 417[0m
+[0;32mI (10692) espressif: Writing 418[0m
+[0;32mI (10692) espressif: Writing 419[0m
+[0;32mI (10692) espressif: Writing 420[0m
+[0;32mI (10702) espressif: Writing 421[0m
+[0;32mI (10702) espressif: Writing 422[0m
+[0;32mI (10712) espressif: Writing 423[0m
+[0;32mI (10712) espressif: Writing 424[0m
+[0;32mI (10712) espressif: Writing 425[0m
+[0;32mI (10722) espressif: Writing 426[0m
+[0;32mI (10722) espressif: Writing 427[0m
+[0;32mI (10732) espressif: Writing 428[0m
+[0;32mI (10732) espressif: Writing 429[0m
+[0;32mI (10732) espressif: Writing 430[0m
+[0;32mI (10742) espressif: Writing 431[0m
+[0;32mI (10742) espressif: Writing 432[0m
+[0;32mI (10752) espressif: Writing 433[0m
+[0;32mI (10752) espressif: Writing 434[0m
+[0;32mI (10752) espressif: Writing 435[0m
+[0;32mI (10762) espressif: Writing 436[0m
+[0;32mI (10762) espressif: Writing 437[0m
+[0;32mI (10772) espressif: Writing 438[0m
+[0;32mI (10772) espressif: Writing 439[0m
+[0;32mI (10772) espressif: Writing 440[0m
+[0;32mI (10782) espressif: Writing 441[0m
+[0;32mI (10782) espressif: Writing 442[0m
+[0;32mI (10782) espressif: Writing 443[0m
+[0;32mI (10792) espressif: Writing 444[0m
+[0;32mI (10792) espressif: Writing 445[0m
+[0;32mI (10802) espressif: Writing 446[0m
+[0;32mI (10802) espressif: Writing 447[0m
+[0;32mI (10802) espressif: Writing 448[0m
+[0;32mI (10812) espressif: Writing 449[0m
+[0;32mI (10812) espressif: Writing 450[0m
+[0;32mI (10822) espressif: Writing 451[0m
+[0;32mI (10822) espressif: Writing 452[0m
+[0;32mI (10822) espressif: Writing 453[0m
+[0;32mI (10832) espressif: Writing 454[0m
+[0;32mI (10832) espressif: Writing 455[0m
+[0;32mI (10842) espressif: Writing 456[0m
+[0;32mI (10842) espressif: Writing 457[0m
+[0;32mI (10842) espressif: Writing 458[0m
+[0;32mI (10852) espressif: Writing 459[0m
+[0;32mI (10852) espressif: Writing 460[0m
+[0;32mI (10852) espressif: Writing 461[0m
+[0;32mI (10862) espressif: Writing 462[0m
+[0;32mI (10862) espressif: Writing 463[0m
+[0;32mI (10872) espressif: Writing 464[0m
+[0;32mI (10872) espressif: Writing 465[0m
+[0;32mI (10872) espressif: Writing 466[0m
+[0;32mI (10882) espressif: Writing 467[0m
+[0;32mI (10882) espressif: Writing 468[0m
+[0;32mI (10892) espressif: Writing 469[0m
+[0;32mI (10892) espressif: Writing 470[0m
+[0;32mI (10892) espressif: Writing 471[0m
+[0;32mI (10902) espressif: Writing 472[0m
+[0;32mI (10902) espressif: Writing 473[0m
+[0;32mI (10912) espressif: Writing 474[0m
+[0;32mI (10912) espressif: Writing 475[0m
+[0;32mI (10912) espressif: Writing 476[0m
+[0;32mI (10922) espressif: Writing 477[0m
+[0;32mI (10922) espressif: Writing 478[0m
+[0;32mI (10932) espressif: Writing 479[0m
+[0;32mI (10932) espressif: Writing 480[0m
+[0;32mI (10932) espressif: Writing 481[0m
+[0;32mI (10942) espressif: Writing 482[0m
+[0;32mI (10942) espressif: Writing 483[0m
+[0;32mI (10942) espressif: Writing 484[0m
+[0;32mI (10952) espressif: Writing 485[0m
+[0;32mI (10952) espressif: Writing 486[0m
+[0;32mI (10962) espressif: Writing 487[0m
+[0;32mI (10962) espressif: Writing 488[0m
+[0;32mI (10962) espressif: Writing 489[0m
+[0;32mI (10972) espressif: Writing 490[0m
+[0;32mI (10972) espressif: Writing 491[0m
+[0;32mI (10982) espressif: Writing 492[0m
+[0;32mI (10982) espressif: Writing 493[0m
+[0;32mI (10982) espressif: Writing 494[0m
+[0;32mI (10992) espressif: Writing 495[0m
+[0;32mI (10992) espressif: Writing 496[0m
+[0;32mI (11002) espressif: Writing 497[0m
+[0;32mI (11002) espressif: Writing 498[0m
+[0;32mI (11002) espressif: Writing 499[0m
+[0;32mI (11012) espressif: Writing 500[0m
+[0;32mI (11012) espressif: Writing 501[0m
+[0;32mI (11022) espressif: Writing 502[0m
+[0;32mI (11022) espressif: Writing 503[0m
+[0;32mI (11022) espressif: Writing 504[0m
+[0;32mI (11032) espressif: Writing 505[0m
+[0;32mI (11032) espressif: Writing 506[0m
+[0;32mI (11032) espressif: Writing 507[0m
+[0;32mI (11042) espressif: Writing 508[0m
+[0;32mI (11042) espressif: Writing 509[0m
+[0;32mI (11052) espressif: Writing 510[0m
+[0;32mI (11052) espressif: Writing 511[0m
+[0;32mI (11052) espressif: Writing 512[0m
+[0;32mI (11062) espressif: Writing 513[0m
+[0;32mI (11062) espressif: Writing 514[0m
+[0;32mI (11072) espressif: Writing 515[0m
+[0;32mI (11072) espressif: Writing 516[0m
+[0;32mI (11072) espressif: Writing 517[0m
+[0;32mI (11082) espressif: Writing 518[0m
+[0;32mI (11082) espressif: Writing 519[0m
+[0;32mI (11092) espressif: Writing 520[0m
+[0;32mI (11092) espressif: Writing 521[0m
+[0;32mI (11092) espressif: Writing 522[0m
+[0;32mI (11102) espressif: Writing 523[0m
+[0;32mI (11102) espressif: Writing 524[0m
+[0;32mI (11102) espressif: Writing 525[0m
+[0;32mI (11112) espressif: Writing 526[0m
+[0;32mI (11112) espressif: Writing 527[0m
+[0;32mI (11122) espressif: Writing 528[0m
+[0;32mI (11122) espressif: Writing 529[0m
+[0;32mI (11122) espressif: Writing 530[0m
+[0;32mI (11132) espressif: Writing 531[0m
+[0;32mI (11132) espressif: Writing 532[0m
+[0;32mI (11142) espressif: Writing 533[0m
+[0;32mI (11142) espressif: Writing 534[0m
+[0;32mI (11142) espressif: Writing 535[0m
+[0;32mI (11152) espressif: Writing 536[0m
+[0;32mI (11152) espressif: Writing 537[0m
+[0;32mI (11162) espressif: Writing 538[0m
+[0;32mI (11162) espressif: Writing 539[0m
+[0;32mI (11162) espressif: Writing 540[0m
+[0;32mI (11172) espressif: Writing 541[0m
+[0;32mI (11172) espressif: Writing 542[0m
+[0;32mI (11182) espressif: Writing 543[0m
+[0;32mI (11182) espressif: Writing 544[0m
+[0;32mI (11182) espressif: Writing 545[0m
+[0;32mI (11192) espressif: Writing 546[0m
+[0;32mI (11192) espressif: Writing 547[0m
+[0;32mI (11192) espressif: Writing 548[0m
+[0;32mI (11202) espressif: Writing 549[0m
+[0;32mI (11202) espressif: Writing 550[0m
+[0;32mI (11212) espressif: Writing 551[0m
+[0;32mI (11212) espressif: Writing 552[0m
+[0;32mI (11212) espressif: Writing 553[0m
+[0;32mI (11222) espressif: Writing 554[0m
+[0;32mI (11222) espressif: Writing 555[0m
+[0;32mI (11232) espressif: Writing 556[0m
+[0;32mI (11232) espressif: Writing 557[0m
+[0;32mI (11232) espressif: Writing 558[0m
+[0;32mI (11242) espressif: Writing 559[0m
+[0;32mI (11242) espressif: Writing 560[0m
+[0;32mI (11252) espressif: Writing 561[0m
+[0;32mI (11252) espressif: Writing 562[0m
+[0;32mI (11252) espressif: Writing 563[0m
+[0;32mI (11262) espressif: Writing 564[0m
+[0;32mI (11262) espressif: Writing 565[0m
+[0;32mI (11272) espressif: Writing 566[0m
+[0;32mI (11272) espressif: Writing 567[0m
+[0;32mI (11272) espressif: Writing 568[0m
+[0;32mI (11282) espressif: Writing 569[0m
+[0;32mI (11282) espressif: Writing 570[0m
+[0;32mI (11282) espressif: Writing 571[0m
+[0;32mI (11292) espressif: Writing 572[0m
+[0;32mI (11292) espressif: Writing 573[0m
+[0;32mI (11302) espressif: Writing 574[0m
+[0;32mI (11302) espressif: Writing 575[0m
+[0;32mI (11302) espressif: Writing 576[0m
+[0;32mI (11312) espressif: Writing 577[0m
+[0;32mI (11312) espressif: Writing 578[0m
+[0;32mI (11322) espressif: Writing 579[0m
+[0;32mI (11322) espressif: Writing 580[0m
+[0;32mI (11322) espressif: Writing 581[0m
+[0;32mI (11332) espressif: Writing 582[0m
+[0;32mI (11332) espressif: Writing 583[0m
+[0;32mI (11342) espressif: Writing 584[0m
+[0;32mI (11342) espressif: Writing 585[0m
+[0;32mI (11342) espressif: Writing 586[0m
+[0;32mI (11352) espressif: Writing 587[0m
+[0;32mI (11352) espressif: Writing 588[0m
+[0;32mI (11352) espressif: Writing 589[0m
+[0;32mI (11362) espressif: Writing 590[0m
+[0;32mI (11362) espressif: Writing 591[0m
+[0;32mI (11372) espressif: Writing 592[0m
+[0;32mI (11372) espressif: Writing 593[0m
+[0;32mI (11372) espressif: Writing 594[0m
+[0;32mI (11382) espressif: Writing 595[0m
+[0;32mI (11382) espressif: Writing 596[0m
+[0;32mI (11392) espressif: Writing 597[0m
+[0;32mI (11392) espressif: Writing 598[0m
+[0;32mI (11392) espressif: Writing 599[0m
+[0;32mI (11402) espressif: Writing 600[0m
+[0;32mI (11402) espressif: Writing 601[0m
+[0;32mI (11412) espressif: Writing 602[0m
+[0;32mI (11412) espressif: Writing 603[0m
+[0;32mI (11412) espressif: Writing 604[0m
+[0;32mI (11422) espressif: Writing 605[0m
+[0;32mI (11422) espressif: Writing 606[0m
+[0;32mI (11432) espressif: Writing 607[0m
+[0;32mI (11432) espressif: Writing 608[0m
+[0;32mI (11432) espressif: Writing 609[0m
+[0;32mI (11442) espressif: Writing 610[0m
+[0;32mI (11442) espressif: Writing 611[0m
+[0;32mI (11442) espressif: Writing 612[0m
+[0;32mI (11452) espressif: Writing 613[0m
+[0;32mI (11452) espressif: Writing 614[0m
+[0;32mI (11462) espressif: Writing 615[0m
+[0;32mI (11462) espressif: Writing 616[0m
+[0;32mI (11462) espressif: Writing 617[0m
+[0;32mI (11472) espressif: Writing 618[0m
+[0;32mI (11472) espressif: Writing 619[0m
+[0;32mI (11482) espressif: Writing 620[0m
+[0;32mI (11482) espressif: Writing 621[0m
+[0;32mI (11482) espressif: Writing 622[0m
+[0;32mI (11492) espressif: Writing 623[0m
+[0;32mI (11492) espressif: Writing 624[0m
+[0;32mI (11502) espressif: Writing 625[0m
+[0;32mI (11502) espressif: Writing 626[0m
+[0;32mI (11502) espressif: Writing 627[0m
+[0;32mI (11512) espressif: Writing 628[0m
+[0;32mI (11512) espressif: Writing 629[0m
+[0;32mI (11522) espressif: Writing 630[0m
+[0;32mI (11522) espressif: Writing 631[0m
+[0;32mI (11522) espressif: Writing 632[0m
+[0;32mI (11532) espressif: Writing 633[0m
+[0;32mI (11532) espressif: Writing 634[0m
+[0;32mI (11532) espressif: Writing 635[0m
+[0;32mI (11542) espressif: Writing 636[0m
+[0;32mI (11542) espressif: Writing 637[0m
+[0;32mI (11552) espressif: Writing 638[0m
+[0;32mI (11552) espressif: Writing 639[0m
+[0;32mI (11552) espressif: Writing 640[0m
+[0;32mI (11562) espressif: Writing 641[0m
+[0;32mI (11562) espressif: Writing 642[0m
+[0;32mI (11572) espressif: Writing 643[0m
+[0;31mE (11572) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (11572) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (11572) task_wdt: Tasks currently running:[0m
+[0;31mE (11572) task_wdt: CPU 0: main[0m
+[0;31mE (11572) task_wdt: CPU 1: IDLE[0m
+[0;31mE (11572) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400DDBDF:0x3FFB0B90 0x40082BAD:0x3FFB0BB0 0x4008AA2C:0x3FFB9F30 0x40089455:0x3FFB9F50 0x40089610:0x3FFB9F90 0x40082E11:0x3FFB9FB0 0x40082F19:0x3FFB9FE0 0x400D52F9:0x3FFBA000 0x400D4267:0x3FFBA020 0x400D386B:0x3FFBA040 0x4000BD83:0x3FFBA060 0x4000117D:0x3FFBA080 0x400592FE:0x3FFBA0A0 0x4005937A:0x3FFBA0C0 0x40058BBF:0x3FFBA0E0 0x40142F6B:0x3FFBA110 0x4013EB17:0x3FFBA130 0x4013EC95:0x3FFBA440 0x40148D71:0x3FFBA470 0x4008DC8D:0x3FFBA4A0 0x400D7061:0x3FFBA4F0 0x40148A64:0x3FFBA530 0x4008B885:0x3FFBA550
+0x400ddbdf: task_wdt_isr at C:/esp/esp-idf/components/esp_system/task_wdt.c:183 (discriminator 3)
+0x40082bad: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x4008aa2c: xTaskGetSchedulerState at C:/esp/esp-idf/components/freertos/tasks.c:4679
+0x40089455: xQueueSemaphoreTake at C:/esp/esp-idf/components/freertos/queue.c:1554
+0x40089610: xQueueTakeMutexRecursive at C:/esp/esp-idf/components/freertos/queue.c:731
+0x40082e11: lock_acquire_generic at C:/esp/esp-idf/components/newlib/locks.c:153
+0x40082f19: _lock_acquire_recursive at C:/esp/esp-idf/components/newlib/locks.c:167
+0x400d52f9: uart_write at C:/esp/esp-idf/components/vfs/vfs_uart.c:200
+0x400d4267: console_write at C:/esp/esp-idf/components/vfs/vfs_console.c:73
+0x400d386b: esp_vfs_write at C:/esp/esp-idf/components/vfs/vfs.c:431 (discriminator 4)
+0x40142f6b: __sprint_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:433
+ (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:403
+0x4013eb17: _vfprintf_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1781 (discriminator 1)
+0x4013ec95: vprintf at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vprintf.c:34 (discriminator 5)
+0x40148d71: esp_log_writev at C:/esp/esp-idf/components/log/log.c:200
+0x4008dc8d: esp_log_write at C:/esp/esp-idf/components/log/log.c:210
+0x400d7061: app_main at C:/esp/esp-idf/examples/esp-medidor-consumo-web-server/main/main.c:536 (discriminator 13)
+0x40148a64: main_task at C:/esp/esp-idf/components/freertos/port/port_common.c:141 (discriminator 2)
+0x4008b885: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+[0;31mE (11572) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084D39:0x3FFB1190 0x40082BAD:0x3FFB11B0 0x4000BFED:0x3FFBB350 0x4008BB36:0x3FFBB360 0x400DDE3C:0x3FFBB380 0x400DDE47:0x3FFBB3B0 0x400D2C99:0x3FFBB3D0 0x40089C31:0x3FFBB3F0 0x4008B885:0x3FFBB410
+0x40084d39: esp_crosscore_isr at C:/esp/esp-idf/components/esp_system/crosscore_int.c:92
+0x40082bad: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x4008bb36: vPortClearInterruptMaskFromISR at C:/esp/esp-idf/components/freertos/port/xtensa/include/freertos/portmacro.h:571
+ (inlined by) vPortExitCritical at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:319
+0x400dde3c: esp_task_wdt_reset at C:/esp/esp-idf/components/esp_system/task_wdt.c:330
+0x400dde47: idle_hook_cb at C:/esp/esp-idf/components/esp_system/task_wdt.c:80
+0x400d2c99: esp_vApplicationIdleHook at C:/esp/esp-idf/components/esp_system/freertos_hooks.c:51 (discriminator 1)
+0x40089c31: prvIdleTask at C:/esp/esp-idf/components/freertos/tasks.c:3987 (discriminator 1)
+0x4008b885: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+[0;32mI (11572) espressif: Writing 644[0m
+[0;32mI (11682) espressif: Writing 645[0m
+[0;32mI (11682) espressif: Writing 646[0m
+[0;32mI (11682) espressif: Writing 647[0m
+[0;32mI (11692) espressif: Writing 648[0m
+[0;32mI (11692) espressif: Writing 649[0m
+[0;32mI (11702) espressif: Writing 650[0m
+[0;32mI (11702) espressif: Writing 651[0m
+[0;32mI (11702) espressif: Writing 652[0m
+[0;32mI (11712) espressif: Writing 653[0m
+[0;32mI (11712) espressif: Writing 654[0m
+[0;32mI (11712) espressif: Writing 655[0m
+[0;32mI (11722) espressif: Writing 656[0m
+[0;32mI (11722) espressif: Writing 657[0m
+[0;32mI (11732) espressif: Writing 658[0m
+[0;32mI (11732) espressif: Writing 659[0m
+[0;32mI (11732) espressif: Writing 660[0m
+[0;32mI (11742) espressif: Writing 661[0m
+[0;32mI (11742) espressif: Writing 662[0m
+[0;32mI (11752) espressif: Writing 663[0m
+[0;32mI (11752) espressif: Writing 664[0m
+[0;32mI (11752) espressif: Writing 665[0m
+[0;32mI (11762) espressif: Writing 666[0m
+[0;32mI (11762) espressif: Writing 667[0m
+[0;32mI (11772) espressif: Writing 668[0m
+[0;32mI (11772) espressif: Writing 669[0m
+[0;32mI (11772) espressif: Writing 670[0m
+[0;32mI (11782) espressif: Writing 671[0m
+[0;32mI (11782) espressif: Writing 672[0m
+[0;32mI (11782) espressif: Writing 673[0m
+[0;32mI (11792) espressif: Writing 674[0m
+[0;32mI (11792) espressif: Writing 675[0m
+[0;32mI (11802) espressif: Writing 676[0m
+[0;32mI (11802) espressif: Writing 677[0m
+[0;32mI (11802) espressif: Writing 678[0m
+[0;32mI (11812) espressif: Writing 679[0m
+[0;32mI (11812) espressif: Writing 680[0m
+[0;32mI (11822) espressif: Writing 681[0m
+[0;32mI (11822) espressif: Writing 682[0m
+[0;32mI (11822) espressif: Writing 683[0m
+[0;32mI (11832) espressif: Writing 684[0m
+[0;32mI (11832) espressif: Writing 685[0m
+[0;32mI (11842) espressif: Writing 686[0m
+[0;32mI (11842) espressif: Writing 687[0m
+[0;32mI (11842) espressif: Writing 688[0m
+[0;32mI (11852) espressif: Writing 689[0m
+[0;32mI (11852) espressif: Writing 690[0m
+[0;32mI (11862) espressif: Writing 691[0m
+[0;32mI (11862) espressif: Writing 692[0m
+[0;32mI (11862) espressif: Writing 693[0m
+[0;32mI (11872) espressif: Writing 694[0m
+[0;32mI (11872) espressif: Writing 695[0m
+[0;32mI (11872) espressif: Writing 696[0m
+[0;32mI (11882) espressif: Writing 697[0m
+[0;32mI (11882) espressif: Writing 698[0m
+[0;32mI (11892) espressif: Writing 699[0m
+[0;32mI (11892) espressif: Writing 700[0m
+[0;32mI (11892) espressif: Writing 701[0m
+[0;32mI (11902) espressif: Writing 702[0m
+[0;32mI (11902) espressif: Writing 703[0m
+[0;32mI (11912) espressif: Writing 704[0m
+[0;32mI (11912) espressif: Writing 705[0m
+[0;32mI (11912) espressif: Writing 706[0m
+[0;32mI (11922) espressif: Writing 707[0m
+[0;32mI (11922) espressif: Writing 708[0m
+[0;32mI (11932) espressif: Writing 709[0m
+[0;32mI (11932) espressif: Writing 710[0m
+[0;32mI (11932) espressif: Writing 711[0m
+[0;32mI (11942) espressif: Writing 712[0m
+[0;32mI (11942) espressif: Writing 713[0m
+[0;32mI (11952) espressif: Writing 714[0m
+[0;32mI (11952) espressif: Writing 715[0m
+[0;32mI (11952) espressif: Writing 716[0m
+[0;32mI (11962) espressif: Writing 717[0m
+[0;32mI (11962) espressif: Writing 718[0m
+[0;32mI (11962) espressif: Writing 719[0m
+[0;32mI (11972) espressif: Writing 720[0m
+[0;32mI (11972) espressif: Writing 721[0m
+[0;32mI (11982) espressif: Writing 722[0m
+[0;32mI (11982) espressif: Writing 723[0m
+[0;32mI (11982) espressif: Writing 724[0m
+[0;32mI (11992) espressif: Writing 725[0m
+[0;32mI (11992) espressif: Writing 726[0m
+[0;32mI (12002) espressif: Writing 727[0m
+[0;32mI (12002) espressif: Writing 728[0m
+[0;32mI (12002) espressif: Writing 729[0m
+[0;32mI (12012) espressif: Writing 730[0m
+[0;32mI (12012) espressif: Writing 731[0m
+[0;32mI (12022) espressif: Writing 732[0m
+[0;32mI (12022) espressif: Writing 733[0m
+[0;32mI (12022) espressif: Writing 734[0m
+[0;32mI (12032) espressif: Writing 735[0m
+[0;32mI (12032) espressif: Writing 736[0m
+[0;32mI (12032) espressif: Writing 737[0m
+[0;32mI (12042) espressif: Writing 738[0m
+[0;32mI (12042) espressif: Writing 739[0m
+[0;32mI (12052) espressif: Writing 740[0m
+[0;32mI (12052) espressif: Writing 741[0m
+[0;32mI (12052) espressif: Writing 742[0m
+[0;32mI (12062) espressif: Writing 743[0m
+[0;32mI (12062) espressif: Writing 744[0m
+[0;32mI (12072) espressif: Writing 745[0m
+[0;32mI (12072) espressif: Writing 746[0m
+[0;32mI (12072) espressif: Writing 747[0m
+[0;32mI (12082) espressif: Writing 748[0m
+[0;32mI (12082) espressif: Writing 749[0m
+[0;32mI (12092) espressif: Writing 750[0m
+[0;32mI (12092) espressif: Writing 751[0m
+[0;32mI (12092) espressif: Writing 752[0m
+[0;32mI (12102) espressif: Writing 753[0m
+[0;32mI (12102) espressif: Writing 754[0m
+[0;32mI (12112) espressif: Writing 755[0m
+[0;32mI (12112) espressif: Writing 756[0m
+[0;32mI (12112) espressif: Writing 757[0m
+[0;32mI (12122) espressif: Writing 758[0m
+[0;32mI (12122) espressif: Writing 759[0m
+[0;32mI (12122) espressif: Writing 760[0m
+[0;32mI (12132) espressif: Writing 761[0m
+[0;32mI (12132) espressif: Writing 762[0m
+[0;32mI (12142) espressif: Writing 763[0m
+[0;32mI (12142) espressif: Writing 764[0m
+[0;32mI (12142) espressif: Writing 765[0m
+[0;32mI (12152) espressif: Writing 766[0m
+[0;32mI (12152) espressif: Writing 767[0m
+[0;32mI (12162) espressif: Writing 768[0m
+[0;32mI (12162) espressif: Writing 769[0m
+[0;32mI (12162) espressif: Writing 770[0m
+[0;32mI (12172) espressif: Writing 771[0m
+[0;32mI (12172) espressif: Writing 772[0m
+[0;32mI (12182) espressif: Writing 773[0m
+[0;32mI (12182) espressif: Writing 774[0m
+[0;32mI (12182) espressif: Writing 775[0m
+[0;32mI (12192) espressif: Writing 776[0m
+[0;32mI (12192) espressif: Writing 777[0m
+[0;32mI (12202) espressif: Writing 778[0m
+[0;32mI (12202) espressif: Writing 779[0m
+[0;32mI (12202) espressif: Writing 780[0m
+[0;32mI (12212) espressif: Writing 781[0m
+[0;32mI (12212) espressif: Writing 782[0m
+[0;32mI (12212) espressif: Writing 783[0m
+[0;32mI (12222) espressif: Writing 784[0m
+[0;32mI (12222) espressif: Writing 785[0m
+[0;32mI (12232) espressif: Writing 786[0m
+[0;32mI (12232) espressif: Writing 787[0m
+[0;32mI (12232) espressif: Writing 788[0m
+[0;32mI (12242) espressif: Writing 789[0m
+[0;32mI (12242) espressif: Writing 790[0m
+[0;32mI (12252) espressif: Writing 791[0m
+[0;32mI (12252) espressif: Writing 792[0m
+[0;32mI (12252) espressif: Writing 793[0m
+[0;32mI (12262) espressif: Writing 794[0m
+[0;32mI (12262) espressif: Writing 795[0m
+[0;32mI (12272) espressif: Writing 796[0m
+[0;32mI (12272) espressif: Writing 797[0m
+[0;32mI (12272) espressif: Writing 798[0m
+[0;32mI (12282) espressif: Writing 799[0m
+[0;32mI (12282) espressif: Writing 800[0m
+[0;32mI (12282) espressif: Writing 801[0m
+[0;32mI (12292) espressif: Writing 802[0m
+[0;32mI (12292) espressif: Writing 803[0m
+[0;32mI (12302) espressif: Writing 804[0m
+[0;32mI (12302) espressif: Writing 805[0m
+[0;32mI (12302) espressif: Writing 806[0m
+[0;32mI (12312) espressif: Writing 807[0m
+[0;32mI (12312) espressif: Writing 808[0m
+[0;32mI (12322) espressif: Writing 809[0m
+[0;32mI (12322) espressif: Writing 810[0m
+[0;32mI (12322) espressif: Writing 811[0m
+[0;32mI (12332) espressif: Writing 812[0m
+[0;32mI (12332) espressif: Writing 813[0m
+[0;32mI (12342) espressif: Writing 814[0m
+[0;32mI (12342) espressif: Writing 815[0m
+[0;32mI (12342) espressif: Writing 816[0m
+[0;32mI (12352) espressif: Writing 817[0m
+[0;32mI (12352) espressif: Writing 818[0m
+[0;32mI (12362) espressif: Writing 819[0m
+[0;32mI (12362) espressif: Writing 820[0m
+[0;32mI (12362) espressif: Writing 821[0m
+[0;32mI (12372) espressif: Writing 822[0m
+[0;32mI (12372) espressif: Writing 823[0m
+[0;32mI (12372) espressif: Writing 824[0m
+[0;32mI (12382) espressif: Writing 825[0m
+[0;32mI (12382) espressif: Writing 826[0m
+[0;32mI (12392) espressif: Writing 827[0m
+[0;32mI (12392) espressif: Writing 828[0m
+[0;32mI (12392) espressif: Writing 829[0m
+[0;32mI (12402) espressif: Writing 830[0m
+[0;32mI (12402) espressif: Writing 831[0m
+[0;32mI (12412) espressif: Writing 832[0m
+[0;32mI (12412) espressif: Writing 833[0m
+[0;32mI (12412) espressif: Writing 834[0m
+[0;32mI (12422) espressif: Writing 835[0m
+[0;32mI (12422) espressif: Writing 836[0m
+[0;32mI (12432) espressif: Writing 837[0m
+[0;32mI (12432) espressif: Writing 838[0m
+[0;32mI (12432) espressif: Writing 839[0m
+[0;32mI (12442) espressif: Writing 840[0m
+[0;32mI (12442) espressif: Writing 841[0m
+[0;32mI (12452) espressif: Writing 842[0m
+[0;32mI (12452) espressif: Writing 843[0m
+[0;32mI (12452) espressif: Writing 844[0m
+[0;32mI (12462) espressif: Writing 845[0m
+[0;32mI (12462) espressif: Writing 846[0m
+[0;32mI (12462) espressif: Writing 847[0m
+[0;32mI (12472) espressif: Writing 848[0m
+[0;32mI (12472) espressif: Writing 849[0m
+[0;32mI (12482) espressif: Writing 850[0m
+[0;32mI (12482) espressif: Writing 851[0m
+[0;32mI (12482) espressif: Writing 852[0m
+[0;32mI (12492) espressif: Writing 853[0m
+[0;32mI (12492) espressif: Writing 854[0m
+[0;32mI (12502) espressif: Writing 855[0m
+[0;32mI (12502) espressif: Writing 856[0m
+[0;32mI (12502) espressif: Writing 857[0m
+[0;32mI (12512) espressif: Writing 858[0m
+[0;32mI (12512) espressif: Writing 859[0m
+[0;32mI (12522) espressif: Writing 860[0m
+[0;32mI (12522) espressif: Writing 861[0m
+[0;32mI (12522) espressif: Writing 862[0m
+[0;32mI (12532) espressif: Writing 863[0m
+[0;32mI (12532) espressif: Writing 864[0m
+[0;32mI (12532) espressif: Writing 865[0m
+[0;32mI (12542) espressif: Writing 866[0m
+[0;32mI (12542) espressif: Writing 867[0m
+[0;32mI (12552) espressif: Writing 868[0m
+[0;32mI (12552) espressif: Writing 869[0m
+[0;32mI (12552) espressif: Writing 870[0m
+[0;32mI (12562) espressif: Writing 871[0m
+[0;32mI (12562) espressif: Writing 872[0m
+[0;32mI (12572) espressif: Writing 873[0m
+[0;32mI (12572) espressif: Writing 874[0m
+[0;32mI (12572) espressif: Writing 875[0m
+[0;32mI (12582) espressif: Writing 876[0m
+[0;32mI (12582) espressif: Writing 877[0m
+[0;32mI (12592) espressif: Writing 878[0m
+[0;32mI (12592) espressif: Writing 879[0m
+[0;32mI (12592) espressif: Writing 880[0m
+[0;32mI (12602) espressif: Writing 881[0m
+[0;32mI (12602) espressif: Writing 882[0m
+[0;32mI (12612) espressif: Writing 883[0m
+[0;32mI (12612) espressif: Writing 884[0m
+[0;32mI (12612) espressif: Writing 885[0m
+[0;32mI (12622) espressif: Writing 886[0m
+[0;32mI (12622) espressif: Writing 887[0m
+[0;32mI (12622) espressif: Writing 888[0m
+[0;32mI (12632) espressif: Writing 889[0m
+[0;32mI (12632) espressif: Writing 890[0m
+[0;32mI (12642) espressif: Writing 891[0m
+[0;32mI (12642) espressif: Writing 892[0m
+[0;32mI (12642) espressif: Writing 893[0m
+[0;32mI (12652) espressif: Writing 894[0m
+[0;32mI (12652) espressif: Writing 895[0m
+[0;32mI (12662) espressif: Writing 896[0m
+[0;32mI (12662) espressif: Writing 897[0m
+[0;32mI (12662) espressif: Writing 898[0m
+[0;32mI (12672) espressif: Writing 899[0m
+[0;32mI (12672) espressif: Writing 900[0m
+[0;32mI (12682) espressif: Writing 901[0m
+[0;32mI (12682) espressif: Writing 902[0m
+[0;32mI (12682) espressif: Writing 903[0m
+[0;32mI (12692) espressif: Writing 904[0m
+[0;32mI (12692) espressif: Writing 905[0m
+[0;32mI (12702) espressif: Writing 906[0m
+[0;32mI (12702) espressif: Writing 907[0m
+[0;32mI (12702) espressif: Writing 908[0m
+[0;32mI (12712) espressif: Writing 909[0m
+[0;32mI (12712) espressif: Writing 910[0m
+[0;32mI (12712) espressif: Writing 911[0m
+[0;32mI (12722) espressif: Writing 912[0m
+[0;32mI (12722) espressif: Writing 913[0m
+[0;32mI (12732) espressif: Writing 914[0m
+[0;32mI (12732) espressif: Writing 915[0m
+[0;32mI (12732) espressif: Writing 916[0m
+[0;32mI (12742) espressif: Writing 917[0m
+[0;32mI (12742) espressif: Writing 918[0m
+[0;32mI (12752) espressif: Writing 919[0m
+[0;32mI (12752) espressif: Writing 920[0m
+[0;32mI (12752) espressif: Writing 921[0m
+[0;32mI (12762) espressif: Writing 922[0m
+[0;32mI (12762) espressif: Writing 923[0m
+[0;32mI (12772) espressif: Writing 924[0m
+[0;32mI (12772) espressif: Writing 925[0m
+[0;32mI (12772) espressif: Writing 926[0m
+[0;32mI (12782) espressif: Writing 927[0m
+[0;32mI (12782) espressif: Writing 928[0m
+[0;32mI (12782) espressif: Writing 929[0m
+[0;32mI (12792) espressif: Writing 930[0m
+[0;32mI (12792) espressif: Writing 931[0m
+[0;32mI (12802) espressif: Writing 932[0m
+[0;32mI (12802) espressif: Writing 933[0m
+[0;32mI (12802) espressif: Writing 934[0m
+[0;32mI (12812) espressif: Writing 935[0m
+[0;32mI (12812) espressif: Writing 936[0m
+[0;32mI (12822) espressif: Writing 937[0m
+[0;32mI (12822) espressif: Writing 938[0m
+[0;32mI (12822) espressif: Writing 939[0m
+[0;32mI (12832) espressif: Writing 940[0m
+[0;32mI (12832) espressif: Writing 941[0m
+[0;32mI (12842) espressif: Writing 942[0m
+[0;32mI (12842) espressif: Writing 943[0m
+[0;32mI (12842) espressif: Writing 944[0m
+[0;32mI (12852) espressif: Writing 945[0m
+[0;32mI (12852) espressif: Writing 946[0m
+[0;32mI (12862) espressif: Writing 947[0m
+[0;32mI (12862) espressif: Writing 948[0m
+[0;32mI (12862) espressif: Writing 949[0m
+[0;32mI (12872) espressif: Writing 950[0m
+[0;32mI (12872) espressif: Writing 951[0m
+[0;32mI (12872) espressif: Writing 952[0m
+[0;32mI (12882) espressif: Writing 953[0m
+[0;32mI (12882) espressif: Writing 954[0m
+[0;32mI (12892) espressif: Writing 955[0m
+[0;32mI (12892) espressif: Writing 956[0m
+[0;32mI (12892) espressif: Writing 957[0m
+[0;32mI (12902) espressif: Writing 958[0m
+[0;32mI (12902) espressif: Writing 959[0m
+[0;32mI (12912) espressif: Writing 960[0m
+[0;32mI (12912) espressif: Writing 961[0m
+[0;32mI (12912) espressif: Writing 962[0m
+[0;32mI (12922) espressif: Writing 963[0m
+[0;32mI (12922) espressif: Writing 964[0m
+[0;32mI (12932) espressif: Writing 965[0m
+[0;32mI (12932) espressif: Writing 966[0m
+[0;32mI (12932) espressif: Writing 967[0m
+[0;32mI (12942) espressif: Writing 968[0m
+[0;32mI (12942) espressif: Writing 969[0m
+[0;32mI (12952) espressif: Writing 970[0m
+[0;32mI (12952) espressif: Writing 971[0m
+[0;32mI (12952) espressif: Writing 972[0m
+[0;32mI (12962) espressif: Writing 973[0m
+[0;32mI (12962) espressif: Writing 974[0m
+[0;32mI (12962) espressif: Writing 975[0m
+[0;32mI (12972) espressif: Writing 976[0m
+[0;32mI (12972) espressif: Writing 977[0m
+[0;32mI (12982) espressif: Writing 978[0m
+[0;32mI (12982) espressif: Writing 979[0m
+[0;32mI (12982) espressif: Writing 980[0m
+[0;32mI (12992) espressif: Writing 981[0m
+[0;32mI (12992) espressif: Writing 982[0m
+[0;32mI (13002) espressif: Writing 983[0m
+[0;32mI (13002) espressif: Writing 984[0m
+[0;32mI (13002) espressif: Writing 985[0m
+[0;32mI (13012) espressif: Writing 986[0m
+[0;32mI (13012) espressif: Writing 987[0m
+[0;32mI (13022) espressif: Writing 988[0m
+[0;32mI (13022) espressif: Writing 989[0m
+[0;32mI (13022) espressif: Writing 990[0m
+[0;32mI (13032) espressif: Writing 991[0m
+[0;32mI (13032) espressif: Writing 992[0m
+[0;32mI (13032) espressif: Writing 993[0m
+[0;32mI (13042) espressif: Writing 994[0m
+[0;32mI (13042) espressif: Writing 995[0m
+[0;32mI (13052) espressif: Writing 996[0m
+[0;32mI (13052) espressif: Writing 997[0m
+[0;32mI (13052) espressif: Writing 998[0m
+[0;32mI (13062) espressif: Writing 999[0m
+[0;32mI (13062) espressif: Writing 1000[0m
+[0;32mI (13072) espressif: Writing 1001[0m
+[0;32mI (13072) espressif: Writing 1002[0m
+[0;32mI (13072) espressif: Writing 1003[0m
+[0;32mI (13082) espressif: Writing 1004[0m
+[0;32mI (13082) espressif: Writing 1005[0m
+[0;32mI (13092) espressif: Writing 1006[0m
+[0;32mI (13092) espressif: Writing 1007[0m
+[0;32mI (13092) espressif: Writing 1008[0m
+[0;32mI (13102) espressif: Writing 1009[0m
+[0;32mI (13102) espressif: Writing 1010[0m
+[0;32mI (13112) espressif: Writing 1011[0m
+[0;32mI (13112) espressif: Writing 1012[0m
+[0;32mI (13112) espressif: Writing 1013[0m
+[0;32mI (13122) espressif: Writing 1014[0m
+[0;32mI (13122) espressif: Writing 1015[0m
+[0;32mI (13132) espressif: Writing 1016[0m
+[0;32mI (13132) espressif: Writing 1017[0m
+[0;32mI (13132) espressif: Writing 1018[0m
+[0;32mI (13142) espressif: Writing 1019[0m
+[0;32mI (13142) espressif: Writing 1020[0m
+[0;32mI (13152) espressif: Writing 1021[0m
+[0;32mI (13152) espressif: Writing 1022[0m
+[0;32mI (13152) espressif: Writing 1023[0m
+[0;32mI (13162) espressif: Writing 1024[0m
+[0;32mI (13162) espressif: Writing 1025[0m
+[0;32mI (13172) espressif: Writing 1026[0m
+[0;32mI (13172) espressif: Writing 1027[0m
+[0;32mI (13172) espressif: Writing 1028[0m
+[0;32mI (13182) espressif: Writing 1029[0m
+[0;32mI (13182) espressif: Writing 1030[0m
+[0;32mI (13192) espressif: Writing 1031[0m
+[0;32mI (13192) espressif: Writing 1032[0m
+[0;32mI (13192) espressif: Writing 1033[0m
+[0;32mI (13202) espressif: Writing 1034[0m
+[0;32mI (13202) espressif: Writing 1035[0m
+[0;32mI (13212) espressif: Writing 1036[0m
+[0;32mI (13212) espressif: Writing 1037[0m
+[0;32mI (13212) espressif: Writing 1038[0m
+[0;32mI (13222) espressif: Writing 1039[0m
+[0;32mI (13222) espressif: Writing 1040[0m
+[0;32mI (13232) espressif: Writing 1041[0m
+[0;32mI (13232) espressif: Writing 1042[0m
+[0;32mI (13232) espressif: Writing 1043[0m
+[0;32mI (13242) espressif: Writing 1044[0m
+[0;32mI (13242) espressif: Writing 1045[0m
+[0;32mI (13252) espressif: Writing 1046[0m
+[0;32mI (13252) espressif: Writing 1047[0m
+[0;32mI (13252) espressif: Writing 1048[0m
+[0;32mI (13262) espressif: Writing 1049[0m
+[0;32mI (13262) espressif: Writing 1050[0m
+[0;32mI (13272) espressif: Writing 1051[0m
+[0;32mI (13272) espressif: Writing 1052[0m
+[0;32mI (13272) espressif: Writing 1053[0m
+[0;32mI (13282) espressif: Writing 1054[0m
+[0;32mI (13282) espressif: Writing 1055[0m
+[0;32mI (13292) espressif: Writing 1056[0m
+[0;32mI (13292) espressif: Writing 1057[0m
+[0;32mI (13292) espressif: Writing 1058[0m
+[0;32mI (13302) espressif: Writing 1059[0m
+[0;32mI (13302) espressif: Writing 1060[0m
+[0;32mI (13312) espressif: Writing 1061[0m
+[0;32mI (13312) espressif: Writing 1062[0m
+[0;32mI (13312) espressif: Writing 1063[0m
+[0;32mI (13322) espressif: Writing 1064[0m
+[0;32mI (13322) espressif: Writing 1065[0m
+[0;32mI (13332) espressif: Writing 1066[0m
+[0;32mI (13332) espressif: Writing 1067[0m
+[0;32mI (13332) espressif: Writing 1068[0m
+[0;32mI (13342) espressif: Writing 1069[0m
+[0;32mI (13342) espressif: Writing 1070[0m
+[0;32mI (13352) espressif: Writing 1071[0m
+[0;32mI (13352) espressif: Writing 1072[0m
+[0;32mI (13352) espressif: Writing 1073[0m
+[0;32mI (13362) espressif: Writing 1074[0m
+[0;32mI (13362) espressif: Writing 1075[0m
+[0;32mI (13372) espressif: Writing 1076[0m
+[0;32mI (13372) espressif: Writing 1077[0m
+[0;32mI (13372) espressif: Writing 1078[0m
+[0;32mI (13382) espressif: Writing 1079[0m
+[0;32mI (13382) espressif: Writing 1080[0m
+[0;32mI (13392) espressif: Writing 1081[0m
+[0;32mI (13392) espressif: Writing 1082[0m
+[0;32mI (13392) espressif: Writing 1083[0m
+[0;32mI (13402) espressif: Writing 1084[0m
+[0;32mI (13402) espressif: Writing 1085[0m
+[0;32mI (13412) espressif: Writing 1086[0m
+[0;32mI (13412) espressif: Writing 1087[0m
+[0;32mI (13412) espressif: Writing 1088[0m
+[0;32mI (13422) espressif: Writing 1089[0m
+[0;32mI (13422) espressif: Writing 1090[0m
+[0;32mI (13432) espressif: Writing 1091[0m
+[0;32mI (13432) espressif: Writing 1092[0m
+[0;32mI (13432) espressif: Writing 1093[0m
+[0;32mI (13442) espressif: Writing 1094[0m
+[0;32mI (13442) espressif: Writing 1095[0m
+[0;32mI (13452) espressif: Writing 1096[0m
+[0;32mI (13452) espressif: Writing 1097[0m
+[0;32mI (13452) espressif: Writing 1098[0m
+[0;32mI (13462) espressif: Writing 1099[0m
+[0;32mI (13462) espressif: Writing 1100[0m
+[0;32mI (13472) espressif: Writing 1101[0m
+[0;32mI (13472) espressif: Writing 1102[0m
+[0;32mI (13472) espressif: Writing 1103[0m
+[0;32mI (13482) espressif: Writing 1104[0m
+[0;32mI (13482) espressif: Writing 1105[0m
+[0;32mI (13492) espressif: Writing 1106[0m
+[0;32mI (13492) espressif: Writing 1107[0m
+[0;32mI (13492) espressif: Writing 1108[0m
+[0;32mI (13502) espressif: Writing 1109[0m
+[0;32mI (13502) espressif: Writing 1110[0m
+[0;32mI (13512) espressif: Writing 1111[0m
+[0;32mI (13512) espressif: Writing 1112[0m
+[0;32mI (13512) espressif: Writing 1113[0m
+[0;32mI (13522) espressif: Writing 1114[0m
+[0;32mI (13522) espressif: Writing 1115[0m
+[0;32mI (13532) espressif: Writing 1116[0m
+[0;32mI (13532) espressif: Writing 1117[0m
+[0;32mI (13532) espressif: Writing 1118[0m
+[0;32mI (13542) espressif: Writing 1119[0m
+[0;32mI (13542) espressif: Writing 1120[0m
+[0;32mI (13552) espressif: Writing 1121[0m
+[0;32mI (13552) espressif: Writing 1122[0m
+[0;32mI (13552) espressif: Writing 1123[0m
+[0;32mI (13562) espressif: Writing 1124[0m
+[0;32mI (13562) espressif: Writing 1125[0m
+[0;32mI (13572) espressif: Writing 1126[0m
+[0;32mI (13572) espressif: Writing 1127[0m
+[0;32mI (13572) espressif: Writing 1128[0m
+[0;32mI (13582) espressif: Writing 1129[0m
+[0;32mI (13582) espressif: Writing 1130[0m
+[0;32mI (13592) espressif: Writing 1131[0m
+[0;32mI (13592) espressif: Writing 1132[0m
+[0;32mI (13592) espressif: Writing 1133[0m
+[0;32mI (13602) espressif: Writing 1134[0m
+[0;32mI (13602) espressif: Writing 1135[0m
+[0;32mI (13612) espressif: Writing 1136[0m
+[0;32mI (13612) espressif: Writing 1137[0m
+[0;32mI (13612) espressif: Writing 1138[0m
+[0;32mI (13622) espressif: Writing 1139[0m
+[0;32mI (13622) espressif: Writing 1140[0m
+[0;32mI (13632) espressif: Writing 1141[0m
+[0;32mI (13632) espressif: Writing 1142[0m
+[0;32mI (13632) espressif: Writing 1143[0m
+[0;32mI (13642) espressif: Writing 1144[0m
+[0;32mI (13642) espressif: Writing 1145[0m
+[0;32mI (13652) espressif: Writing 1146[0m
+[0;32mI (13652) espressif: Writing 1147[0m
+[0;32mI (13652) espressif: Writing 1148[0m
+[0;32mI (13662) espressif: Writing 1149[0m
+[0;32mI (13662) espressif: Writing 1150[0m
+[0;32mI (13672) espressif: Writing 1151[0m
+[0;32mI (13672) espressif: Writing 1152[0m
+[0;32mI (13672) espressif: Writing 1153[0m
+[0;32mI (13682) espressif: Writing 1154[0m
+[0;32mI (13682) espressif: Writing 1155[0m
+[0;32mI (13692) espressif: Writing 1156[0m
+[0;32mI (13692) espressif: Writing 1157[0m
+[0;32mI (13692) espressif: Writing 1158[0m
+[0;32mI (13702) espressif: Writing 1159[0m
+[0;32mI (13702) espressif: Writing 1160[0m
+[0;32mI (13712) espressif: Writing 1161[0m
+[0;32mI (13712) espressif: Writing 1162[0m
+[0;32mI (13712) espressif: Writing 1163[0m
+[0;32mI (13722) espressif: Writing 1164[0m
+[0;32mI (13722) espressif: Writing 1165[0m
+[0;32mI (13732) espressif: Writing 1166[0m
+[0;32mI (13732) espressif: Writing 1167[0m
+[0;32mI (13732) espressif: Writing 1168[0m
+[0;32mI (13742) espressif: Writing 1169[0m
+[0;32mI (13742) espressif: Writing 1170[0m
+[0;32mI (13742) espressif: Writing 1171[0m
+[0;32mI (13752) espressif: Writing 1172[0m
+[0;32mI (13752) espressif: Writing 1173[0m
+[0;32mI (13762) espressif: Writing 1174[0m
+[0;32mI (13762) espressif: Writing 1175[0m
+[0;32mI (13762) espressif: Writing 1176[0m
+[0;32mI (13772) espressif: Writing 1177[0m
+[0;32mI (13772) espressif: Writing 1178[0m
+[0;32mI (13782) espressif: Writing 1179[0m
+[0;32mI (13782) espressif: Writing 1180[0m
+[0;32mI (13782) espressif: Writing 1181[0m
+[0;32mI (13792) espressif: Writing 1182[0m
+[0;32mI (13792) espressif: Writing 1183[0m
+[0;32mI (13802) espressif: Writing 1184[0m
+[0;32mI (13802) espressif: Writing 1185[0m
+[0;32mI (13802) espressif: Writing 1186[0m
+[0;32mI (13812) espressif: Writing 1187[0m
+[0;32mI (13812) espressif: Writing 1188[0m
+[0;32mI (13822) espressif: Writing 1189[0m
+[0;32mI (13822) espressif: Writing 1190[0m
+[0;32mI (13822) espressif: Writing 1191[0m
+[0;32mI (13832) espressif: Writing 1192[0m
+[0;32mI (13832) espressif: Writing 1193[0m
+[0;32mI (13842) espressif: Writing 1194[0m
+[0;32mI (13842) espressif: Writing 1195[0m
+[0;32mI (13842) espressif: Writing 1196[0m
+[0;32mI (13852) espressif: Writing 1197[0m
+[0;32mI (13852) espressif: Writing 1198[0m
+[0;32mI (13862) espressif: Writing 1199[0m
+[0;32mI (13862) espressif: Writing 1200[0m
+[0;32mI (13862) espressif: Writing 1201[0m
+[0;32mI (13872) espressif: Writing 1202[0m
+[0;32mI (13872) espressif: Writing 1203[0m
+[0;32mI (13882) espressif: Writing 1204[0m
+[0;32mI (13882) espressif: Writing 1205[0m
+[0;32mI (13882) espressif: Writing 1206[0m
+[0;32mI (13892) espressif: Writing 1207[0m
+[0;32mI (13892) espressif: Writing 1208[0m
+[0;32mI (13902) espressif: Writing 1209[0m
+[0;32mI (13902) espressif: Writing 1210[0m
+[0;32mI (13902) espressif: Writing 1211[0m
+[0;32mI (13912) espressif: Writing 1212[0m
+[0;32mI (13912) espressif: Writing 1213[0m
+[0;32mI (13922) espressif: Writing 1214[0m
+[0;32mI (13922) espressif: Writing 1215[0m
+[0;32mI (13922) espressif: Writing 1216[0m
+[0;32mI (13932) espressif: Writing 1217[0m
+[0;32mI (13932) espressif: Writing 1218[0m
+[0;32mI (13942) espressif: Writing 1219[0m
+[0;32mI (13942) espressif: Writing 1220[0m
+[0;32mI (13942) espressif: Writing 1221[0m
+[0;32mI (13952) espressif: Writing 1222[0m
+[0;32mI (13952) espressif: Writing 1223[0m
+[0;32mI (13962) espressif: Writing 1224[0m
+[0;32mI (13962) espressif: Writing 1225[0m
+[0;32mI (13962) espressif: Writing 1226[0m
+[0;32mI (13972) espressif: Writing 1227[0m
+[0;32mI (13972) espressif: Writing 1228[0m
+[0;32mI (13982) espressif: Writing 1229[0m
+[0;32mI (13982) espressif: Writing 1230[0m
+[0;32mI (13982) espressif: Writing 1231[0m
+[0;32mI (13992) espressif: Writing 1232[0m
+[0;32mI (13992) espressif: Writing 1233[0m
+[0;32mI (14002) espressif: Writing 1234[0m
+[0;32mI (14002) espressif: Writing 1235[0m
+[0;32mI (14002) espressif: Writing 1236[0m
+[0;32mI (14012) espressif: Writing 1237[0m
+[0;32mI (14012) espressif: Writing 1238[0m
+[0;32mI (14022) espressif: Writing 1239[0m
+[0;32mI (14022) espressif: Writing 1240[0m
+[0;32mI (14022) espressif: Writing 1241[0m
+[0;32mI (14032) espressif: Writing 1242[0m
+[0;32mI (14032) espressif: Writing 1243[0m
+[0;32mI (14042) espressif: Writing 1244[0m
+[0;32mI (14042) espressif: Writing 1245[0m
+[0;32mI (14042) espressif: Writing 1246[0m
+[0;32mI (14052) espressif: Writing 1247[0m
+[0;32mI (14052) espressif: Writing 1248[0m
+[0;32mI (14062) espressif: Writing 1249[0m
+[0;32mI (14062) espressif: Writing 1250[0m
+[0;32mI (14062) espressif: Writing 1251[0m
+[0;32mI (14072) espressif: Writing 1252[0m
+[0;32mI (14072) espressif: Writing 1253[0m
+[0;32mI (14082) espressif: Writing 1254[0m
+[0;32mI (14082) espressif: Writing 1255[0m
+[0;32mI (14082) espressif: Writing 1256[0m
+[0;32mI (14092) espressif: Writing 1257[0m
+[0;32mI (14092) espressif: Writing 1258[0m
+[0;32mI (14102) espressif: Writing 1259[0m
+[0;32mI (14102) espressif: Writing 1260[0m
+[0;32mI (14102) espressif: Writing 1261[0m
+[0;32mI (14112) espressif: Writing 1262[0m
+[0;32mI (14112) espressif: Writing 1263[0m
+[0;32mI (14122) espressif: Writing 1264[0m
+[0;32mI (14122) espressif: Writing 1265[0m
+[0;32mI (14122) espressif: Writing 1266[0m
+[0;32mI (14132) espressif: Writing 1267[0m
+[0;32mI (14132) espressif: Writing 1268[0m
+[0;32mI (14142) espressif: Writing 1269[0m
+[0;32mI (14142) espressif: Writing 1270[0m
+[0;32mI (14142) espressif: Writing 1271[0m
+[0;32mI (14152) espressif: Writing 1272[0m
+[0;32mI (14152) espressif: Writing 1273[0m
+[0;32mI (14162) espressif: Writing 1274[0m
+[0;32mI (14162) espressif: Writing 1275[0m
+[0;32mI (14162) espressif: Writing 1276[0m
+[0;32mI (14172) espressif: Writing 1277[0m
+[0;32mI (14172) espressif: Writing 1278[0m
+[0;32mI (14182) espressif: Writing 1279[0m
+[0;32mI (14182) espressif: Writing 1280[0m
+[0;32mI (14182) espressif: Writing 1281[0m
+[0;32mI (14192) espressif: Writing 1282[0m
+[0;32mI (14192) espressif: Writing 1283[0m
+[0;32mI (14202) espressif: Writing 1284[0m
+[0;32mI (14202) espressif: Writing 1285[0m
+[0;32mI (14202) espressif: Writing 1286[0m
+[0;32mI (14212) espressif: Writing 1287[0m
+[0;32mI (14212) espressif: Writing 1288[0m
+[0;32mI (14222) espressif: Writing 1289[0m
+[0;32mI (14222) espressif: Writing 1290[0m
+[0;32mI (14222) espressif: Writing 1291[0m
+[0;32mI (14232) espressif: Writing 1292[0m
+[0;32mI (14232) espressif: Writing 1293[0m
+[0;32mI (14242) espressif: Writing 1294[0m
+[0;32mI (14242) espressif: Writing 1295[0m
+[0;32mI (14242) espressif: Writing 1296[0m
+[0;32mI (14252) espressif: Writing 1297[0m
+[0;32mI (14252) espressif: Writing 1298[0m
+[0;32mI (14262) espressif: Writing 1299[0m
+[0;32mI (14262) espressif: Writing 1300[0m
+[0;32mI (14262) espressif: Writing 1301[0m
+[0;32mI (14272) espressif: Writing 1302[0m
+[0;32mI (14272) espressif: Writing 1303[0m
+[0;32mI (14282) espressif: Writing 1304[0m
+[0;32mI (14282) espressif: Writing 1305[0m
+[0;32mI (14282) espressif: Writing 1306[0m
+[0;32mI (14292) espressif: Writing 1307[0m
+[0;32mI (14292) espressif: Writing 1308[0m
+[0;32mI (14302) espressif: Writing 1309[0m
+[0;32mI (14302) espressif: Writing 1310[0m
+[0;32mI (14302) espressif: Writing 1311[0m
+[0;32mI (14312) espressif: Writing 1312[0m
+[0;32mI (14312) espressif: Writing 1313[0m
+[0;32mI (14322) espressif: Writing 1314[0m
+[0;32mI (14322) espressif: Writing 1315[0m
+[0;32mI (14322) espressif: Writing 1316[0m
+[0;32mI (14332) espressif: Writing 1317[0m
+[0;32mI (14332) espressif: Writing 1318[0m
+[0;32mI (14342) espressif: Writing 1319[0m
+[0;32mI (14342) espressif: Writing 1320[0m
+[0;32mI (14342) espressif: Writing 1321[0m
+[0;32mI (14352) espressif: Writing 1322[0m
+[0;32mI (14352) espressif: Writing 1323[0m
+[0;32mI (14362) espressif: Writing 1324[0m
+[0;32mI (14362) espressif: Writing 1325[0m
+[0;32mI (14362) espressif: Writing 1326[0m
+[0;32mI (14372) espressif: Writing 1327[0m
+[0;32mI (14372) espressif: Writing 1328[0m
+[0;32mI (14382) espressif: Writing 1329[0m
+[0;32mI (14382) espressif: Writing 1330[0m
+[0;32mI (14382) espressif: Writing 1331[0m
+[0;32mI (14392) espressif: Writing 1332[0m
+[0;32mI (14392) espressif: Writing 1333[0m
+[0;32mI (14402) espressif: Writing 1334[0m
+[0;32mI (14402) espressif: Writing 1335[0m
+[0;32mI (14402) espressif: Writing 1336[0m
+[0;32mI (14412) espressif: Writing 1337[0m
+[0;32mI (14412) espressif: Writing 1338[0m
+[0;32mI (14422) espressif: Writing 1339[0m
+[0;32mI (14422) espressif: Writing 1340[0m
+[0;32mI (14422) espressif: Writing 1341[0m
+[0;32mI (14432) espressif: Writing 1342[0m
+[0;32mI (14432) espressif: Writing 1343[0m
+[0;32mI (14442) espressif: Writing 1344[0m
+[0;32mI (14442) espressif: Writing 1345[0m
+[0;32mI (14442) espressif: Writing 1346[0m
+[0;32mI (14452) espressif: Writing 1347[0m
+[0;32mI (14452) espressif: Writing 1348[0m
+[0;32mI (14462) espressif: Writing 1349[0m
+[0;32mI (14462) espressif: Writing 1350[0m
+[0;32mI (14462) espressif: Writing 1351[0m
+[0;32mI (14472) espressif: Writing 1352[0m
+[0;32mI (14472) espressif: Writing 1353[0m
+[0;32mI (14482) espressif: Writing 1354[0m
+[0;32mI (14482) espressif: Writing 1355[0m
+[0;32mI (14482) espressif: Writing 1356[0m
+[0;32mI (14492) espressif: Writing 1357[0m
+[0;32mI (14492) espressif: Writing 1358[0m
+[0;32mI (14502) espressif: Writing 1359[0m
+[0;32mI (14502) espressif: Writing 1360[0m
+[0;32mI (14502) espressif: Writing 1361[0m
+[0;32mI (14512) espressif: Writing 1362[0m
+[0;32mI (14512) espressif: Writing 1363[0m
+[0;32mI (14522) espressif: Writing 1364[0m
+[0;32mI (14522) espressif: Writing 1365[0m
+[0;32mI (14522) espressif: Writing 1366[0m
+[0;32mI (14532) espressif: Writing 1367[0m
+[0;32mI (14532) espressif: Writing 1368[0m
+[0;32mI (14542) espressif: Writing 1369[0m
+[0;32mI (14542) espressif: Writing 1370[0m
+[0;32mI (14542) espressif: Writing 1371[0m
+[0;32mI (14552) espressif: Writing 1372[0m
+[0;32mI (14552) espressif: Writing 1373[0m
+[0;32mI (14562) espressif: Writing 1374[0m
+[0;32mI (14562) espressif: Writing 1375[0m
+[0;32mI (14562) espressif: Writing 1376[0m
+[0;32mI (14572) espressif: Writing 1377[0m
+[0;32mI (14572) espressif: Writing 1378[0m
+[0;32mI (14582) espressif: Writing 1379[0m
+[0;32mI (14582) espressif: Writing 1380[0m
+[0;32mI (14582) espressif: Writing 1381[0m
+[0;32mI (14592) espressif: Writing 1382[0m
+[0;32mI (14592) espressif: Writing 1383[0m
+[0;32mI (14602) espressif: Writing 1384[0m
+[0;32mI (14602) espressif: Writing 1385[0m
+[0;32mI (14602) espressif: Writing 1386[0m
+[0;32mI (14612) espressif: Writing 1387[0m
+[0;32mI (14612) espressif: Writing 1388[0m
+[0;32mI (14622) espressif: Writing 1389[0m
+[0;32mI (14622) espressif: Writing 1390[0m
+[0;32mI (14622) espressif: Writing 1391[0m
+[0;32mI (14632) espressif: Writing 1392[0m
+[0;32mI (14632) espressif: Writing 1393[0m
+[0;32mI (14642) espressif: Writing 1394[0m
+[0;32mI (14642) espressif: Writing 1395[0m
+[0;32mI (14642) espressif: Writing 1396[0m
+[0;32mI (14652) espressif: Writing 1397[0m
+[0;32mI (14652) espressif: Writing 1398[0m
+[0;32mI (14662) espressif: Writing 1399[0m
+[0;32mI (14662) espressif: Writing 1400[0m
+[0;32mI (14662) espressif: Writing 1401[0m
+[0;32mI (14672) espressif: Writing 1402[0m
+[0;32mI (14672) espressif: Writing 1403[0m
+[0;32mI (14682) espressif: Writing 1404[0m
+[0;32mI (14682) espressif: Writing 1405[0m
+[0;32mI (14682) espressif: Writing 1406[0m
+[0;32mI (14692) espressif: Writing 1407[0m
+[0;32mI (14692) espressif: Writing 1408[0m
+[0;32mI (14702) espressif: Writing 1409[0m
+[0;32mI (14702) espressif: Writing 1410[0m
+[0;32mI (14702) espressif: Writing 1411[0m
+[0;32mI (14712) espressif: Writing 1412[0m
+[0;32mI (14712) espressif: Writing 1413[0m
+[0;32mI (14722) espressif: Writing 1414[0m
+[0;32mI (14722) espressif: Writing 1415[0m
+[0;32mI (14722) espressif: Writing 1416[0m
+[0;32mI (14732) espressif: Writing 1417[0m
+[0;32mI (14732) espressif: Writing 1418[0m
+[0;32mI (14742) espressif: Writing 1419[0m
+[0;32mI (14742) espressif: Writing 1420[0m
+[0;32mI (14742) espressif: Writing 1421[0m
+[0;32mI (14752) espressif: Writing 1422[0m
+[0;32mI (14752) espressif: Writing 1423[0m
+[0;32mI (14762) espressif: Writing 1424[0m
+[0;32mI (14762) espressif: Writing 1425[0m
+[0;32mI (14762) espressif: Writing 1426[0m
+[0;32mI (14772) espressif: Writing 1427[0m
+[0;32mI (14772) espressif: Writing 1428[0m
+[0;32mI (14782) espressif: Writing 1429[0m
+[0;32mI (14782) espressif: Writing 1430[0m
+[0;32mI (14782) espressif: Writing 1431[0m
+[0;32mI (14792) espressif: Writing 1432[0m
+[0;32mI (14792) espressif: Writing 1433[0m
+[0;32mI (14802) espressif: Writing 1434[0m
+[0;32mI (14802) espressif: Writing 1435[0m
+[0;32mI (14802) espressif: Writing 1436[0m
+[0;32mI (14812) espressif: Writing 1437[0m
+[0;32mI (14812) espressif: Writing 1438[0m
+[0;32mI (14822) espressif: Writing 1439[0m
+[0;32mI (14822) espressif: Writing 1440[0m
+[0;32mI (14822) espressif: Writing 1441[0m
+[0;32mI (14832) espressif: Writing 1442[0m
+[0;32mI (14832) espressif: Writing 1443[0m
+[0;32mI (14842) espressif: Writing 1444[0m
+[0;32mI (14842) espressif: Writing 1445[0m
+[0;32mI (14842) espressif: Writing 1446[0m
+[0;32mI (14852) espressif: Writing 1447[0m
+[0;32mI (14852) espressif: Writing 1448[0m
+[0;32mI (14862) espressif: Writing 1449[0m
+[0;32mI (14862) espressif: Writing 1450[0m
+[0;32mI (14862) espressif: Writing 1451[0m
+[0;32mI (14872) espressif: Writing 1452[0m
+[0;32mI (14872) espressif: Writing 1453[0m
+[0;32mI (14882) espressif: Writing 1454[0m
+[0;32mI (14882) espressif: Writing 1455[0m
+[0;32mI (14882) espressif: Writing 1456[0m
+[0;32mI (14892) espressif: Writing 1457[0m
+[0;32mI (14892) espressif: Writing 1458[0m
+[0;32mI (14902) espressif: Writing 1459[0m
+[0;32mI (14902) espressif: Writing 1460[0m
+[0;32mI (14902) espressif: Writing 1461[0m
+[0;32mI (14912) espressif: Writing 1462[0m
+[0;32mI (14912) espressif: Writing 1463[0m
+[0;32mI (14912) espressif: Writing 1464[0m
+[0;32mI (14922) espressif: Writing 1465[0m
+[0;32mI (14922) espressif: Writing 1466[0m
+[0;32mI (14932) espressif: Writing 1467[0m
+[0;32mI (14932) espressif: Writing 1468[0m
+[0;32mI (14932) espressif: Writing 1469[0m
+[0;32mI (14942) espressif: Writing 1470[0m
+[0;32mI (14942) espressif: Writing 1471[0m
+[0;32mI (14952) espressif: Writing 1472[0m
+[0;32mI (14952) espressif: Writing 1473[0m
+[0;32mI (14952) espressif: Writing 1474[0m
+[0;32mI (14962) espressif: Writing 1475[0m
+[0;32mI (14962) espressif: Writing 1476[0m
+[0;32mI (14972) espressif: Writing 1477[0m
+[0;32mI (14972) espressif: Writing 1478[0m
+[0;32mI (14972) espressif: Writing 1479[0m
+[0;32mI (14982) espressif: Writing 1480[0m
+[0;32mI (14982) espressif: Writing 1481[0m
+[0;32mI (14992) espressif: Writing 1482[0m
+[0;32mI (14992) espressif: Writing 1483[0m
+[0;32mI (15002) espressif: Writing 1484[0m
+[0;32mI (15002) espressif: Writing 1485[0m
+[0;32mI (15002) espressif: Writing 1486[0m
+[0;32mI (15012) espressif: Writing 1487[0m
+[0;32mI (15012) espressif: Writing 1488[0m
+[0;32mI (15012) espressif: Writing 1489[0m
+[0;32mI (15022) espressif: Writing 1490[0m
+[0;32mI (15022) espressif: Writing 1491[0m
+[0;32mI (15032) espressif: Writing 1492[0m
+[0;32mI (15032) espressif: Writing 1493[0m
+[0;32mI (15032) espressif: Writing 1494[0m
+[0;32mI (15042) espressif: Writing 1495[0m
+[0;32mI (15042) espressif: Writing 1496[0m
+[0;32mI (15052) espressif: Writing 1497[0m
+[0;32mI (15052) espressif: Writing 1498[0m
+[0;32mI (15052) espressif: Writing 1499[0m
+[0;32mI (15062) espressif: Writing 1500[0m
+[0;32mI (15062) espressif: Writing 1501[0m
+[0;32mI (15072) espressif: Writing 1502[0m
+[0;32mI (15072) espressif: Writing 1503[0m
+[0;32mI (15072) espressif: Writing 1504[0m
+[0;32mI (15082) espressif: Writing 1505[0m
+[0;32mI (15082) espressif: Writing 1506[0m
+[0;32mI (15092) espressif: Writing 1507[0m
+[0;32mI (15092) espressif: Writing 1508[0m
+[0;32mI (15092) espressif: Writing 1509[0m
+[0;32mI (15102) espressif: Writing 1510[0m
+[0;32mI (15102) espressif: Writing 1511[0m
+[0;32mI (15112) espressif: Writing 1512[0m
+[0;32mI (15112) espressif: Writing 1513[0m
+[0;32mI (15112) espressif: Writing 1514[0m
+[0;32mI (15122) espressif: Writing 1515[0m
+[0;32mI (15122) espressif: Writing 1516[0m
+[0;32mI (15132) espressif: Writing 1517[0m
+[0;32mI (15132) espressif: Writing 1518[0m
+[0;32mI (15132) espressif: Writing 1519[0m
+[0;32mI (15142) espressif: Writing 1520[0m
+[0;32mI (15142) espressif: Writing 1521[0m
+[0;32mI (15152) espressif: Writing 1522[0m
+[0;32mI (15152) espressif: Writing 1523[0m
+[0;32mI (15152) espressif: Writing 1524[0m
+[0;32mI (15162) espressif: Writing 1525[0m
+[0;32mI (15162) espressif: Writing 1526[0m
+[0;32mI (15172) espressif: Writing 1527[0m
+[0;32mI (15172) espressif: Writing 1528[0m
+[0;32mI (15172) espressif: Writing 1529[0m
+[0;32mI (15182) espressif: Writing 1530[0m
+[0;32mI (15182) espressif: Writing 1531[0m
+[0;32mI (15192) espressif: Writing 1532[0m
+[0;32mI (15192) espressif: Writing 1533[0m
+[0;32mI (15192) espressif: Writing 1534[0m
+[0;32mI (15202) espressif: Writing 1535[0m
+[0;32mI (15202) espressif: Writing 1536[0m
+[0;32mI (15212) espressif: Writing 1537[0m
+[0;32mI (15212) espressif: Writing 1538[0m
+[0;32mI (15212) espressif: Writing 1539[0m
+[0;32mI (15222) espressif: Writing 1540[0m
+[0;32mI (15222) espressif: Writing 1541[0m
+[0;32mI (15232) espressif: Writing 1542[0m
+[0;32mI (15232) espressif: Writing 1543[0m
+[0;32mI (15232) espressif: Writing 1544[0m
+[0;32mI (15242) espressif: Writing 1545[0m
+[0;32mI (15242) espressif: Writing 1546[0m
+[0;32mI (15252) espressif: Writing 1547[0m
+[0;32mI (15252) espressif: Writing 1548[0m
+[0;32mI (15252) espressif: Writing 1549[0m
+[0;32mI (15262) espressif: Writing 1550[0m
+[0;32mI (15262) espressif: Writing 1551[0m
+[0;32mI (15272) espressif: Writing 1552[0m
+[0;32mI (15272) espressif: Writing 1553[0m
+[0;32mI (15272) espressif: Writing 1554[0m
+[0;32mI (15282) espressif: Writing 1555[0m
+[0;32mI (15282) espressif: Writing 1556[0m
+[0;32mI (15292) espressif: Writing 1557[0m
+[0;32mI (15292) espressif: Writing 1558[0m
+[0;32mI (15292) espressif: Writing 1559[0m
+[0;32mI (15302) espressif: Writing 1560[0m
+[0;32mI (15302) espressif: Writing 1561[0m
+[0;32mI (15312) espressif: Writing 1562[0m
+[0;32mI (15312) espressif: Writing 1563[0m
+[0;32mI (15312) espressif: Writing 1564[0m
+[0;32mI (15322) espressif: Writing 1565[0m
+[0;32mI (15322) espressif: Writing 1566[0m
+[0;32mI (15332) espressif: Writing 1567[0m
+[0;32mI (15332) espressif: Writing 1568[0m
+[0;32mI (15332) espressif: Writing 1569[0m
+[0;32mI (15342) espressif: Writing 1570[0m
+[0;32mI (15342) espressif: Writing 1571[0m
+[0;32mI (15352) espressif: Writing 1572[0m
+[0;32mI (15352) espressif: Writing 1573[0m
+[0;32mI (15352) espressif: Writing 1574[0m
+[0;32mI (15362) espressif: Writing 1575[0m
+[0;32mI (15362) espressif: Writing 1576[0m
+[0;32mI (15372) espressif: Writing 1577[0m
+[0;32mI (15372) espressif: Writing 1578[0m
+[0;32mI (15372) espressif: Writing 1579[0m
+[0;32mI (15382) espressif: Writing 1580[0m
+[0;32mI (15382) espressif: Writing 1581[0m
+[0;32mI (15392) espressif: Writing 1582[0m
+[0;32mI (15392) espressif: Writing 1583[0m
+[0;32mI (15392) espressif: Writing 1584[0m
+[0;32mI (15402) espressif: Writing 1585[0m
+[0;32mI (15402) espressif: Writing 1586[0m
+[0;32mI (15412) espressif: Writing 1587[0m
+[0;32mI (15412) espressif: Writing 1588[0m
+[0;32mI (15412) espressif: Writing 1589[0m
+[0;32mI (15422) espressif: Writing 1590[0m
+[0;32mI (15422) espressif: Writing 1591[0m
+[0;32mI (15432) espressif: Writing 1592[0m
+[0;32mI (15432) espressif: Writing 1593[0m
+[0;32mI (15432) espressif: Writing 1594[0m
+[0;32mI (15442) espressif: Writing 1595[0m
+[0;32mI (15442) espressif: Writing 1596[0m
+[0;32mI (15452) espressif: Writing 1597[0m
+[0;32mI (15452) espressif: Writing 1598[0m
+[0;32mI (15452) espressif: Writing 1599[0m
+[0;32mI (15462) espressif: Writing 1600[0m
+[0;32mI (15462) espressif: Writing 1601[0m
+[0;32mI (15472) espressif: Writing 1602[0m
+[0;32mI (15472) espressif: Writing 1603[0m
+[0;32mI (15472) espressif: Writing 1604[0m
+[0;32mI (15482) espressif: Writing 1605[0m
+[0;32mI (15482) espressif: Writing 1606[0m
+[0;32mI (15492) espressif: Writing 1607[0m
+[0;32mI (15492) espressif: Writing 1608[0m
+[0;32mI (15492) espressif: Writing 1609[0m
+[0;32mI (15502) espressif: Writing 1610[0m
+[0;32mI (15502) espressif: Writing 1611[0m
+[0;32mI (15512) espressif: Writing 1612[0m
+[0;32mI (15512) espressif: Writing 1613[0m
+[0;32mI (15512) espressif: Writing 1614[0m
+[0;32mI (15522) espressif: Writing 1615[0m
+[0;32mI (15522) espressif: Writing 1616[0m
+[0;32mI (15532) espressif: Writing 1617[0m
+[0;32mI (15532) espressif: Writing 1618[0m
+[0;32mI (15532) espressif: Writing 1619[0m
+[0;32mI (15542) espressif: Writing 1620[0m
+[0;32mI (15542) espressif: Writing 1621[0m
+[0;32mI (15552) espressif: Writing 1622[0m
+[0;32mI (15552) espressif: Writing 1623[0m
+[0;32mI (15552) espressif: Writing 1624[0m
+[0;32mI (15562) espressif: Writing 1625[0m
+[0;32mI (15562) espressif: Writing 1626[0m
+[0;32mI (15572) espressif: Writing 1627[0m
+[0;32mI (15572) espressif: Writing 1628[0m
+[0;32mI (15572) espressif: Writing 1629[0m
+[0;32mI (15582) espressif: Writing 1630[0m
+[0;32mI (15582) espressif: Writing 1631[0m
+[0;32mI (15592) espressif: Writing 1632[0m
+[0;32mI (15592) espressif: Writing 1633[0m
+[0;32mI (15592) espressif: Writing 1634[0m
+[0;32mI (15602) espressif: Writing 1635[0m
+[0;32mI (15602) espressif: Writing 1636[0m
+[0;32mI (15612) espressif: Writing 1637[0m
+[0;32mI (15612) espressif: Writing 1638[0m
+[0;32mI (15612) espressif: Writing 1639[0m
+[0;32mI (15622) espressif: Writing 1640[0m
+[0;32mI (15622) espressif: Writing 1641[0m
+[0;32mI (15632) espressif: Writing 1642[0m
+[0;32mI (15632) espressif: Writing 1643[0m
+[0;32mI (15632) espressif: Writing 1644[0m
+[0;32mI (15642) espressif: Writing 1645[0m
+[0;32mI (15642) espressif: Writing 1646[0m
+[0;32mI (15652) espressif: Writing 1647[0m
+[0;32mI (15652) espressif: Writing 1648[0m
+[0;32mI (15652) espressif: Writing 1649[0m
+[0;32mI (15662) espressif: Writing 1650[0m
+[0;32mI (15662) espressif: Writing 1651[0m
+[0;32mI (15672) espressif: Writing 1652[0m
+[0;32mI (15672) espressif: Writing 1653[0m
+[0;32mI (15672) espressif: Writing 1654[0m
+[0;32mI (15682) espressif: Writing 1655[0m
+[0;32mI (15682) espressif: Writing 1656[0m
+[0;32mI (15692) espressif: Writing 1657[0m
+[0;32mI (15692) espressif: Writing 1658[0m
+[0;32mI (15692) espressif: Writing 1659[0m
+[0;32mI (15702) espressif: Writing 1660[0m
+[0;32mI (15702) espressif: Writing 1661[0m
+[0;32mI (15712) espressif: Writing 1662[0m
+[0;32mI (15712) espressif: Writing 1663[0m
+[0;32mI (15712) espressif: Writing 1664[0m
+[0;32mI (15722) espressif: Writing 1665[0m
+[0;32mI (15722) espressif: Writing 1666[0m
+[0;32mI (15732) espressif: Writing 1667[0m
+[0;32mI (15732) espressif: Writing 1668[0m
+[0;32mI (15732) espressif: Writing 1669[0m
+[0;32mI (15742) espressif: Writing 1670[0m
+[0;32mI (15742) espressif: Writing 1671[0m
+[0;32mI (15752) espressif: Writing 1672[0m
+[0;32mI (15752) espressif: Writing 1673[0m
+[0;32mI (15752) espressif: Writing 1674[0m
+[0;32mI (15762) espressif: Writing 1675[0m
+[0;32mI (15762) espressif: Writing 1676[0m
+[0;32mI (15772) espressif: Writing 1677[0m
+[0;32mI (15772) espressif: Writing 1678[0m
+[0;32mI (15772) espressif: Writing 1679[0m
+[0;32mI (15782) espressif: Writing 1680[0m
+[0;32mI (15782) espressif: Writing 1681[0m
+[0;32mI (15792) espressif: Writing 1682[0m
+[0;32mI (15792) espressif: Writing 1683[0m
+[0;32mI (15792) espressif: Writing 1684[0m
+[0;32mI (15802) espressif: Writing 1685[0m
+[0;32mI (15802) espressif: Writing 1686[0m
+[0;32mI (15812) espressif: Writing 1687[0m
+[0;32mI (15812) espressif: Writing 1688[0m
+[0;32mI (15812) espressif: Writing 1689[0m
+[0;32mI (15822) espressif: Writing 1690[0m
+[0;32mI (15822) espressif: Writing 1691[0m
+[0;32mI (15832) espressif: Writing 1692[0m
+[0;32mI (15832) espressif: Writing 1693[0m
+[0;32mI (15832) espressif: Writing 1694[0m
+[0;32mI (15842) espressif: Writing 1695[0m
+[0;32mI (15842) espressif: Writing 1696[0m
+[0;32mI (15852) espressif: Writing 1697[0m
+[0;32mI (15852) espressif: Writing 1698[0m
+[0;32mI (15852) espressif: Writing 1699[0m
+[0;32mI (15862) espressif: Writing 1700[0m
+[0;32mI (15862) espressif: Writing 1701[0m
+[0;32mI (15872) espressif: Writing 1702[0m
+[0;32mI (15872) espressif: Writing 1703[0m
+[0;32mI (15872) espressif: Writing 1704[0m
+[0;32mI (15882) espressif: Writing 1705[0m
+[0;32mI (15882) espressif: Writing 1706[0m
+[0;32mI (15892) espressif: Writing 1707[0m
+[0;32mI (15892) espressif: Writing 1708[0m
+[0;32mI (15892) espressif: Writing 1709[0m
+[0;32mI (15902) espressif: Writing 1710[0m
+[0;32mI (15902) espressif: Writing 1711[0m
+[0;32mI (15912) espressif: Writing 1712[0m
+[0;32mI (15912) espressif: Writing 1713[0m
+[0;32mI (15912) espressif: Writing 1714[0m
+[0;32mI (15922) espressif: Writing 1715[0m
+[0;32mI (15922) espressif: Writing 1716[0m
+[0;32mI (15932) espressif: Writing 1717[0m
+[0;32mI (15932) espressif: Writing 1718[0m
+[0;32mI (15932) espressif: Writing 1719[0m
+[0;32mI (15942) espressif: Writing 1720[0m
+[0;32mI (15942) espressif: Writing 1721[0m
+[0;32mI (15952) espressif: Writing 1722[0m
+[0;32mI (15952) espressif: Writing 1723[0m
+[0;32mI (15952) espressif: Writing 1724[0m
+[0;32mI (15962) espressif: Writing 1725[0m
+[0;32mI (15962) espressif: Writing 1726[0m
+[0;32mI (15972) espressif: Writing 1727[0m
+[0;32mI (15972) espressif: Writing 1728[0m
+[0;32mI (15972) espressif: Writing 1729[0m
+[0;32mI (15982) espressif: Writing 1730[0m
+[0;32mI (15982) espressif: Writing 1731[0m
+[0;32mI (15992) espressif: Writing 1732[0m
+[0;32mI (15992) espressif: Writing 1733[0m
+[0;32mI (15992) espressif: Writing 1734[0m
+[0;32mI (16002) espressif: Writing 1735[0m
+[0;32mI (16002) espressif: Writing 1736[0m
+[0;32mI (16012) espressif: Writing 1737[0m
+[0;32mI (16012) espressif: Writing 1738[0m
+[0;32mI (16012) espressif: Writing 1739[0m
+[0;32mI (16022) espressif: Writing 1740[0m
+[0;32mI (16022) espressif: Writing 1741[0m
+[0;32mI (16032) espressif: Writing 1742[0m
+[0;32mI (16032) espressif: Writing 1743[0m
+[0;32mI (16032) espressif: Writing 1744[0m
+[0;32mI (16042) espressif: Writing 1745[0m
+[0;32mI (16042) espressif: Writing 1746[0m
+[0;32mI (16042) espressif: Writing 1747[0m
+[0;32mI (16052) espressif: Writing 1748[0m
+[0;32mI (16052) espressif: Writing 1749[0m
+[0;32mI (16062) espressif: Writing 1750[0m
+[0;32mI (16062) espressif: Writing 1751[0m
+[0;32mI (16062) espressif: Writing 1752[0m
+[0;32mI (16072) espressif: Writing 1753[0m
+[0;32mI (16072) espressif: Writing 1754[0m
+[0;32mI (16082) espressif: Writing 1755[0m
+[0;32mI (16082) espressif: Writing 1756[0m
+[0;32mI (16082) espressif: Writing 1757[0m
+[0;32mI (16092) espressif: Writing 1758[0m
+[0;32mI (16092) espressif: Writing 1759[0m
+[0;32mI (16102) espressif: Writing 1760[0m
+[0;32mI (16102) espressif: Writing 1761[0m
+[0;32mI (16102) espressif: Writing 1762[0m
+[0;32mI (16112) espressif: Writing 1763[0m
+[0;32mI (16112) espressif: Writing 1764[0m
+[0;32mI (16122) espressif: Writing 1765[0m
+[0;32mI (16122) espressif: Writing 1766[0m
+[0;32mI (16122) espressif: Writing 1767[0m
+[0;32mI (16132) espressif: Writing 1768[0m
+[0;32mI (16132) espressif: Writing 1769[0m
+[0;32mI (16142) espressif: Writing 1770[0m
+[0;32mI (16142) espressif: Writing 1771[0m
+[0;32mI (16142) espressif: Writing 1772[0m
+[0;32mI (16152) espressif: Writing 1773[0m
+[0;32mI (16152) espressif: Writing 1774[0m
+[0;32mI (16162) espressif: Writing 1775[0m
+[0;32mI (16162) espressif: Writing 1776[0m
+[0;32mI (16162) espressif: Writing 1777[0m
+[0;32mI (16172) espressif: Writing 1778[0m
+[0;32mI (16172) espressif: Writing 1779[0m
+[0;32mI (16182) espressif: Writing 1780[0m
+[0;32mI (16182) espressif: Writing 1781[0m
+[0;32mI (16182) espressif: Writing 1782[0m
+[0;32mI (16192) espressif: Writing 1783[0m
+[0;32mI (16192) espressif: Writing 1784[0m
+[0;32mI (16202) espressif: Writing 1785[0m
+[0;32mI (16202) espressif: Writing 1786[0m
+[0;32mI (16202) espressif: Writing 1787[0m
+[0;32mI (16212) espressif: Writing 1788[0m
+[0;32mI (16212) espressif: Writing 1789[0m
+[0;32mI (16222) espressif: Writing 1790[0m
+[0;32mI (16222) espressif: Writing 1791[0m
+[0;32mI (16222) espressif: Writing 1792[0m
+[0;32mI (16232) espressif: Writing 1793[0m
+[0;32mI (16232) espressif: Writing 1794[0m
+[0;32mI (16242) espressif: Writing 1795[0m
+[0;32mI (16242) espressif: Writing 1796[0m
+[0;32mI (16242) espressif: Writing 1797[0m
+[0;32mI (16252) espressif: Writing 1798[0m
+[0;32mI (16252) espressif: Writing 1799[0m
+[0;32mI (16262) espressif: Writing 1800[0m
+[0;32mI (16262) espressif: Writing 1801[0m
+[0;32mI (16262) espressif: Writing 1802[0m
+[0;32mI (16272) espressif: Writing 1803[0m
+[0;32mI (16272) espressif: Writing 1804[0m
+[0;32mI (16282) espressif: Writing 1805[0m
+[0;32mI (16282) espressif: Writing 1806[0m
+[0;32mI (16282) espressif: Writing 1807[0m
+[0;32mI (16292) espressif: Writing 1808[0m
+[0;32mI (16292) espressif: Writing 1809[0m
+[0;32mI (16302) espressif: Writing 1810[0m
+[0;32mI (16302) espressif: Writing 1811[0m
+[0;32mI (16302) espressif: Writing 1812[0m
+[0;32mI (16312) espressif: Writing 1813[0m
+[0;32mI (16312) espressif: Writing 1814[0m
+[0;32mI (16322) espressif: Writing 1815[0m
+[0;32mI (16322) espressif: Writing 1816[0m
+[0;32mI (16322) espressif: Writing 1817[0m
+[0;32mI (16332) espressif: Writing 1818[0m
+[0;32mI (16332) espressif: Writing 1819[0m
+[0;32mI (16342) espressif: Writing 1820[0m
+[0;32mI (16342) espressif: Writing 1821[0m
+[0;32mI (16342) espressif: Writing 1822[0m
+[0;32mI (16352) espressif: Writing 1823[0m
+[0;32mI (16352) espressif: Writing 1824[0m
+[0;32mI (16362) espressif: Writing 1825[0m
+[0;32mI (16362) espressif: Writing 1826[0m
+[0;32mI (16362) espressif: Writing 1827[0m
+[0;32mI (16372) espressif: Writing 1828[0m
+[0;32mI (16372) espressif: Writing 1829[0m
+[0;32mI (16382) espressif: Writing 1830[0m
+[0;32mI (16382) espressif: Writing 1831[0m
+[0;32mI (16382) espressif: Writing 1832[0m
+[0;32mI (16392) espressif: Writing 1833[0m
+[0;32mI (16392) espressif: Writing 1834[0m
+[0;32mI (16402) espressif: Writing 1835[0m
+[0;32mI (16402) espressif: Writing 1836[0m
+[0;32mI (16402) espressif: Writing 1837[0m
+[0;32mI (16412) espressif: Writing 1838[0m
+[0;32mI (16412) espressif: Writing 1839[0m
+[0;32mI (16422) espressif: Writing 1840[0m
+[0;32mI (16422) espressif: Writing 1841[0m
+[0;32mI (16422) espressif: Writing 1842[0m
+[0;32mI (16432) espressif: Writing 1843[0m
+[0;32mI (16432) espressif: Writing 1844[0m
+[0;32mI (16442) espressif: Writing 1845[0m
+[0;32mI (16442) espressif: Writing 1846[0m
+[0;32mI (16442) espressif: Writing 1847[0m
+[0;32mI (16452) espressif: Writing 1848[0m
+[0;32mI (16452) espressif: Writing 1849[0m
+[0;32mI (16462) espressif: Writing 1850[0m
+[0;32mI (16462) espressif: Writing 1851[0m
+[0;32mI (16462) espressif: Writing 1852[0m
+[0;32mI (16472) espressif: Writing 1853[0m
+[0;32mI (16472) espressif: Writing 1854[0m
+[0;32mI (16482) espressif: Writing 1855[0m
+[0;32mI (16482) espressif: Writing 1856[0m
+[0;32mI (16482) espressif: Writing 1857[0m
+[0;32mI (16492) espressif: Writing 1858[0m
+[0;32mI (16492) espressif: Writing 1859[0m
+[0;32mI (16502) espressif: Writing 1860[0m
+[0;32mI (16502) espressif: Writing 1861[0m
+[0;32mI (16502) espressif: Writing 1862[0m
+[0;32mI (16512) espressif: Writing 1863[0m
+[0;32mI (16512) espressif: Writing 1864[0m
+[0;32mI (16522) espressif: Writing 1865[0m
+[0;32mI (16522) espressif: Writing 1866[0m
+[0;32mI (16522) espressif: Writing 1867[0m
+[0;32mI (16532) espressif: Writing 1868[0m
+[0;32mI (16532) espressif: Writing 1869[0m
+[0;32mI (16542) espressif: Writing 1870[0m
+[0;32mI (16542) espressif: Writing 1871[0m
+[0;32mI (16542) espressif: Writing 1872[0m
+[0;32mI (16552) espressif: Writing 1873[0m
+[0;32mI (16552) espressif: Writing 1874[0m
+[0;32mI (16562) espressif: Writing 1875[0m
+[0;32mI (16562) espressif: Writing 1876[0m
+[0;32mI (16562) espressif: Writing 1877[0m
+[0;32mI (16572) esp[0;31mE (16572) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (16572) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (16572) task_wdt: Tasks currently running:[0m
+[0;31mE (16572) task_wdt: CPU 0: main[0m
+[0;31mE (16572) task_wdt: CPU 1: IDLE[0m
+[0;31mE (16572) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400DDBDF:0x3FFB0B90 0x40082BAD:0x3FFB0BB0 0x400D4BA9:0x3FFB9FD0 0x400D5341:0x3FFBA000 0x400D4267:0x3FFBA020 0x400D386B:0x3FFBA040 0x4000BD83:0x3FFBA060 0x4000117D:0x3FFBA080 0x400592FE:0x3FFBA0A0 0x4005937A:0x3FFBA0C0 0x40058BBF:0x3FFBA0E0 0x40142F6B:0x3FFBA110 0x4013EB17:0x3FFBA130 0x4013EC95:0x3FFBA440 0x40148D71:0x3FFBA470 0x4008DC8D:0x3FFBA4A0 0x400D7061:0x3FFBA4F0 0x40148A64:0x3FFBA530 0x4008B885:0x3FFBA550
+0x400ddbdf: task_wdt_isr at C:/esp/esp-idf/components/esp_system/task_wdt.c:183 (discriminator 3)
+0x40082bad: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x400d4ba9: uart_tx_char at C:/esp/esp-idf/components/vfs/vfs_uart.c:154
+0x400d5341: uart_write at C:/esp/esp-idf/components/vfs/vfs_uart.c:209
+0x400d4267: console_write at C:/esp/esp-idf/components/vfs/vfs_console.c:73
+0x400d386b: esp_vfs_write at C:/esp/esp-idf/components/vfs/vfs.c:431 (discriminator 4)
+0x40142f6b: __sprint_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:433
+ (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:403
+0x4013eb17: _vfprintf_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1781 (discriminator 1)
+0x4013ec95: vprintf at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vprintf.c:34 (discriminator 5)
+0x40148d71: esp_log_writev at C:/esp/esp-idf/components/log/log.c:200
+0x4008dc8d: esp_log_write at C:/esp/esp-idf/components/log/log.c:210
+0x400d7061: app_main at C:/esp/esp-idf/examples/esp-medidor-consumo-web-server/main/main.c:536 (discriminator 13)
+0x40148a64: main_task at C:/esp/esp-idf/components/freertos/port/port_common.c:141 (discriminator 2)
+0x4008b885: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+[0;31mE (16572) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084D39:0x3FFB1190 0x40082BAD:0x3FFB11B0 0x4000BFED:0x3FFBB350 0x4008BB36:0x3FFBB360 0x400DDE3C:0x3FFBB380 0x400DDE47:0x3FFBB3B0 0x400D2C99:0x3FFBB3D0 0x40089C31:0x3FFBB3F0 0x4008B885:0x3FFBB410
+0x40084d39: esp_crosscore_isr at C:/esp/esp-idf/components/esp_system/crosscore_int.c:92
+0x40082bad: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x4008bb36: vPortClearInterruptMaskFromISR at C:/esp/esp-idf/components/freertos/port/xtensa/include/freertos/portmacro.h:571
+ (inlined by) vPortExitCritical at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:319
+0x400dde3c: esp_task_wdt_reset at C:/esp/esp-idf/components/esp_system/task_wdt.c:330
+0x400dde47: idle_hook_cb at C:/esp/esp-idf/components/esp_system/task_wdt.c:80
+0x400d2c99: esp_vApplicationIdleHook at C:/esp/esp-idf/components/esp_system/freertos_hooks.c:51 (discriminator 1)
+0x40089c31: prvIdleTask at C:/esp/esp-idf/components/freertos/tasks.c:3987 (discriminator 1)
+0x4008b885: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+ressif: Writing 1878[0m
+[0;32mI (16672) espressif: Writing 1879[0m
+[0;32mI (16672) espressif: Writing 1880[0m
+[0;32mI (16672) espressif: Writing 1881[0m
+[0;32mI (16682) espressif: Writing 1882[0m
+[0;32mI (16682) espressif: Writing 1883[0m
+[0;32mI (16692) espressif: Writing 1884[0m
+[0;32mI (16692) espressif: Writing 1885[0m
+[0;32mI (16692) espressif: Writing 1886[0m
+[0;32mI (16702) espressif: Writing 1887[0m
+[0;32mI (16702) espressif: Writing 1888[0m
+[0;32mI (16712) espressif: Writing 1889[0m
+[0;32mI (16712) espressif: Writing 1890[0m
+[0;32mI (16712) espressif: Writing 1891[0m
+[0;32mI (16722) espressif: Writing 1892[0m
+[0;32mI (16722) espressif: Writing 1893[0m
+[0;32mI (16732) espressif: Writing 1894[0m
+[0;32mI (16732) espressif: Writing 1895[0m
+[0;32mI (16732) espressif: Writing 1896[0m
+[0;32mI (16742) espressif: Writing 1897[0m
+[0;32mI (16742) espressif: Writing 1898[0m
+[0;32mI (16752) espressif: Writing 1899[0m
+[0;32mI (16752) espressif: Writing 1900[0m
+[0;32mI (16752) espressif: Writing 1901[0m
+[0;32mI (16762) espressif: Writing 1902[0m
+[0;32mI (16762) espressif: Writing 1903[0m
+[0;32mI (16772) espressif: Writing 1904[0m
+[0;32mI (16772) espressif: Writing 1905[0m
+[0;32mI (16772) espressif: Writing 1906[0m
+[0;32mI (16782) espressif: Writing 1907[0m
+[0;32mI (16782) espressif: Writing 1908[0m
+[0;32mI (16792) espressif: Writing 1909[0m
+[0;32mI (16792) espressif: Writing 1910[0m
+[0;32mI (16792) espressif: Writing 1911[0m
+[0;32mI (16802) espressif: Writing 1912[0m
+[0;32mI (16802) espressif: Writing 1913[0m
+[0;32mI (16812) espressif: Writing 1914[0m
+[0;32mI (16812) espressif: Writing 1915[0m
+[0;32mI (16812) espressif: Writing 1916[0m
+[0;32mI (16822) espressif: Writing 1917[0m
+[0;32mI (16822) espressif: Writing 1918[0m
+[0;32mI (16832) espressif: Writing 1919[0m
+[0;32mI (16832) espressif: Writing 1920[0m
+[0;32mI (16832) espressif: Writing 1921[0m
+[0;32mI (16842) espressif: Writing 1922[0m
+[0;32mI (16842) espressif: Writing 1923[0m
+[0;32mI (16852) espressif: Writing 1924[0m
+[0;32mI (16852) espressif: Writing 1925[0m
+[0;32mI (16852) espressif: Writing 1926[0m
+[0;32mI (16862) espressif: Writing 1927[0m
+[0;32mI (16862) espressif: Writing 1928[0m
+[0;32mI (16872) espressif: Writing 1929[0m
+[0;32mI (16872) espressif: Writing 1930[0m
+[0;32mI (16872) espressif: Writing 1931[0m
+[0;32mI (16882) espressif: Writing 1932[0m
+[0;32mI (16882) espressif: Writing 1933[0m
+[0;32mI (16892) espressif: Writing 1934[0m
+[0;32mI (16892) espressif: Writing 1935[0m
+[0;32mI (16892) espressif: Writing 1936[0m
+[0;32mI (16902) espressif: Writing 1937[0m
+[0;32mI (16902) espressif: Writing 1938[0m
+[0;32mI (16912) espressif: Writing 1939[0m
+[0;32mI (16912) espressif: Writing 1940[0m
+[0;32mI (16912) espressif: Writing 1941[0m
+[0;32mI (16922) espressif: Writing 1942[0m
+[0;32mI (16922) espressif: Writing 1943[0m
+[0;32mI (16932) espressif: Writing 1944[0m
+[0;32mI (16932) espressif: Writing 1945[0m
+[0;32mI (16932) espressif: Writing 1946[0m
+[0;32mI (16942) espressif: Writing 1947[0m
+[0;32mI (16942) espressif: Writing 1948[0m
+[0;32mI (16952) espressif: Writing 1949[0m
+[0;32mI (16952) espressif: Writing 1950[0m
+[0;32mI (16952) espressif: Writing 1951[0m
+[0;32mI (16962) espressif: Writing 1952[0m
+[0;32mI (16962) espressif: Writing 1953[0m
+[0;32mI (16972) espressif: Writing 1954[0m
+[0;32mI (16972) espressif: Writing 1955[0m
+[0;32mI (16972) espressif: Writing 1956[0m
+[0;32mI (16982) espressif: Writing 1957[0m
+[0;32mI (16982) espressif: Writing 1958[0m
+[0;32mI (16992) espressif: Writing 1959[0m
+[0;32mI (16992) espressif: Writing 1960[0m
+[0;32mI (16992) espressif: Writing 1961[0m
+[0;32mI (17002) espressif: Writing 1962[0m
+[0;32mI (17002) espressif: Writing 1963[0m
+[0;32mI (17012) espressif: Writing 1964[0m
+[0;32mI (17012) espressif: Writing 1965[0m
+[0;32mI (17012) espressif: Writing 1966[0m
+[0;32mI (17022) espressif: Writing 1967[0m
+[0;32mI (17022) espressif: Writing 1968[0m
+[0;32mI (17032) espressif: Writing 1969[0m
+[0;32mI (17032) espressif: Writing 1970[0m
+[0;32mI (17032) espressif: Writing 1971[0m
+[0;32mI (17042) espressif: Writing 1972[0m
+[0;32mI (17042) espressif: Writing 1973[0m
+[0;32mI (17052) espressif: Writing 1974[0m
+[0;32mI (17052) espressif: Writing 1975[0m
+[0;32mI (17052) espressif: Writing 1976[0m
+[0;32mI (17062) espressif: Writing 1977[0m
+[0;32mI (17062) espressif: Writing 1978[0m
+[0;32mI (17072) espressif: Writing 1979[0m
+[0;32mI (17072) espressif: Writing 1980[0m
+[0;32mI (17072) espressif: Writing 1981[0m
+[0;32mI (17082) espressif: Writing 1982[0m
+[0;32mI (17082) espressif: Writing 1983[0m
+[0;32mI (17092) espressif: Writing 1984[0m
+[0;32mI (17092) espressif: Writing 1985[0m
+[0;32mI (17092) espressif: Writing 1986[0m
+[0;32mI (17102) espressif: Writing 1987[0m
+[0;32mI (17102) espressif: Writing 1988[0m
+[0;32mI (17112) espressif: Writing 1989[0m
+[0;32mI (17112) espressif: Writing 1990[0m
+[0;32mI (17112) espressif: Writing 1991[0m
+[0;32mI (17122) espressif: Writing 1992[0m
+[0;32mI (17122) espressif: Writing 1993[0m
+[0;32mI (17132) espressif: Writing 1994[0m
+[0;32mI (17132) espressif: Writing 1995[0m
+[0;32mI (17132) espressif: Writing 1996[0m
+[0;32mI (17142) espressif: Writing 1997[0m
+[0;32mI (17142) espressif: Writing 1998[0m
+[0;32mI (17152) espressif: Writing 1999[0m
+[0;32mI (17152) espressif: Writing 2000[0m
+[0;32mI (17152) espressif: Writing 2001[0m
+[0;32mI (17162) espressif: Writing 2002[0m
+[0;32mI (17162) espressif: Writing 2003[0m
+[0;32mI (17172) espressif: Writing 2004[0m
+[0;32mI (17172) espressif: Writing 2005[0m
+[0;32mI (17172) espressif: Writing 2006[0m
+[0;32mI (17182) espressif: Writing 2007[0m
+[0;32mI (17182) espressif: Writing 2008[0m
+[0;32mI (17192) espressif: Writing 2009[0m
+[0;32mI (17192) espressif: Writing 2010[0m
+[0;32mI (17192) espressif: Writing 2011[0m
+[0;32mI (17202) espressif: Writing 2012[0m
+[0;32mI (17202) espressif: Writing 2013[0m
+[0;32mI (17212) espressif: Writing 2014[0m
+[0;32mI (17212) espressif: Writing 2015[0m
+[0;32mI (17212) espressif: Writing 2016[0m
+[0;32mI (17222) espressif: Writing 2017[0m
+[0;32mI (17222) espressif: Writing 2018[0m
+[0;32mI (17232) espressif: Writing 2019[0m
+[0;32mI (17232) espressif: Writing 2020[0m
+[0;32mI (17232) espressif: Writing 2021[0m
+[0;32mI (17242) espressif: Writing 2022[0m
+[0;32mI (17242) espressif: Writing 2023[0m
+[0;32mI (17252) espressif: Writing 2024[0m
+[0;32mI (17252) espressif: Writing 2025[0m
+[0;32mI (17252) espressif: Writing 2026[0m
+[0;32mI (17262) espressif: Writing 2027[0m
+[0;32mI (17262) espressif: Writing 2028[0m
+[0;32mI (17272) espressif: Writing 2029[0m
+[0;32mI (17272) espressif: Writing 2030[0m
+[0;32mI (17272) espressif: Writing 2031[0m
+[0;32mI (17282) espressif: Writing 2032[0m
+[0;32mI (17282) espressif: Writing 2033[0m
+[0;32mI (17292) espressif: Writing 2034[0m
+[0;32mI (17292) espressif: Writing 2035[0m
+[0;32mI (17292) espressif: Writing 2036[0m
+[0;32mI (17302) espressif: Writing 2037[0m
+[0;32mI (17302) espressif: Writing 2038[0m
+[0;32mI (17312) espressif: Writing 2039[0m
+[0;32mI (17312) espressif: Writing 2040[0m
+[0;32mI (17312) espressif: Writing 2041[0m
+[0;32mI (17322) espressif: Writing 2042[0m
+[0;32mI (17322) espressif: Writing 2043[0m
+[0;32mI (17332) espressif: Writing 2044[0m
+[0;32mI (17332) espressif: Writing 2045[0m
+[0;32mI (17332) espressif: Writing 2046[0m
+[0;32mI (17342) espressif: Writing 2047[0m
+[0;32mI (17342) espressif: Writing 2048[0m
+[0;32mI (17352) espressif: Writing 2049[0m
+[0;32mI (17352) espressif: Writing 2050[0m
+[0;32mI (17352) espressif: Writing 2051[0m
+[0;32mI (17362) espressif: Writing 2052[0m
+[0;32mI (17362) espressif: Writing 2053[0m
+[0;32mI (17372) espressif: Writing 2054[0m
+[0;32mI (17372) espressif: Writing 2055[0m
+[0;32mI (17372) espressif: Writing 2056[0m
+[0;32mI (17382) espressif: Writing 2057[0m
+[0;32mI (17382) espressif: Writing 2058[0m
+[0;32mI (17382) espressif: Writing 2059[0m
+[0;32mI (17392) espressif: Writing 2060[0m
+[0;32mI (17392) espressif: Writing 2061[0m
+[0;32mI (17402) espressif: Writing 2062[0m
+[0;32mI (17402) espressif: Writing 2063[0m
+[0;32mI (17402) espressif: Writing 2064[0m
+[0;32mI (17412) espressif: Writing 2065[0m
+[0;32mI (17412) espressif: Writing 2066[0m
+[0;32mI (17422) espressif: Writing 2067[0m
+[0;32mI (17422) espressif: Writing 2068[0m
+[0;32mI (17422) espressif: Writing 2069[0m
+[0;32mI (17432) espressif: Writing 2070[0m
+[0;32mI (17432) espressif: Writing 2071[0m
+[0;32mI (17442) espressif: Writing 2072[0m
+[0;32mI (17442) espressif: Writing 2073[0m
+[0;32mI (17442) espressif: Writing 2074[0m
+[0;32mI (17452) espressif: Writing 2075[0m
+[0;32mI (17452) espressif: Writing 2076[0m
+[0;32mI (17462) espressif: Writing 2077[0m
+[0;32mI (17462) espressif: Writing 2078[0m
+[0;32mI (17462) espressif: Writing 2079[0m
+[0;32mI (17472) espressif: Writing 2080[0m
+[0;32mI (17472) espressif: Writing 2081[0m

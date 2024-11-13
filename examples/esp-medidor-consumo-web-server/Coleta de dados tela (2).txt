@@ -1,0 +1,2182 @@
+I (5002) wifi:Send SA Query req with transaction id 4d69
+I (5212) wifi:Send SA Query req with transaction id 932e
+I (5422) wifi:Send SA Query req with transaction id 4f4b
+I (5622) wifi:Send SA Query req with transaction id 3b2a
+I (5832) wifi:Send SA Query req with transaction id 676c
+I (6032) wifi:No response to 5 SA Queries, reset connection
+I (6032) wifi:state: run -> init (200)
+I (6032) wifi:pm stop, total sleep time: 2529558 us / 5045459 us
+
+I (6032) wifi:new:<6,0>, old:<6,0>, ap:<255,255>, sta:<6,0>, prof:1
+[0;32mI (6042) espressif: retry to connect to the AP[0m
+[0;32mI (6052) espressif: connect to the AP fail[0m
+I (6052) wifi:new:<6,0>, old:<6,0>, ap:<255,255>, sta:<6,0>, prof:1
+I (6062) wifi:state: init -> auth (b0)
+I (7062) wifi:state: auth -> init (200)
+I (7062) wifi:new:<6,0>, old:<6,0>, ap:<255,255>, sta:<6,0>, prof:1
+[0;32mI (7062) espressif: retry to connect to the AP[0m
+[0;32mI (7072) espressif: connect to the AP fail[0m
+I (7102) wifi:new:<6,0>, old:<6,0>, ap:<255,255>, sta:<6,0>, prof:1
+I (7102) wifi:state: init -> auth (b0)
+I (7142) wifi:state: auth -> assoc (0)
+I (7162) wifi:state: assoc -> run (10)
+I (17162) wifi:state: run -> init (cc00)
+I (17162) wifi:new:<6,0>, old:<6,0>, ap:<255,255>, sta:<6,0>, prof:1
+[0;32mI (17172) espressif: retry to connect to the AP[0m
+[0;32mI (17172) espressif: connect to the AP fail[0m
+I (17182) wifi:new:<6,0>, old:<6,0>, ap:<255,255>, sta:<6,0>, prof:1
+I (17182) wifi:state: init -> auth (b0)
+I (17262) wifi:state: auth -> assoc (0)
+I (17292) wifi:state: assoc -> run (10)
+I (17352) wifi:connected with CINGUESTS, aid = 2, channel 6, BW20, bssid = 22:e8:29:67:3b:f1
+I (17352) wifi:security: WPA2-PSK, phy: bgn, rssi: -87
+I (17362) wifi:pm start, type: 1
+
+I (17382) wifi:AP's beacon interval = 102400 us, DTIM period = 1
+W (17392) wifi:<ba-add>idx:0 (ifx:0, 22:e8:29:67:3b:f1), tid:0, ssn:0, winSize:64
+[0;32mI (19082) esp_netif_handlers: sta ip: 172.22.70.215, mask: 255.255.240.0, gw: 172.22.79.254[0m
+[0;32mI (19082) espressif: got ip:172.22.70.215[0m
+[0;32mI (19082) espressif: connected to ap SSID:CINGUESTS password:acessocin[0m
+eFuse Two Point: NOT supported
+eFuse Vref: Supported
+Characterized using eFuse Vref
+Tempo amostra: 0.000975 Tempo total: 0.000975V
+Raw: 2833	Voltage: 2410.000000V
+Tempo amostra: 0.000794 Tempo total: 0.001769V
+Raw: 2969	Voltage: 2506.000000V
+Tempo amostra: 0.001179 Tempo total: 0.002949V
+Raw: 3015	Voltage: 2540.000000V
+Tempo amostra: 0.000786 Tempo total: 0.003734V
+Raw: 3020	Voltage: 2543.000000V
+Tempo amostra: 0.000837 Tempo total: 0.004572V
+Raw: 3021	Voltage: 2544.000000V
+Tempo amostra: 0.000778 Tempo total: 0.005349V
+Raw: 3022	Voltage: 2545.000000V
+Tempo amostra: 0.000778 Tempo total: 0.006127V
+Raw: 3024	Voltage: 2546.000000V
+Tempo amostra: 0.000778 Tempo total: 0.006905V
+Raw: 3007	Voltage: 2534.000000V
+Tempo amostra: 0.000777 Tempo total: 0.007682V
+Raw: 3020	Voltage: 2543.000000V
+Tempo amostra: 0.000785 Tempo total: 0.008467V
+Raw: 3020	Voltage: 2543.000000V
+Tempo amostra: 0.000802 Tempo total: 0.009269V
+Raw: 3044	Voltage: 2560.000000V
+Tempo amostra: 0.000802 Tempo total: 0.010071V
+Raw: 3055	Voltage: 2568.000000V
+Tempo amostra: 0.000802 Tempo total: 0.010873V
+Raw: 3043	Voltage: 2559.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011675V
+Raw: 3052	Voltage: 2565.000000V
+Tempo amostra: 0.000810 Tempo total: 0.012485V
+Raw: 3040	Voltage: 2557.000000V
+Tempo amostra: 0.000802 Tempo total: 0.013288V
+Raw: 3044	Voltage: 2560.000000V
+Tempo amostra: 0.000802 Tempo total: 0.014090V
+Raw: 3045	Voltage: 2561.000000V
+Tempo amostra: 0.000778 Tempo total: 0.014867V
+Raw: 3004	Voltage: 2532.000000V
+Tempo amostra: 0.000778 Tempo total: 0.015645V
+Raw: 3000	Voltage: 2529.000000V
+Tempo amostra: 0.000854 Tempo total: 0.016499V
+Raw: 3036	Voltage: 2554.000000V
+Tensão RMS: 2540.165039V
+Corrente RMS: 5.793300I
+neg: 0	pos: 20
+Energia consumida: 4.087278Wh
+Custo R$: 0.000003
+
+
+
+Tempo amostra: 0.000802 Tempo total: 0.000802V
+Raw: 3032	Voltage: 2551.000000V
+Tempo amostra: 0.000811 Tempo total: 0.001613V
+Raw: 3057	Voltage: 2569.000000V
+Tempo amostra: 0.000802 Tempo total: 0.002415V
+Raw: 3040	Voltage: 2557.000000V
+Tempo amostra: 0.000802 Tempo total: 0.003217V
+Raw: 3049	Voltage: 2563.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004019V
+Raw: 3047	Voltage: 2562.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004821V
+Raw: 3051	Voltage: 2565.000000V
+Tempo amostra: 0.000802 Tempo total: 0.005624V
+Raw: 3050	Voltage: 2564.000000V
+Tempo amostra: 0.000802 Tempo total: 0.006426V
+Raw: 3035	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.007228V
+Raw: 3053	Voltage: 2566.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008030V
+Raw: 3040	Voltage: 2557.000000V
+Tempo amostra: 0.000778 Tempo total: 0.008807V
+Raw: 3004	Voltage: 2532.000000V
+Tempo amostra: 0.000778 Tempo total: 0.009585V
+Raw: 3000	Voltage: 2529.000000V
+Tempo amostra: 0.000854 Tempo total: 0.010439V
+Raw: 3031	Voltage: 2551.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011241V
+Raw: 3036	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012043V
+Raw: 3040	Voltage: 2557.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012845V
+Raw: 3039	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.013647V
+Raw: 3038	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.014449V
+Raw: 3037	Voltage: 2555.000000V
+Tempo amostra: 0.000810 Tempo total: 0.015259V
+Raw: 3034	Voltage: 2553.000000V
+Tempo amostra: 0.000802 Tempo total: 0.016061V
+Raw: 3032	Voltage: 2551.000000V
+Tensão RMS: 2555.118408V
+Corrente RMS: 5.793300I
+neg: 0	pos: 40
+Energia consumida: 8.198931Wh
+Custo R$: 0.000010
+
+
+
+Tempo amostra: 0.000802 Tempo total: 0.000802V
+Raw: 3037	Voltage: 2555.000000V
+Tempo amostra: 0.000802 Tempo total: 0.001604V
+Raw: 3039	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.002406V
+Raw: 3037	Voltage: 2555.000000V
+Tempo amostra: 0.000778 Tempo total: 0.003184V
+Raw: 3006	Voltage: 2533.000000V
+Tempo amostra: 0.000777 Tempo total: 0.003961V
+Raw: 2992	Voltage: 2523.000000V
+Tempo amostra: 0.000862 Tempo total: 0.004823V
+Raw: 3037	Voltage: 2555.000000V
+Tempo amostra: 0.000802 Tempo total: 0.005625V
+Raw: 3038	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.006427V
+Raw: 3035	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.007229V
+Raw: 3040	Voltage: 2557.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008031V
+Raw: 3031	Voltage: 2551.000000V
+Tempo amostra: 0.000809 Tempo total: 0.008840V
+Raw: 3042	Voltage: 2558.000000V
+Tempo amostra: 0.000802 Tempo total: 0.009642V
+Raw: 3037	Voltage: 2555.000000V
+Tempo amostra: 0.000802 Tempo total: 0.010444V
+Raw: 3036	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011246V
+Raw: 3042	Voltage: 2558.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012048V
+Raw: 3041	Voltage: 2558.000000V
+Tempo amostra: 0.000810 Tempo total: 0.012858V
+Raw: 3043	Voltage: 2559.000000V
+Tempo amostra: 0.000802 Tempo total: 0.013660V
+Raw: 3039	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.014462V
+Raw: 3043	Voltage: 2559.000000V
+Tempo amostra: 0.000778 Tempo total: 0.015240V
+Raw: 2994	Voltage: 2524.000000V
+Tempo amostra: 0.000778 Tempo total: 0.016017V
+Raw: 2992	Voltage: 2523.000000V
+Tensão RMS: 2549.979980V
+Corrente RMS: 5.793300I
+neg: 0	pos: 60
+Energia consumida: 12.302305Wh
+Custo R$: 0.000020
+
+
+
+Tempo amostra: 0.000858 Tempo total: 0.000858V
+Raw: 3037	Voltage: 2555.000000V
+Tempo amostra: 0.000806 Tempo total: 0.001663V
+Raw: 3040	Voltage: 2557.000000V
+Tempo amostra: 0.000814 Tempo total: 0.002477V
+Raw: 3041	Voltage: 2558.000000V
+Tempo amostra: 0.000806 Tempo total: 0.003283V
+Raw: 3043	Voltage: 2559.000000V
+Tempo amostra: 0.000829 Tempo total: 0.004112V
+Raw: 2991	Voltage: 2522.000000V
+Tempo amostra: 0.000785 Tempo total: 0.004898V
+Raw: 2999	Voltage: 2528.000000V
+Tempo amostra: 0.000785 Tempo total: 0.005683V
+Raw: 2993	Voltage: 2524.000000V
+Tempo amostra: 0.000781 Tempo total: 0.006465V
+Raw: 2989	Voltage: 2521.000000V
+Tempo amostra: 0.000785 Tempo total: 0.007250V
+Raw: 2998	Voltage: 2527.000000V
+Tempo amostra: 0.000781 Tempo total: 0.008031V
+Raw: 2991	Voltage: 2522.000000V
+Tempo amostra: 0.000781 Tempo total: 0.008813V
+Raw: 2994	Voltage: 2524.000000V
+Tempo amostra: 0.000793 Tempo total: 0.009606V
+Raw: 2986	Voltage: 2518.000000V
+Tempo amostra: 0.000825 Tempo total: 0.010432V
+Raw: 2993	Voltage: 2524.000000V
+Tempo amostra: 0.000777 Tempo total: 0.011209V
+Raw: 2986	Voltage: 2518.000000V
+Tempo amostra: 0.000784 Tempo total: 0.011993V
+Raw: 2790	Voltage: 2375.000000V
+Tempo amostra: 0.000781 Tempo total: 0.012774V
+Raw: 2976	Voltage: 2511.000000V
+Tempo amostra: 0.000778 Tempo total: 0.013552V
+Raw: 2983	Voltage: 2516.000000V
+Tempo amostra: 0.000778 Tempo total: 0.014329V
+Raw: 2996	Voltage: 2526.000000V
+Tempo amostra: 0.000778 Tempo total: 0.015107V
+Raw: 2980	Voltage: 2514.000000V
+Tempo amostra: 0.000786 Tempo total: 0.015893V
+Raw: 2989	Voltage: 2521.000000V
+Tensão RMS: 2521.266602V
+Corrente RMS: 5.793300I
+neg: 0	pos: 80
+Energia consumida: 16.359070Wh
+Custo R$: 0.000033
+
+
+
+Tempo amostra: 0.000813 Tempo total: 0.000813V
+Raw: 2992	Voltage: 2523.000000V
+Tempo amostra: 0.000777 Tempo total: 0.001590V
+Raw: 2989	Voltage: 2521.000000V
+Tempo amostra: 0.000778 Tempo total: 0.002368V
+Raw: 2991	Voltage: 2522.000000V
+Tempo amostra: 0.000806 Tempo total: 0.003174V
+Raw: 3030	Voltage: 2550.000000V
+Tempo amostra: 0.000781 Tempo total: 0.003955V
+Raw: 2983	Voltage: 2516.000000V
+Tempo amostra: 0.000825 Tempo total: 0.004781V
+Raw: 2997	Voltage: 2527.000000V
+Tempo amostra: 0.000785 Tempo total: 0.005566V
+Raw: 2985	Voltage: 2518.000000V
+Tempo amostra: 0.000778 Tempo total: 0.006344V
+Raw: 2987	Voltage: 2519.000000V
+Tempo amostra: 0.000777 Tempo total: 0.007121V
+Raw: 2991	Voltage: 2522.000000V
+Tempo amostra: 0.000778 Tempo total: 0.007899V
+Raw: 2993	Voltage: 2524.000000V
+Tempo amostra: 0.000778 Tempo total: 0.008676V
+Raw: 2994	Voltage: 2524.000000V
+Tempo amostra: 0.000778 Tempo total: 0.009454V
+Raw: 2979	Voltage: 2513.000000V
+Tempo amostra: 0.000778 Tempo total: 0.010231V
+Raw: 2993	Voltage: 2524.000000V
+Tempo amostra: 0.000778 Tempo total: 0.011009V
+Raw: 2994	Voltage: 2524.000000V
+Tempo amostra: 0.000778 Tempo total: 0.011787V
+Raw: 2980	Voltage: 2514.000000V
+Tempo amostra: 0.000778 Tempo total: 0.012564V
+Raw: 2983	Voltage: 2516.000000V
+Tempo amostra: 0.000786 Tempo total: 0.013350V
+Raw: 2980	Voltage: 2514.000000V
+Tempo amostra: 0.000778 Tempo total: 0.014127V
+Raw: 2994	Voltage: 2524.000000V
+Tempo amostra: 0.000782 Tempo total: 0.014909V
+Raw: 2987	Voltage: 2519.000000V
+Tempo amostra: 0.000777 Tempo total: 0.015686V
+Raw: 2993	Voltage: 2524.000000V
+Tensão RMS: 2521.911377V
+Corrente RMS: 5.793300I
+neg: 0	pos: 100
+Energia consumida: 20.417292Wh
+Custo R$: 0.000050
+
+
+
+Tempo amostra: 0.000850 Tempo total: 0.000850V
+Raw: 3036	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.001652V
+Raw: 3031	Voltage: 2551.000000V
+Tempo amostra: 0.000802 Tempo total: 0.002454V
+Raw: 3043	Voltage: 2559.000000V
+Tempo amostra: 0.000802 Tempo total: 0.003256V
+Raw: 3038	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004058V
+Raw: 3039	Voltage: 2556.000000V
+Tempo amostra: 0.000803 Tempo total: 0.004861V
+Raw: 3045	Voltage: 2561.000000V
+Tempo amostra: 0.000802 Tempo total: 0.005663V
+Raw: 3039	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.006465V
+Raw: 3046	Voltage: 2561.000000V
+Tempo amostra: 0.000802 Tempo total: 0.007267V
+Raw: 3038	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008069V
+Raw: 3041	Voltage: 2558.000000V
+Tempo amostra: 0.000810 Tempo total: 0.008879V
+Raw: 3047	Voltage: 2562.000000V
+Tempo amostra: 0.000782 Tempo total: 0.009661V
+Raw: 2997	Voltage: 2527.000000V
+Tempo amostra: 0.000778 Tempo total: 0.010439V
+Raw: 2995	Voltage: 2525.000000V
+Tempo amostra: 0.000850 Tempo total: 0.011289V
+Raw: 3034	Voltage: 2553.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012091V
+Raw: 3033	Voltage: 2552.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012893V
+Raw: 3036	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.013695V
+Raw: 3036	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.014497V
+Raw: 3043	Voltage: 2559.000000V
+Tempo amostra: 0.000802 Tempo total: 0.015299V
+Raw: 3037	Voltage: 2555.000000V
+Tempo amostra: 0.000802 Tempo total: 0.016102V
+Raw: 3044	Voltage: 2560.000000V
+Tensão RMS: 2553.468018V
+Corrente RMS: 5.793300I
+neg: 0	pos: 120
+Energia consumida: 24.526306Wh
+Custo R$: 0.000070
+
+
+
+Tempo amostra: 0.000809 Tempo total: 0.000809V
+Raw: 3044	Voltage: 2560.000000V
+Tempo amostra: 0.000802 Tempo total: 0.001612V
+Raw: 3032	Voltage: 2551.000000V
+Tempo amostra: 0.000802 Tempo total: 0.002414V
+Raw: 3040	Voltage: 2557.000000V
+Tempo amostra: 0.000802 Tempo total: 0.003216V
+Raw: 3040	Voltage: 2557.000000V
+Tempo amostra: 0.000782 Tempo total: 0.003998V
+Raw: 2999	Voltage: 2528.000000V
+Tempo amostra: 0.000778 Tempo total: 0.004775V
+Raw: 2997	Voltage: 2527.000000V
+Tempo amostra: 0.000850 Tempo total: 0.005625V
+Raw: 3032	Voltage: 2551.000000V
+Tempo amostra: 0.000810 Tempo total: 0.006435V
+Raw: 3033	Voltage: 2552.000000V
+Tempo amostra: 0.000802 Tempo total: 0.007237V
+Raw: 3030	Voltage: 2550.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008040V
+Raw: 3039	Voltage: 2556.000000V
+Tempo amostra: 0.000814 Tempo total: 0.008854V
+Raw: 3032	Voltage: 2551.000000V
+Tempo amostra: 0.000822 Tempo total: 0.009676V
+Raw: 3036	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.010478V
+Raw: 3038	Voltage: 2556.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011280V
+Raw: 3036	Voltage: 2554.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012082V
+Raw: 3041	Voltage: 2558.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012885V
+Raw: 3027	Voltage: 2548.000000V
+Tempo amostra: 0.000802 Tempo total: 0.013687V
+Raw: 3230	Voltage: 2686.000000V
+Tempo amostra: 0.000802 Tempo total: 0.014489V
+Raw: 2715	Voltage: 2315.000000V
+Tempo amostra: 0.000802 Tempo total: 0.015291V
+Raw: 4041	Voltage: 3106.000000V
+Tempo amostra: 0.000787 Tempo total: 0.016078V
+Raw: 2644	Voltage: 2259.000000V
+Tensão RMS: 2563.362305V
+Corrente RMS: 5.793300I
+neg: 0	pos: 140
+Energia consumida: 28.643904Wh
+Custo R$: 0.000094
+
+
+
+Tempo amostra: 0.000926 Tempo total: 0.000926V
+Raw: 2491	Voltage: 2136.000000V
+Tempo amostra: 0.000818 Tempo total: 0.001744V
+Raw: 3825	Voltage: 3010.000000V
+Tempo amostra: 0.000810 Tempo total: 0.002554V
+Raw: 2829	Voltage: 2407.000000V
+Tempo amostra: 0.000810 Tempo total: 0.003364V
+Raw: 3224	Voltage: 2682.000000V
+Tempo amostra: 0.000810 Tempo total: 0.004174V
+Raw: 3397	Voltage: 2790.000000V
+Tempo amostra: 0.000810 Tempo total: 0.004984V
+Raw: 2675	Voltage: 2283.000000V
+Tempo amostra: 0.000811 Tempo total: 0.005795V
+Raw: 3865	Voltage: 3029.000000V
+Tempo amostra: 0.000810 Tempo total: 0.006605V
+Raw: 2568	Voltage: 2198.000000V
+Tempo amostra: 0.000810 Tempo total: 0.007415V
+Raw: 3642	Voltage: 2922.000000V
+Tempo amostra: 0.000810 Tempo total: 0.008225V
+Raw: 2952	Voltage: 2493.000000V
+Tempo amostra: 0.000810 Tempo total: 0.009035V
+Raw: 3027	Voltage: 2548.000000V
+Tempo amostra: 0.000819 Tempo total: 0.009854V
+Raw: 3563	Voltage: 2882.000000V
+Tempo amostra: 0.000797 Tempo total: 0.010651V
+Raw: 2567	Voltage: 2197.000000V
+Tempo amostra: 0.000854 Tempo total: 0.011505V
+Raw: 3732	Voltage: 2966.000000V
+Tempo amostra: 0.000806 Tempo total: 0.012311V
+Raw: 2621	Voltage: 2240.000000V
+Tempo amostra: 0.000806 Tempo total: 0.013117V
+Raw: 3463	Voltage: 2828.000000V
+Tempo amostra: 0.000807 Tempo total: 0.013924V
+Raw: 3120	Voltage: 2612.000000V
+Tempo amostra: 0.000806 Tempo total: 0.014730V
+Raw: 2842	Voltage: 2417.000000V
+Tempo amostra: 0.000806 Tempo total: 0.015536V
+Raw: 3723	Voltage: 2962.000000V
+Tempo amostra: 0.000806 Tempo total: 0.016342V
+Raw: 2556	Voltage: 2188.000000V
+Tensão RMS: 2607.942871V
+Corrente RMS: 5.793300I
+neg: 0	pos: 160
+Energia consumida: 32.810905Wh
+Custo R$: 0.000120
+
+
+
+Tempo amostra: 0.000806 Tempo total: 0.000806V
+Raw: 2525	Voltage: 2163.000000V
+Tempo amostra: 0.000806 Tempo total: 0.001612V
+Raw: 3884	Voltage: 3037.000000V
+Tempo amostra: 0.000806 Tempo total: 0.002418V
+Raw: 2580	Voltage: 2207.000000V
+Tempo amostra: 0.000806 Tempo total: 0.003224V
+Raw: 3591	Voltage: 2897.000000V
+Tempo amostra: 0.000806 Tempo total: 0.004030V
+Raw: 2982	Voltage: 2515.000000V
+Tempo amostra: 0.000794 Tempo total: 0.004824V
+Raw: 2967	Voltage: 2504.000000V
+Tempo amostra: 0.000850 Tempo total: 0.005674V
+Raw: 3355	Voltage: 2765.000000V
+Tempo amostra: 0.000802 Tempo total: 0.006476V
+Raw: 2578	Voltage: 2206.000000V
+Tempo amostra: 0.000802 Tempo total: 0.007278V
+Raw: 3909	Voltage: 3048.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008080V
+Raw: 2667	Voltage: 2277.000000V
+Tempo amostra: 0.000803 Tempo total: 0.008883V
+Raw: 3427	Voltage: 2807.000000V
+Tempo amostra: 0.000802 Tempo total: 0.009685V
+Raw: 3169	Voltage: 2645.000000V
+Tempo amostra: 0.000802 Tempo total: 0.010487V
+Raw: 2827	Voltage: 2405.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011289V
+Raw: 3755	Voltage: 2977.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012091V
+Raw: 2547	Voltage: 2181.000000V
+Tempo amostra: 0.000810 Tempo total: 0.012901V
+Raw: 3816	Voltage: 3006.000000V
+Tempo amostra: 0.000802 Tempo total: 0.013703V
+Raw: 2798	Voltage: 2382.000000V
+Tempo amostra: 0.000802 Tempo total: 0.014505V
+Raw: 3253	Voltage: 2701.000000V
+Tempo amostra: 0.000802 Tempo total: 0.015307V
+Raw: 3360	Voltage: 2768.000000V
+Tempo amostra: 0.000781 Tempo total: 0.016089V
+Raw: 2817	Voltage: 2397.000000V
+Tensão RMS: 2611.883301V
+Corrente RMS: 5.793300I
+neg: 0	pos: 180
+Energia consumida: 36.985794Wh
+Custo R$: 0.000151
+
+
+
+Tempo amostra: 0.000934 Tempo total: 0.000934V
+Raw: 2823	Voltage: 2402.000000V
+Tempo amostra: 0.000810 Tempo total: 0.001744V
+Raw: 3627	Voltage: 2915.000000V
+Tempo amostra: 0.000818 Tempo total: 0.002561V
+Raw: 2577	Voltage: 2205.000000V
+Tempo amostra: 0.000810 Tempo total: 0.003371V
+Raw: 3903	Voltage: 3046.000000V
+Tempo amostra: 0.000810 Tempo total: 0.004181V
+Raw: 2686	Voltage: 2292.000000V
+Tempo amostra: 0.000810 Tempo total: 0.004991V
+Raw: 3402	Voltage: 2793.000000V
+Tempo amostra: 0.000810 Tempo total: 0.005801V
+Raw: 3196	Voltage: 2664.000000V
+Tempo amostra: 0.000810 Tempo total: 0.006611V
+Raw: 2784	Voltage: 2371.000000V
+Tempo amostra: 0.000810 Tempo total: 0.007421V
+Raw: 3774	Voltage: 2986.000000V
+Tempo amostra: 0.000810 Tempo total: 0.008231V
+Raw: 2534	Voltage: 2170.000000V
+Tempo amostra: 0.000810 Tempo total: 0.009041V
+Raw: 3776	Voltage: 2987.000000V
+Tempo amostra: 0.000810 Tempo total: 0.009850V
+Raw: 2819	Voltage: 2399.000000V
+Tempo amostra: 0.000797 Tempo total: 0.010648V
+Raw: 3348	Voltage: 2760.000000V
+Tempo amostra: 0.000785 Tempo total: 0.011433V
+Raw: 3365	Voltage: 2771.000000V
+Tempo amostra: 0.000785 Tempo total: 0.012218V
+Raw: 2623	Voltage: 2242.000000V
+Tempo amostra: 0.000785 Tempo total: 0.013004V
+Raw: 3807	Voltage: 3002.000000V
+Tempo amostra: 0.000785 Tempo total: 0.013789V
+Raw: 2515	Voltage: 2155.000000V
+Tempo amostra: 0.000829 Tempo total: 0.014618V
+Raw: 3583	Voltage: 2893.000000V
+Tempo amostra: 0.001303 Tempo total: 0.015922V
+Raw: 2766	Voltage: 2356.000000V
+Tempo amostra: 0.000960 Tempo total: 0.016882V
+Raw: 2878	Voltage: 2446.000000V
+Tensão RMS: 2611.166504V
+Corrente RMS: 5.793300I
+neg: 0	pos: 200
+Energia consumida: 41.158058Wh
+Custo R$: 0.000184
+
+
+
+Tempo amostra: 0.000785 Tempo total: 0.000785V
+Raw: 3108	Voltage: 2604.000000V
+Tempo amostra: 0.000858 Tempo total: 0.001644V
+Raw: 3146	Voltage: 2629.000000V
+Tempo amostra: 0.000781 Tempo total: 0.002425V
+Raw: 2690	Voltage: 2295.000000V
+Tempo amostra: 0.000782 Tempo total: 0.003207V
+Raw: 3698	Voltage: 2950.000000V
+Tempo amostra: 0.000798 Tempo total: 0.004004V
+Raw: 2325	Voltage: 2003.000000V
+Tempo amostra: 0.000789 Tempo total: 0.004794V
+Raw: 3672	Voltage: 2937.000000V
+Tempo amostra: 0.000790 Tempo total: 0.005584V
+Raw: 2787	Voltage: 2373.000000V
+Tempo amostra: 0.000825 Tempo total: 0.006409V
+Raw: 3158	Voltage: 2638.000000V
+Tempo amostra: 0.000778 Tempo total: 0.007187V
+Raw: 3384	Voltage: 2782.000000V
+Tempo amostra: 0.000777 Tempo total: 0.007964V
+Raw: 2597	Voltage: 2221.000000V
+Tempo amostra: 0.000778 Tempo total: 0.008742V
+Raw: 3818	Voltage: 3007.000000V
+Tempo amostra: 0.000781 Tempo total: 0.009523V
+Raw: 2525	Voltage: 2163.000000V
+Tempo amostra: 0.001100 Tempo total: 0.010623V
+Raw: 3570	Voltage: 2886.000000V
+Tempo amostra: 0.000891 Tempo total: 0.011514V
+Raw: 2714	Voltage: 2315.000000V
+Tempo amostra: 0.000782 Tempo total: 0.012295V
+Raw: 2953	Voltage: 2494.000000V
+Tempo amostra: 0.000852 Tempo total: 0.013148V
+Raw: 3310	Voltage: 2737.000000V
+Tempo amostra: 0.000789 Tempo total: 0.013937V
+Raw: 2515	Voltage: 2155.000000V
+Tempo amostra: 0.000777 Tempo total: 0.014715V
+Raw: 3819	Voltage: 3008.000000V
+Tempo amostra: 0.000778 Tempo total: 0.015492V
+Raw: 2620	Voltage: 2239.000000V
+Tempo amostra: 0.001329 Tempo total: 0.016821V
+Raw: 3483	Voltage: 2839.000000V
+Tensão RMS: 2583.095703V
+Corrente RMS: 5.793300I
+neg: 0	pos: 220
+Energia consumida: 45.283615Wh
+Custo R$: 0.000221
+
+
+
+Tempo amostra: 0.000932 Tempo total: 0.000932V
+Raw: 3663	Voltage: 2932.000000V
+Tempo amostra: 0.000810 Tempo total: 0.001742V
+Raw: 2858	Voltage: 2430.000000V
+Tempo amostra: 0.000810 Tempo total: 0.002552V
+Raw: 3117	Voltage: 2610.000000V
+Tempo amostra: 0.000810 Tempo total: 0.003362V
+Raw: 3464	Voltage: 2828.000000V
+Tempo amostra: 0.000810 Tempo total: 0.004172V
+Raw: 2630	Voltage: 2247.000000V
+Tempo amostra: 0.000810 Tempo total: 0.004982V
+Raw: 3888	Voltage: 3039.000000V
+Tempo amostra: 0.000810 Tempo total: 0.005791V
+Raw: 2587	Voltage: 2213.000000V
+Tempo amostra: 0.000810 Tempo total: 0.006601V
+Raw: 3537	Voltage: 2869.000000V
+Tempo amostra: 0.000810 Tempo total: 0.007411V
+Raw: 3025	Voltage: 2547.000000V
+Tempo amostra: 0.000810 Tempo total: 0.008221V
+Raw: 2934	Voltage: 2482.000000V
+Tempo amostra: 0.000818 Tempo total: 0.009039V
+Raw: 3647	Voltage: 2925.000000V
+Tempo amostra: 0.000810 Tempo total: 0.009849V
+Raw: 2583	Voltage: 2210.000000V
+Tempo amostra: 0.000810 Tempo total: 0.010659V
+Raw: 3896	Voltage: 3043.000000V
+Tempo amostra: 0.000797 Tempo total: 0.011456V
+Raw: 2646	Voltage: 2260.000000V
+Tempo amostra: 0.000854 Tempo total: 0.012310V
+Raw: 3711	Voltage: 2956.000000V
+Tempo amostra: 0.000806 Tempo total: 0.013116V
+Raw: 3235	Voltage: 2689.000000V
+Tempo amostra: 0.000806 Tempo total: 0.013922V
+Raw: 2794	Voltage: 2379.000000V
+Tempo amostra: 0.000806 Tempo total: 0.014728V
+Raw: 3789	Voltage: 2993.000000V
+Tempo amostra: 0.000806 Tempo total: 0.015534V
+Raw: 2544	Voltage: 2178.000000V
+Tempo amostra: 0.000806 Tempo total: 0.016340V
+Raw: 3778	Voltage: 2988.000000V
+Tensão RMS: 2659.296387V
+Corrente RMS: 5.793300I
+neg: 0	pos: 240
+Energia consumida: 49.533325Wh
+Custo R$: 0.000262
+
+
+
+Tempo amostra: 0.000815 Tempo total: 0.000815V
+Raw: 3957	Voltage: 3070.000000V
+Tempo amostra: 0.000806 Tempo total: 0.001621V
+Raw: 2613	Voltage: 2234.000000V
+Tempo amostra: 0.000807 Tempo total: 0.002428V
+Raw: 3514	Voltage: 2857.000000V
+Tempo amostra: 0.000806 Tempo total: 0.003234V
+Raw: 3050	Voltage: 2564.000000V
+Tempo amostra: 0.000806 Tempo total: 0.004040V
+Raw: 2906	Voltage: 2464.000000V
+Tempo amostra: 0.000806 Tempo total: 0.004846V
+Raw: 3674	Voltage: 2938.000000V
+Tempo amostra: 0.000785 Tempo total: 0.005632V
+Raw: 2525	Voltage: 2163.000000V
+Tempo amostra: 0.000850 Tempo total: 0.006481V
+Raw: 3818	Voltage: 3007.000000V
+Tempo amostra: 0.000802 Tempo total: 0.007283V
+Raw: 2712	Voltage: 2313.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008085V
+Raw: 3349	Voltage: 2761.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008887V
+Raw: 3249	Voltage: 2698.000000V
+Tempo amostra: 0.000802 Tempo total: 0.009689V
+Raw: 2758	Voltage: 2350.000000V
+Tempo amostra: 0.000802 Tempo total: 0.010490V
+Raw: 3789	Voltage: 2993.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011292V
+Raw: 2541	Voltage: 2176.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012094V
+Raw: 3745	Voltage: 2972.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012896V
+Raw: 2839	Voltage: 2415.000000V
+Tempo amostra: 0.000802 Tempo total: 0.013698V
+Raw: 3158	Voltage: 2638.000000V
+Tempo amostra: 0.000802 Tempo total: 0.014500V
+Raw: 3446	Voltage: 2818.000000V
+Tempo amostra: 0.000802 Tempo total: 0.015302V
+Raw: 2643	Voltage: 2258.000000V
+Tempo amostra: 0.000802 Tempo total: 0.016104V
+Raw: 3884	Voltage: 3037.000000V
+Tensão RMS: 2654.532715V
+Corrente RMS: 5.792890I
+neg: 0	pos: 260
+Energia consumida: 53.775394Wh
+Custo R$: 0.000306
+
+
+
+Tempo amostra: 0.000937 Tempo total: 0.000937V
+Raw: 3639	Voltage: 2921.000000V
+Tempo amostra: 0.001060 Tempo total: 0.001997V
+Raw: 2556	Voltage: 2188.000000V
+Tempo amostra: 0.000818 Tempo total: 0.002815V
+Raw: 3855	Voltage: 3024.000000V
+Tempo amostra: 0.000814 Tempo total: 0.003629V
+Raw: 2741	Voltage: 2336.000000V
+Tempo amostra: 0.000814 Tempo total: 0.004443V
+Raw: 3309	Voltage: 2736.000000V
+Tempo amostra: 0.000814 Tempo total: 0.005256V
+Raw: 3293	Voltage: 2726.000000V
+Tempo amostra: 0.000814 Tempo total: 0.006070V
+Raw: 2731	Voltage: 2328.000000V
+Tempo amostra: 0.000814 Tempo total: 0.006884V
+Raw: 3816	Voltage: 3006.000000V
+Tempo amostra: 0.000814 Tempo total: 0.007698V
+Raw: 2538	Voltage: 2174.000000V
+Tempo amostra: 0.000814 Tempo total: 0.008512V
+Raw: 3711	Voltage: 2956.000000V
+Tempo amostra: 0.000814 Tempo total: 0.009325V
+Raw: 2876	Voltage: 2444.000000V
+Tempo amostra: 0.000822 Tempo total: 0.010147V
+Raw: 3118	Voltage: 2610.000000V
+Tempo amostra: 0.000814 Tempo total: 0.010961V
+Raw: 3484	Voltage: 2840.000000V
+Tempo amostra: 0.000798 Tempo total: 0.011759V
+Raw: 2729	Voltage: 2327.000000V
+Tempo amostra: 0.000789 Tempo total: 0.012548V
+Raw: 3837	Voltage: 3016.000000V
+Tempo amostra: 0.000789 Tempo total: 0.013337V
+Raw: 2557	Voltage: 2189.000000V
+Tempo amostra: 0.000791 Tempo total: 0.014128V
+Raw: 3475	Voltage: 2835.000000V
+Tempo amostra: 0.000789 Tempo total: 0.014918V
+Raw: 2994	Voltage: 2524.000000V
+Tempo amostra: 0.000789 Tempo total: 0.015707V
+Raw: 2881	Voltage: 2448.000000V
+Tempo amostra: 0.000789 Tempo total: 0.016496V
+Raw: 3603	Voltage: 2903.000000V
+Tensão RMS: 2643.286865V
+Corrente RMS: 5.793300I
+neg: 0	pos: 280
+Energia consumida: 58.002007Wh
+Custo R$: 0.000353
+
+
+
+Tempo amostra: 0.000789 Tempo total: 0.000789V
+Raw: 3506	Voltage: 2852.000000V
+Tempo amostra: 0.000789 Tempo total: 0.001579V
+Raw: 2665	Voltage: 2275.000000V
+Tempo amostra: 0.000789 Tempo total: 0.002368V
+Raw: 3771	Voltage: 2985.000000V
+Tempo amostra: 0.000790 Tempo total: 0.003158V
+Raw: 2494	Voltage: 2138.000000V
+Tempo amostra: 0.000789 Tempo total: 0.003947V
+Raw: 3608	Voltage: 2905.000000V
+Tempo amostra: 0.000789 Tempo total: 0.004736V
+Raw: 2869	Voltage: 2439.000000V
+Tempo amostra: 0.000797 Tempo total: 0.005534V
+Raw: 3105	Voltage: 2602.000000V
+Tempo amostra: 0.000790 Tempo total: 0.006323V
+Raw: 3469	Voltage: 2831.000000V
+Tempo amostra: 0.000789 Tempo total: 0.007113V
+Raw: 2571	Voltage: 2200.000000V
+Tempo amostra: 0.000789 Tempo total: 0.007902V
+Raw: 3835	Voltage: 3015.000000V
+Tempo amostra: 0.000789 Tempo total: 0.008691V
+Raw: 2567	Voltage: 2197.000000V
+Tempo amostra: 0.000789 Tempo total: 0.009481V
+Raw: 3443	Voltage: 2816.000000V
+Tempo amostra: 0.000789 Tempo total: 0.010270V
+Raw: 3031	Voltage: 2551.000000V
+Tempo amostra: 0.000789 Tempo total: 0.011059V
+Raw: 2849	Voltage: 2423.000000V
+Tempo amostra: 0.000789 Tempo total: 0.011849V
+Raw: 3637	Voltage: 2920.000000V
+Tempo amostra: 0.000797 Tempo total: 0.012646V
+Raw: 2511	Voltage: 2152.000000V
+Tempo amostra: 0.000789 Tempo total: 0.013435V
+Raw: 3799	Voltage: 2998.000000V
+Tempo amostra: 0.000789 Tempo total: 0.014225V
+Raw: 2676	Voltage: 2284.000000V
+Tempo amostra: 0.000789 Tempo total: 0.015014V
+Raw: 3277	Voltage: 2716.000000V
+Tempo amostra: 0.000789 Tempo total: 0.015803V
+Raw: 3210	Voltage: 2673.000000V
+Tensão RMS: 2616.416260V
+Corrente RMS: 5.793300I
+neg: 0	pos: 300
+Energia consumida: 62.183659Wh
+Custo R$: 0.000404
+
+
+
+Tempo amostra: 0.000797 Tempo total: 0.000797V
+Raw: 3032	Voltage: 2551.000000V
+Tempo amostra: 0.000850 Tempo total: 0.001647V
+Raw: 3110	Voltage: 2605.000000V
+Tempo amostra: 0.000811 Tempo total: 0.002458V
+Raw: 3555	Voltage: 2878.000000V
+Tempo amostra: 0.000802 Tempo total: 0.003260V
+Raw: 2602	Voltage: 2225.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004062V
+Raw: 3892	Voltage: 3041.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004864V
+Raw: 2633	Voltage: 2250.000000V
+Tempo amostra: 0.000802 Tempo total: 0.005666V
+Raw: 3470	Voltage: 2832.000000V
+Tempo amostra: 0.000803 Tempo total: 0.006469V
+Raw: 3105	Voltage: 2602.000000V
+Tempo amostra: 0.000802 Tempo total: 0.007271V
+Raw: 2867	Voltage: 2437.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008073V
+Raw: 3706	Voltage: 2954.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008875V
+Raw: 2552	Voltage: 2185.000000V
+Tempo amostra: 0.000802 Tempo total: 0.009677V
+Raw: 3857	Voltage: 3025.000000V
+Tempo amostra: 0.000810 Tempo total: 0.010487V
+Raw: 2749	Voltage: 2343.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011289V
+Raw: 3296	Voltage: 2728.000000V
+Tempo amostra: 0.000781 Tempo total: 0.012070V
+Raw: 3239	Voltage: 2692.000000V
+Tempo amostra: 0.000854 Tempo total: 0.012924V
+Raw: 3096	Voltage: 2596.000000V
+Tempo amostra: 0.000806 Tempo total: 0.013730V
+Raw: 3839	Voltage: 3017.000000V
+Tempo amostra: 0.000806 Tempo total: 0.014536V
+Raw: 2536	Voltage: 2172.000000V
+Tempo amostra: 0.000806 Tempo total: 0.015341V
+Raw: 3695	Voltage: 2948.000000V
+Tempo amostra: 0.000806 Tempo total: 0.016147V
+Raw: 2880	Voltage: 2447.000000V
+Tensão RMS: 2642.290283V
+Corrente RMS: 5.793300I
+neg: 0	pos: 320
+Energia consumida: 66.410072Wh
+Custo R$: 0.000458
+
+
+
+Tempo amostra: 0.000806 Tempo total: 0.000806V
+Raw: 2731	Voltage: 2328.000000V
+Tempo amostra: 0.000807 Tempo total: 0.001613V
+Raw: 3444	Voltage: 2817.000000V
+Tempo amostra: 0.000806 Tempo total: 0.002419V
+Raw: 3141	Voltage: 2626.000000V
+Tempo amostra: 0.000806 Tempo total: 0.003225V
+Raw: 2820	Voltage: 2399.000000V
+Tempo amostra: 0.000806 Tempo total: 0.004031V
+Raw: 3730	Voltage: 2965.000000V
+Tempo amostra: 0.000806 Tempo total: 0.004837V
+Raw: 2535	Voltage: 2171.000000V
+Tempo amostra: 0.000814 Tempo total: 0.005651V
+Raw: 3829	Voltage: 3012.000000V
+Tempo amostra: 0.000785 Tempo total: 0.006436V
+Raw: 2725	Voltage: 2323.000000V
+Tempo amostra: 0.000925 Tempo total: 0.007361V
+Raw: 3229	Voltage: 2685.000000V
+Tempo amostra: 0.000826 Tempo total: 0.008187V
+Raw: 3094	Voltage: 2594.000000V
+Tempo amostra: 0.000778 Tempo total: 0.008965V
+Raw: 2640	Voltage: 2255.000000V
+Tempo amostra: 0.000778 Tempo total: 0.009743V
+Raw: 3782	Voltage: 2990.000000V
+Tempo amostra: 0.000778 Tempo total: 0.010520V
+Raw: 2500	Voltage: 2143.000000V
+Tempo amostra: 0.000777 Tempo total: 0.011298V
+Raw: 3597	Voltage: 2900.000000V
+Tempo amostra: 0.000778 Tempo total: 0.012075V
+Raw: 2873	Voltage: 2442.000000V
+Tempo amostra: 0.000777 Tempo total: 0.012853V
+Raw: 3014	Voltage: 2539.000000V
+Tempo amostra: 0.000786 Tempo total: 0.013639V
+Raw: 3472	Voltage: 2833.000000V
+Tempo amostra: 0.000789 Tempo total: 0.014428V
+Raw: 2570	Voltage: 2199.000000V
+Tempo amostra: 0.000777 Tempo total: 0.015206V
+Raw: 3834	Voltage: 3015.000000V
+Tempo amostra: 0.000777 Tempo total: 0.015983V
+Raw: 2573	Voltage: 2202.000000V
+Tensão RMS: 2589.933594V
+Corrente RMS: 5.793300I
+neg: 0	pos: 340
+Energia consumida: 70.548767Wh
+Custo R$: 0.000516
+
+
+
+Tempo amostra: 0.000789 Tempo total: 0.000789V
+Raw: 2422	Voltage: 2081.000000V
+Tempo amostra: 0.000825 Tempo total: 0.001614V
+Raw: 3794	Voltage: 2996.000000V
+Tempo amostra: 0.000778 Tempo total: 0.002392V
+Raw: 2758	Voltage: 2350.000000V
+Tempo amostra: 0.000786 Tempo total: 0.003178V
+Raw: 3155	Voltage: 2636.000000V
+Tempo amostra: 0.000777 Tempo total: 0.003956V
+Raw: 3335	Voltage: 2753.000000V
+Tempo amostra: 0.000777 Tempo total: 0.004733V
+Raw: 2628	Voltage: 2246.000000V
+Tempo amostra: 0.000777 Tempo total: 0.005510V
+Raw: 3792	Voltage: 2995.000000V
+Tempo amostra: 0.000778 Tempo total: 0.006288V
+Raw: 2508	Voltage: 2150.000000V
+Tempo amostra: 0.000777 Tempo total: 0.007065V
+Raw: 3569	Voltage: 2885.000000V
+Tempo amostra: 0.000777 Tempo total: 0.007843V
+Raw: 2897	Voltage: 2458.000000V
+Tempo amostra: 0.000777 Tempo total: 0.008620V
+Raw: 2973	Voltage: 2509.000000V
+Tempo amostra: 0.000777 Tempo total: 0.009398V
+Raw: 3513	Voltage: 2856.000000V
+Tempo amostra: 0.000777 Tempo total: 0.010175V
+Raw: 2546	Voltage: 2180.000000V
+Tempo amostra: 0.000777 Tempo total: 0.010952V
+Raw: 3845	Voltage: 3020.000000V
+Tempo amostra: 0.000781 Tempo total: 0.011734V
+Raw: 2548	Voltage: 2182.000000V
+Tempo amostra: 0.000777 Tempo total: 0.012511V
+Raw: 3403	Voltage: 2793.000000V
+Tempo amostra: 0.000825 Tempo total: 0.013336V
+Raw: 3016	Voltage: 2540.000000V
+Tempo amostra: 0.000777 Tempo total: 0.014114V
+Raw: 2785	Voltage: 2371.000000V
+Tempo amostra: 0.000777 Tempo total: 0.014891V
+Raw: 3658	Voltage: 2930.000000V
+Tempo amostra: 0.000777 Tempo total: 0.015668V
+Raw: 2498	Voltage: 2142.000000V
+Tensão RMS: 2573.824951V
+Corrente RMS: 5.793300I
+neg: 0	pos: 360
+Energia consumida: 74.658043Wh
+Custo R$: 0.000577
+
+
+
+Tempo amostra: 0.000785 Tempo total: 0.000785V
+Raw: 2474	Voltage: 2122.000000V
+Tempo amostra: 0.000777 Tempo total: 0.001563V
+Raw: 3814	Voltage: 3005.000000V
+Tempo amostra: 0.000779 Tempo total: 0.002342V
+Raw: 2524	Voltage: 2162.000000V
+Tempo amostra: 0.000778 Tempo total: 0.003120V
+Raw: 3530	Voltage: 2865.000000V
+Tempo amostra: 0.000777 Tempo total: 0.003897V
+Raw: 2928	Voltage: 2478.000000V
+Tempo amostra: 0.000777 Tempo total: 0.004675V
+Raw: 2935	Voltage: 2482.000000V
+Tempo amostra: 0.000777 Tempo total: 0.005452V
+Raw: 3555	Voltage: 2878.000000V
+Tempo amostra: 0.000781 Tempo total: 0.006233V
+Raw: 2569	Voltage: 2199.000000V
+Tempo amostra: 0.000777 Tempo total: 0.007011V
+Raw: 3844	Voltage: 3019.000000V
+Tempo amostra: 0.000850 Tempo total: 0.007861V
+Raw: 2621	Voltage: 2240.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008663V
+Raw: 3432	Voltage: 2810.000000V
+Tempo amostra: 0.000802 Tempo total: 0.009465V
+Raw: 3148	Voltage: 2631.000000V
+Tempo amostra: 0.000803 Tempo total: 0.010268V
+Raw: 2827	Voltage: 2405.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011070V
+Raw: 3735	Voltage: 2968.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011872V
+Raw: 2548	Voltage: 2182.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012674V
+Raw: 3824	Voltage: 3010.000000V
+Tempo amostra: 0.000802 Tempo total: 0.013476V
+Raw: 2783	Voltage: 2370.000000V
+Tempo amostra: 0.000802 Tempo total: 0.014278V
+Raw: 3262	Voltage: 2706.000000V
+Tempo amostra: 0.000802 Tempo total: 0.015080V
+Raw: 3357	Voltage: 2766.000000V
+Tempo amostra: 0.000802 Tempo total: 0.015882V
+Raw: 2691	Voltage: 2296.000000V
+Tensão RMS: 2598.661621V
+Corrente RMS: 5.793300I
+neg: 0	pos: 380
+Energia consumida: 78.809265Wh
+Custo R$: 0.000642
+
+
+
+Tempo amostra: 0.002023 Tempo total: 0.002023V
+Raw: 2935	Voltage: 2482.000000V
+Tempo amostra: 0.000785 Tempo total: 0.002808V
+Raw: 3588	Voltage: 2895.000000V
+Tempo amostra: 0.000854 Tempo total: 0.003662V
+Raw: 2604	Voltage: 2227.000000V
+Tempo amostra: 0.000806 Tempo total: 0.004468V
+Raw: 3909	Voltage: 3048.000000V
+Tempo amostra: 0.000806 Tempo total: 0.005273V
+Raw: 2691	Voltage: 2296.000000V
+Tempo amostra: 0.000806 Tempo total: 0.006079V
+Raw: 3405	Voltage: 2794.000000V
+Tempo amostra: 0.000806 Tempo total: 0.006885V
+Raw: 3191	Voltage: 2660.000000V
+Tempo amostra: 0.000806 Tempo total: 0.007691V
+Raw: 2811	Voltage: 2392.000000V
+Tempo amostra: 0.000806 Tempo total: 0.008496V
+Raw: 3766	Voltage: 2982.000000V
+Tempo amostra: 0.000806 Tempo total: 0.009302V
+Raw: 2546	Voltage: 2180.000000V
+Tempo amostra: 0.000806 Tempo total: 0.010108V
+Raw: 3794	Voltage: 2996.000000V
+Tempo amostra: 0.000814 Tempo total: 0.010922V
+Raw: 2815	Voltage: 2395.000000V
+Tempo amostra: 0.000806 Tempo total: 0.011728V
+Raw: 3210	Voltage: 2673.000000V
+Tempo amostra: 0.000806 Tempo total: 0.012533V
+Raw: 3400	Voltage: 2791.000000V
+Tempo amostra: 0.000838 Tempo total: 0.013371V
+Raw: 2709	Voltage: 2311.000000V
+Tempo amostra: 0.000785 Tempo total: 0.014156V
+Raw: 3809	Voltage: 3003.000000V
+Tempo amostra: 0.000850 Tempo total: 0.015006V
+Raw: 2590	Voltage: 2215.000000V
+Tempo amostra: 0.000802 Tempo total: 0.015808V
+Raw: 3620	Voltage: 2911.000000V
+Tempo amostra: 0.000802 Tempo total: 0.016610V
+Raw: 2947	Voltage: 2489.000000V
+Tempo amostra: 0.000802 Tempo total: 0.017412V
+Raw: 3021	Voltage: 2544.000000V
+Tensão RMS: 2630.245361V
+Corrente RMS: 5.793300I
+neg: 0	pos: 400
+Energia consumida: 83.016029Wh
+Custo R$: 0.000709
+
+
+
+Tempo amostra: 0.000802 Tempo total: 0.000802V
+Raw: 3165	Voltage: 2642.000000V
+Tempo amostra: 0.000802 Tempo total: 0.001604V
+Raw: 3212	Voltage: 2674.000000V
+Tempo amostra: 0.000802 Tempo total: 0.002406V
+Raw: 2756	Voltage: 2348.000000V
+Tempo amostra: 0.000802 Tempo total: 0.003208V
+Raw: 3786	Voltage: 2992.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004010V
+Raw: 2540	Voltage: 2175.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004812V
+Raw: 3755	Voltage: 2977.000000V
+Tempo amostra: 0.000802 Tempo total: 0.005614V
+Raw: 2835	Voltage: 2411.000000V
+Tempo amostra: 0.000802 Tempo total: 0.006415V
+Raw: 3173	Voltage: 2648.000000V
+Tempo amostra: 0.000781 Tempo total: 0.007197V
+Raw: 3370	Voltage: 2774.000000V
+Tempo amostra: 0.000777 Tempo total: 0.007974V
+Raw: 2602	Voltage: 2225.000000V
+Tempo amostra: 0.000778 Tempo total: 0.008752V
+Raw: 3814	Voltage: 3005.000000V
+Tempo amostra: 0.000854 Tempo total: 0.009606V
+Raw: 2536	Voltage: 2172.000000V
+Tempo amostra: 0.000806 Tempo total: 0.010411V
+Raw: 3588	Voltage: 2895.000000V
+Tempo amostra: 0.000806 Tempo total: 0.011217V
+Raw: 2980	Voltage: 2514.000000V
+Tempo amostra: 0.000806 Tempo total: 0.012023V
+Raw: 2986	Voltage: 2518.000000V
+Tempo amostra: 0.000814 Tempo total: 0.012837V
+Raw: 3617	Voltage: 2910.000000V
+Tempo amostra: 0.000806 Tempo total: 0.013643V
+Raw: 2587	Voltage: 2213.000000V
+Tempo amostra: 0.000806 Tempo total: 0.014449V
+Raw: 3900	Voltage: 3044.000000V
+Tempo amostra: 0.000806 Tempo total: 0.015255V
+Raw: 2662	Voltage: 2273.000000V
+Tempo amostra: 0.000806 Tempo total: 0.016060V
+Raw: 3429	Voltage: 2808.000000V
+Tensão RMS: 2628.033691V
+Corrente RMS: 5.793300I
+neg: 0	pos: 420
+Energia consumida: 87.217476Wh
+Custo R$: 0.000781
+
+
+
+Tempo amostra: 0.000806 Tempo total: 0.000806V
+Raw: 3602	Voltage: 2902.000000V
+Tempo amostra: 0.000785 Tempo total: 0.001591V
+Raw: 2805	Voltage: 2387.000000V
+Tempo amostra: 0.000941 Tempo total: 0.002533V
+Raw: 3493	Voltage: 2845.000000V
+Tempo amostra: 0.000810 Tempo total: 0.003343V
+Raw: 3442	Voltage: 2816.000000V
+Tempo amostra: 0.000810 Tempo total: 0.004153V
+Raw: 2637	Voltage: 2253.000000V
+Tempo amostra: 0.000810 Tempo total: 0.004963V
+Raw: 3876	Voltage: 3034.000000V
+Tempo amostra: 0.000810 Tempo total: 0.005772V
+Raw: 2585	Voltage: 2211.000000V
+Tempo amostra: 0.000811 Tempo total: 0.006583V
+Raw: 3549	Voltage: 2875.000000V
+Tempo amostra: 0.000810 Tempo total: 0.007393V
+Raw: 3019	Voltage: 2542.000000V
+Tempo amostra: 0.000810 Tempo total: 0.008203V
+Raw: 2942	Voltage: 2486.000000V
+Tempo amostra: 0.000810 Tempo total: 0.009013V
+Raw: 3648	Voltage: 2925.000000V
+Tempo amostra: 0.000810 Tempo total: 0.009823V
+Raw: 2570	Voltage: 2199.000000V
+Tempo amostra: 0.000819 Tempo total: 0.010641V
+Raw: 3897	Voltage: 3043.000000V
+Tempo amostra: 0.000810 Tempo total: 0.011451V
+Raw: 2690	Voltage: 2295.000000V
+Tempo amostra: 0.000810 Tempo total: 0.012261V
+Raw: 3396	Voltage: 2789.000000V
+Tempo amostra: 0.001684 Tempo total: 0.013945V
+Raw: 2945	Voltage: 2488.000000V
+Tempo amostra: 0.000785 Tempo total: 0.014731V
+Raw: 2741	Voltage: 2336.000000V
+Tempo amostra: 0.000850 Tempo total: 0.015580V
+Raw: 3716	Voltage: 2959.000000V
+Tempo amostra: 0.000802 Tempo total: 0.016382V
+Raw: 2541	Voltage: 2176.000000V
+Tempo amostra: 0.000802 Tempo total: 0.017184V
+Raw: 3788	Voltage: 2993.000000V
+Tensão RMS: 2645.873291V
+Corrente RMS: 5.793300I
+neg: 0	pos: 440
+Energia consumida: 91.445961Wh
+Custo R$: 0.000855
+
+
+
+Tempo amostra: 0.000802 Tempo total: 0.000802V
+Raw: 3951	Voltage: 3067.000000V
+Tempo amostra: 0.000802 Tempo total: 0.001604V
+Raw: 2602	Voltage: 2225.000000V
+Tempo amostra: 0.000802 Tempo total: 0.002406V
+Raw: 3509	Voltage: 2854.000000V
+Tempo amostra: 0.000802 Tempo total: 0.003208V
+Raw: 3055	Voltage: 2568.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004010V
+Raw: 2911	Voltage: 2467.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004812V
+Raw: 3676	Voltage: 2939.000000V
+Tempo amostra: 0.000809 Tempo total: 0.005621V
+Raw: 2573	Voltage: 2202.000000V
+Tempo amostra: 0.000802 Tempo total: 0.006423V
+Raw: 3890	Voltage: 3040.000000V
+Tempo amostra: 0.000818 Tempo total: 0.007241V
+Raw: 2565	Voltage: 2195.000000V
+Tempo amostra: 0.000778 Tempo total: 0.008018V
+Raw: 3317	Voltage: 2742.000000V
+Tempo amostra: 0.000825 Tempo total: 0.008844V
+Raw: 3027	Voltage: 2548.000000V
+Tempo amostra: 0.001059 Tempo total: 0.009903V
+Raw: 2959	Voltage: 2498.000000V
+Tempo amostra: 0.000805 Tempo total: 0.010708V
+Raw: 3473	Voltage: 2833.000000V
+Tempo amostra: 0.000782 Tempo total: 0.011490V
+Raw: 2470	Voltage: 2119.000000V
+Tempo amostra: 0.000781 Tempo total: 0.012271V
+Raw: 3676	Voltage: 2939.000000V
+Tempo amostra: 0.000781 Tempo total: 0.013052V
+Raw: 2803	Voltage: 2386.000000V
+Tempo amostra: 0.000789 Tempo total: 0.013842V
+Raw: 3097	Voltage: 2596.000000V
+Tempo amostra: 0.000781 Tempo total: 0.014623V
+Raw: 3394	Voltage: 2788.000000V
+Tempo amostra: 0.000781 Tempo total: 0.015405V
+Raw: 2593	Voltage: 2218.000000V
+Tempo amostra: 0.001475 Tempo total: 0.016880V
+Raw: 3761	Voltage: 2980.000000V
+Tensão RMS: 2628.107666V
+Corrente RMS: 5.793300I
+neg: 0	pos: 460
+Energia consumida: 95.646324Wh
+Custo R$: 0.000934
+
+
+
+Tempo amostra: 0.000879 Tempo total: 0.000879V
+Raw: 3848	Voltage: 3021.000000V
+Tempo amostra: 0.000793 Tempo total: 0.001672V
+Raw: 2639	Voltage: 2255.000000V
+Tempo amostra: 0.000785 Tempo total: 0.002458V
+Raw: 3808	Voltage: 3002.000000V
+Tempo amostra: 0.000850 Tempo total: 0.003307V
+Raw: 2684	Voltage: 2291.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004109V
+Raw: 3309	Voltage: 2736.000000V
+Tempo amostra: 0.000802 Tempo total: 0.004911V
+Raw: 3276	Voltage: 2715.000000V
+Tempo amostra: 0.000802 Tempo total: 0.005713V
+Raw: 2727	Voltage: 2325.000000V
+Tempo amostra: 0.000802 Tempo total: 0.006516V
+Raw: 3818	Voltage: 3007.000000V
+Tempo amostra: 0.000802 Tempo total: 0.007318V
+Raw: 2543	Voltage: 2178.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008120V
+Raw: 3719	Voltage: 2960.000000V
+Tempo amostra: 0.000802 Tempo total: 0.008922V
+Raw: 2869	Voltage: 2439.000000V
+Tempo amostra: 0.000802 Tempo total: 0.009724V
+Raw: 3108	Voltage: 2604.000000V
+Tempo amostra: 0.000802 Tempo total: 0.010526V
+Raw: 3475	Voltage: 2835.000000V
+Tempo amostra: 0.000802 Tempo total: 0.011328V
+Raw: 2628	Voltage: 2246.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012130V
+Raw: 3894	Voltage: 3042.000000V
+Tempo amostra: 0.000802 Tempo total: 0.012932V
+Raw: 2593	Voltage: 2218.000000V
+Tempo amostra: 0.000781 Tempo total: 0.013713V
+Raw: 3513	Voltage: 2856.000000V
+Tempo amostra: 0.000955 Tempo total: 0.014668V
+Raw: 2728	Voltage: 2326.000000V
+Tempo amostra: 0.000814 Tempo total: 0.015482V
+Raw: 2964	Voltage: 2502.000000V
+Tempo amostra: 0.000814 Tempo total: 0.016296V
+Raw: 3651	Voltage: 2926.000000V
+Tensão RMS: 2642.489990V
+Corrente RMS: 5.793300I
+neg: 0	pos: 480
+Energia consumida: 99.869171Wh
+Custo R$: 0.001015
+
+
+
+Tempo amostra: 0.000822 Tempo total: 0.000822V
+Raw: 3548	Voltage: 2874.000000V
+Tempo amostra: 0.000814 Tempo total: 0.001635V
+Raw: 2719	Voltage: 2319.000000V
+Tempo amostra: 0.000814 Tempo total: 0.002449V
+Raw: 3839	Voltage: 3017.000000V
+Tempo amostra: 0.000814 Tempo total: 0.003263V
+Raw: 2543	Voltage: 2178.000000V
+Tempo amostra: 0.000814 Tempo total: 0.004077V
+Raw: 3695	Voltage: 2948.000000V
+Tempo amostra: 0.000814 Tempo total: 0.004891V
+Raw: 2897	Voltage: 2458.000000V
+Tempo amostra: 0.000814 Tempo total: 0.005704V
+Raw: 3074	Voltage: 2581.000000V
+Tempo amostra: 0.000822 Tempo total: 0.006526V
+Raw: 3508	Voltage: 2853.000000V
+Tempo amostra: 0.000814 Tempo total: 0.007340V
+Raw: 2619	Voltage: 2239.000000V
+Tempo amostra: 0.000793 Tempo total: 0.008133V
+Raw: 3836	Voltage: 3016.000000V
+Tempo amostra: 0.000934 Tempo total: 0.009068V
+Raw: 2557	Voltage: 2189.000000V
+Tempo amostra: 0.000810 Tempo total: 0.009877V
+Raw: 3506	Voltage: 2852.000000V
+Tempo amostra: 0.000811 Tempo total: 0.010688V
+Raw: 3054	Voltage: 2567.000000V
+Tempo amostra: 0.000810 Tempo total: 0.011498V
+Raw: 2906	Voltage: 2464.000000V
+Tempo amostra: 0.000810 Tempo total: 0.012308V
+Raw: 3676	Voltage: 2939.000000V
+Tempo amostra: 0.000810 Tempo total: 0.013118V
+Raw: 2558	Voltage: 2190.000000V
+Tempo amostra: 0.000810 Tempo total: 0.013928V
+Raw: 3879	Voltage: 3035.000000V
+Tempo amostra: 0.000819 Tempo total: 0.014747V
+Raw: 2718	Voltage: 2318.000000V
+Tempo amostra: 0.000810 Tempo total: 0.015557V
+Raw: 3343	Voltage: 2757.000000V
+Tempo amostra: 0.000810 Tempo total: 0.016367V
+Raw: 3249	Voltage: 2698.000000V
+Tensão RMS: 2642.077393V
+Corrente RMS: 5.793300I
+neg: 0	pos: 500
+Energia consumida: 104.092659Wh
+Custo R$: 0.001100
+
+
+
+[0;32mI (22892) espressif: Writing 0[0m
+[0;32mI (22892) espressif: Writing 1[0m
+[0;32mI (22892) espressif: Writing 2[0m
+[0;32mI (22902) espressif: Writing 3[0m
+[0;32mI (22902) espressif: Writing 4[0m
+[0;32mI (22902) espressif: Writing 5[0m
+[0;32mI (22912) espressif: Writing 6[0m
+[0;32mI (22912) espressif: Writing 7[0m
+[0;32mI (22922) espressif: Writing 8[0m
+[0;32mI (22922) espressif: Writing 9[0m
+[0;32mI (22922) espressif: Writing 10[0m
+[0;32mI (22932) espressif: Writing 11[0m
+[0;32mI (22932) espressif: Writing 12[0m
+[0;32mI (22942) espressif: Writing 13[0m
+[0;32mI (22942) espressif: Writing 14[0m
+[0;32mI (22942) espressif: Writing 15[0m
+[0;32mI (22952) espressif: Writing 16[0m
+[0;32mI (22952) espressif: Writing 17[0m
+[0;32mI (22952) espressif: Writing 18[0m
+[0;32mI (22962) espressif: Writing 19[0m
+[0;32mI (22962) espressif: Writing 20[0m
+[0;32mI (22972) espressif: Writing 21[0m
+[0;32mI (22972) espressif: Writing 22[0m
+[0;32mI (22972) espressif: Writing 23[0m
+[0;32mI (22982) espressif: Writing 24[0m
+[0;32mI (22982) espressif: Writing 25[0m
+[0;32mI (22982) espressif: Writing 26[0m
+[0;32mI (22992) espressif: Writing 27[0m
+[0;32mI (22992) espressif: Writing 28[0m
+[0;32mI (23002) espressif: Writing 29[0m
+[0;32mI (23002) espressif: Writing 30[0m
+[0;32mI (23002) espressif: Writing 31[0m
+[0;32mI (23012) espressif: Writing 32[0m
+[0;32mI (23012) espressif: Writing 33[0m
+[0;32mI (23022) espressif: Writing 34[0m
+[0;32mI (23022) espressif: Writing 35[0m
+[0;32mI (23022) espressif: Writing 36[0m
+[0;32mI (23032) espressif: Writing 37[0m
+[0;32mI (23032) espressif: Writing 38[0m
+[0;32mI (23032) espressif: Writing 39[0m
+[0;32mI (23042) espressif: Writing 40[0m
+[0;32mI (23042) espressif: Writing 41[0m
+[0;32mI (23052) espressif: Writing 42[0m
+[0;32mI (23052) espressif: Writing 43[0m
+[0;32mI (23052) espressif: Writing 44[0m
+[0;32mI (23062) espressif: Writing 45[0m
+[0;32mI (23062) espressif: Writing 46[0m
+[0;32mI (23062) espressif: Writing 47[0m
+[0;32mI (23072) espressif: Writing 48[0m
+[0;32mI (23072) espressif: Writing 49[0m
+[0;32mI (23082) espressif: Writing 50[0m
+[0;32mI (23082) espressif: Writing 51[0m
+[0;32mI (23082) espressif: Writing 52[0m
+[0;32mI (23092) espressif: Writing 53[0m
+[0;32mI (23092) espressif: Writing 54[0m
+[0;32mI (23102) espressif: Writing 55[0m
+[0;32mI (23102) espressif: Writing 56[0m
+[0;32mI (23102) espressif: Writing 57[0m
+[0;32mI (23112) espressif: Writing 58[0m
+[0;32mI (23112) espressif: Writing 59[0m
+[0;32mI (23112) espressif: Writing 60[0m
+[0;32mI (23122) espressif: Writing 61[0m
+[0;32mI (23122) espressif: Writing 62[0m
+[0;32mI (23132) espressif: Writing 63[0m
+[0;32mI (23132) espressif: Writing 64[0m
+[0;32mI (23132) espressif: Writing 65[0m
+[0;32mI (23142) espressif: Writing 66[0m
+[0;32mI (23142) espressif: Writing 67[0m
+[0;32mI (23152) espressif: Writing 68[0m
+[0;32mI (23152) espressif: Writing 69[0m
+[0;32mI (23152) espressif: Writing 70[0m
+[0;32mI (23162) espressif: Writing 71[0m
+[0;32mI (23162) espressif: Writing 72[0m
+[0;32mI (23162) espressif: Writing 73[0m
+[0;32mI (23172) espressif: Writing 74[0m
+[0;32mI (23172) espressif: Writing 75[0m
+[0;32mI (23182) espressif: Writing 76[0m
+[0;32mI (23182) espressif: Writing 77[0m
+[0;32mI (23182) espressif: Writing 78[0m
+[0;32mI (23192) espressif: Writing 79[0m
+[0;32mI (23192) espressif: Writing 80[0m
+[0;32mI (23192) espressif: Writing 81[0m
+[0;32mI (23202) espressif: Writing 82[0m
+[0;32mI (23202) espressif: Writing 83[0m
+[0;32mI (23212) espressif: Writing 84[0m
+[0;32mI (23212) espressif: Writing 85[0m
+[0;32mI (23212) espressif: Writing 86[0m
+[0;32mI (23222) espressif: Writing 87[0m
+[0;32mI (23222) espressif: Writing 88[0m
+[0;32mI (23232) espressif: Writing 89[0m
+[0;32mI (23232) espressif: Writing 90[0m
+[0;32mI (23232) espressif: Writing 91[0m
+[0;32mI (23242) espressif: Writing 92[0m
+[0;32mI (23242) espressif: Writing 93[0m
+[0;32mI (23242) espressif: Writing 94[0m
+[0;32mI (23252) espressif: Writing 95[0m
+[0;32mI (23252) espressif: Writing 96[0m
+[0;32mI (23262) espressif: Writing 97[0m
+[0;32mI (23262) espressif: Writing 98[0m
+[0;32mI (23262) espressif: Writing 99[0m
+[0;32mI (23272) espressif: Writing 100[0m
+[0;32mI (23272) espressif: Writing 101[0m
+[0;32mI (23282) espressif: Writing 102[0m
+[0;32mI (23282) espressif: Writing 103[0m
+[0;32mI (23282) espressif: Writing 104[0m
+[0;32mI (23292) espressif: Writing 105[0m
+[0;32mI (23292) espressif: Writing 106[0m
+[0;32mI (23292) espressif: Writing 107[0m
+[0;32mI (23302) espressif: Writing 108[0m
+[0;32mI (23302) espressif: Writing 109[0m
+[0;32mI (23312) espressif: Writing 110[0m
+[0;32mI (23312) espressif: Writing 111[0m
+[0;32mI (23312) espressif: Writing 112[0m
+[0;32mI (23322) espressif: Writing 113[0m
+[0;32mI (23322) espressif: Writing 114[0m
+[0;32mI (23332) espressif: Writing 115[0m
+[0;32mI (23332) espressif: Writing 116[0m
+[0;32mI (23332) espressif: Writing 117[0m
+[0;32mI (23342) espressif: Writing 118[0m
+[0;32mI (23342) espressif: Writing 119[0m
+[0;32mI (23352) espressif: Writing 120[0m
+[0;32mI (23352) espressif: Writing 121[0m
+[0;32mI (23352) espressif: Writing 122[0m
+[0;32mI (23362) espressif: Writing 123[0m
+[0;32mI (23362) espressif: Writing 124[0m
+[0;32mI (23362) espressif: Writing 125[0m
+[0;32mI (23372) espressif: Writing 126[0m
+[0;32mI (23372) espressif: Writing 127[0m
+[0;32mI (23382) espressif: Writing 128[0m
+[0;32mI (23382) espressif: Writing 129[0m
+[0;32mI (23382) espressif: Writing 130[0m
+[0;32mI (23392) espressif: Writing 131[0m
+[0;32mI (23392) espressif: Writing 132[0m
+[0;32mI (23402) espressif: Writing 133[0m
+[0;32mI (23402) espressif: Writing 134[0m
+[0;32mI (23402) espressif: Writing 135[0m
+[0;32mI (23412) espressif: Writing 136[0m
+[0;32mI (23412) espressif: Writing 137[0m
+[0;32mI (23422) espressif: Writing 138[0m
+[0;32mI (23422) espressif: Writing 139[0m
+[0;32mI (23422) espressif: Writing 140[0m
+[0;32mI (23432) espressif: Writing 141[0m
+[0;32mI (23432) espressif: Writing 142[0m
+[0;32mI (23442) espressif: Writing 143[0m
+[0;32mI (23442) espressif: Writing 144[0m
+[0;32mI (23442) espressif: Writing 145[0m
+[0;32mI (23452) espressif: Writing 146[0m
+[0;32mI (23452) espressif: Writing 147[0m
+[0;32mI (23452) espressif: Writing 148[0m
+[0;32mI (23462) espressif: Writing 149[0m
+[0;32mI (23462) espressif: Writing 150[0m
+[0;32mI (23472) espressif: Writing 151[0m
+[0;32mI (23472) espressif: Writing 152[0m
+[0;32mI (23472) espressif: Writing 153[0m
+[0;32mI (23482) espressif: Writing 154[0m
+[0;32mI (23482) espressif: Writing 155[0m
+[0;32mI (23492) espressif: Writing 156[0m
+[0;32mI (23492) espressif: Writing 157[0m
+[0;32mI (23492) espressif: Writing 158[0m
+[0;32mI (23502) espressif: Writing 159[0m
+[0;32mI (23502) espressif: Writing 160[0m
+[0;32mI (23512) espressif: Writing 161[0m
+[0;32mI (23512) espressif: Writing 162[0m
+[0;32mI (23512) espressif: Writing 163[0m
+[0;32mI (23522) espressif: Writing 164[0m
+[0;32mI (23522) espressif: Writing 165[0m
+[0;32mI (23532) espressif: Writing 166[0m
+[0;32mI (23532) espressif: Writing 167[0m
+[0;32mI (23532) espressif: Writing 168[0m
+[0;32mI (23542) espressif: Writing 169[0m
+[0;32mI (23542) espressif: Writing 170[0m
+[0;32mI (23542) espressif: Writing 171[0m
+[0;32mI (23552) espressif: Writing 172[0m
+[0;32mI (23552) espressif: Writing 173[0m
+[0;32mI (23562) espressif: Writing 174[0m
+[0;32mI (23562) espressif: Writing 175[0m
+[0;32mI (23562) espressif: Writing 176[0m
+[0;32mI (23572) espressif: Writing 177[0m
+[0;32mI (23572) espressif: Writing 178[0m
+[0;32mI (23582) espressif: Writing 179[0m
+[0;32mI (23582) espressif: Writing 180[0m
+[0;32mI (23582) espressif: Writing 181[0m
+[0;32mI (23592) espressif: Writing 182[0m
+[0;32mI (23592) espressif: Writing 183[0m
+[0;32mI (23602) espressif: Writing 184[0m
+[0;32mI (23602) espressif: Writing 185[0m
+[0;32mI (23602) espressif: Writing 186[0m
+[0;32mI (23612) espressif: Writing 187[0m
+[0;32mI (23612) espressif: Writing 188[0m
+[0;32mI (23612) espressif: Writing 189[0m
+[0;32mI (23622) espressif: Writing 190[0m
+[0;32mI (23622) espressif: Writing 191[0m
+[0;32mI (23632) espressif: Writing 192[0m
+[0;32mI (23632) espressif: Writing 193[0m
+[0;32mI (23632) espressif: Writing 194[0m
+[0;32mI (23642) espressif: Writing 195[0m
+[0;32mI (23642) espressif: Writing 196[0m
+[0;32mI (23652) espressif: Writing 197[0m
+[0;32mI (23652) espressif: Writing 198[0m
+[0;32mI (23652) espressif: Writing 199[0m
+[0;32mI (23662) espressif: Writing 200[0m
+[0;32mI (23662) espressif: Writing 201[0m
+[0;32mI (23672) espressif: Writing 202[0m
+[0;32mI (23672) espressif: Writing 203[0m
+[0;32mI (23672) espressif: Writing 204[0m
+[0;32mI (23682) espressif: Writing 205[0m
+[0;32mI (23682) espressif: Writing 206[0m
+[0;32mI (23692) espressif: Writing 207[0m
+[0;32mI (23692) espressif: Writing 208[0m
+[0;32mI (23692) espressif: Writing 209[0m
+[0;32mI (23702) espressif: Writing 210[0m
+[0;32mI (23702) espressif: Writing 211[0m
+[0;32mI (23702) espressif: Writing 212[0m
+[0;32mI (23712) espressif: Writing 213[0m
+[0;32mI (23712) espressif: Writing 214[0m
+[0;32mI (23722) espressif: Writing 215[0m
+[0;32mI (23722) espressif: Writing 216[0m
+[0;32mI (23722) espressif: Writing 217[0m
+[0;32mI (23732) espressif: Writing 218[0m
+[0;32mI (23732) espressif: Writing 219[0m
+[0;32mI (23742) espressif: Writing 220[0m
+[0;32mI (23742) espressif: Writing 221[0m
+[0;32mI (23742) espressif: Writing 222[0m
+[0;32mI (23752) espressif: Writing 223[0m
+[0;32mI (23752) espressif: Writing 224[0m
+[0;32mI (23762) espressif: Writing 225[0m
+[0;32mI (23762) espressif: Writing 226[0m
+[0;32mI (23762) espressif: Writing 227[0m
+[0;32mI (23772) espressif: Writing 228[0m
+[0;32mI (23772) espressif: Writing 229[0m
+[0;32mI (23782) espressif: Writing 230[0m
+[0;32mI (23782) espressif: Writing 231[0m
+[0;32mI (23782) espressif: Writing 232[0m
+[0;32mI (23792) espressif: Writing 233[0m
+[0;32mI (23792) espressif: Writing 234[0m
+[0;32mI (23792) espressif: Writing 235[0m
+[0;32mI (23802) espressif: Writing 236[0m
+[0;32mI (23802) espressif: Writing 237[0m
+[0;32mI (23812) espressif: Writing 238[0m
+[0;32mI (23812) espressif: Writing 239[0m
+[0;32mI (23812) espressif: Writing 240[0m
+[0;32mI (23822) espressif: Writing 241[0m
+[0;32mI (23822) espressif: Writing 242[0m
+[0;32mI (23832) espressif: Writing 243[0m
+[0;32mI (23832) espressif: Writing 244[0m
+[0;32mI (23832) espressif: Writing 245[0m
+[0;32mI (23842) espressif: Writing 246[0m
+[0;32mI (23842) espressif: Writing 247[0m
+[0;32mI (23852) espressif: Writing 248[0m
+[0;32mI (23852) espressif: Writing 249[0m
+[0;32mI (23852) espressif: Writing 250[0m
+[0;32mI (23862) espressif: Writing 251[0m
+[0;32mI (23862) espressif: Writing 252[0m
+[0;32mI (23862) espressif: Writing 253[0m
+[0;32mI (23872) espressif: Writing 254[0m
+[0;32mI (23872) espressif: Writing 255[0m
+[0;32mI (23882) espressif: Writing 256[0m
+[0;32mI (23882) espressif: Writing 257[0m
+[0;32mI (23882) espressif: Writing 258[0m
+[0;32mI (23892) espressif: Writing 259[0m
+[0;32mI (23892) espressif: Writing 260[0m
+[0;32mI (23902) espressif: Writing 261[0m
+[0;32mI (23902) espressif: Writing 262[0m
+[0;32mI (23902) espressif: Writing 263[0m
+[0;32mI (23912) espressif: Writing 264[0m
+[0;32mI (23912) espressif: Writing 265[0m
+[0;32mI (23922) espressif: Writing 266[0m
+[0;32mI (23922) espressif: Writing 267[0m
+[0;32mI (23922) espressif: Writing 268[0m
+[0;32mI (23932) espressif: Writing 269[0m
+[0;32mI (23932) espressif: Writing 270[0m
+[0;32mI (23942) espressif: Writing 271[0m
+[0;32mI (23942) espressif: Writing 272[0m
+[0;32mI (23942) espressif: Writing 273[0m
+[0;32mI (23952) espressif: Writing 274[0m
+[0;32mI (23952) espressif: Writing 275[0m
+[0;32mI (23952) espressif: Writing 276[0m
+[0;32mI (23962) espressif: Writing 277[0m
+[0;32mI (23962) espressif: Writing 278[0m
+[0;32mI (23972) espressif: Writing 279[0m
+[0;32mI (23972) espressif: Writing 280[0m
+[0;32mI (23972) espressif: Writing 281[0m
+[0;32mI (23982) espressif: Writing 282[0m
+[0;32mI (23982) espressif: Writing 283[0m
+[0;32mI (23992) espressif: Writing 284[0m
+[0;32mI (23992) espressif: Writing 285[0m
+[0;32mI (23992) espressif: Writing 286[0m
+[0;32mI (24002) espressif: Writing 287[0m
+[0;32mI (24002) espressif: Writing 288[0m
+[0;32mI (24012) espressif: Writing 289[0m
+[0;32mI (24012) espressif: Writing 290[0m
+[0;32mI (24012) espressif: Writing 291[0m
+[0;32mI (24022) espressif: Writing 292[0m
+[0;32mI (24022) espressif: Writing 293[0m
+[0;32mI (24032) espressif: Writing 294[0m
+[0;32mI (24032) espressif: Writing 295[0m
+[0;32mI (24032) espressif: Writing 296[0m
+[0;32mI (24042) espressif: Writing 297[0m
+[0;32mI (24042) espressif: Writing 298[0m
+[0;32mI (24042) espressif: Writing 299[0m
+[0;32mI (24052) espressif: Writing 300[0m
+[0;32mI (24052) espressif: Writing 301[0m
+[0;32mI (24062) espressif: Writing 302[0m
+[0;32mI (24062) espressif: Writing 303[0m
+[0;32mI (24062) espressif: Writing 304[0m
+[0;32mI (24072) esp[0;31mE (24072) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (24072) task_wdt:  - IDLE (CPU 0)[0m
+[0;31mE (24072) task_wdt: Tasks currently running:[0m
+[0;31mE (24072) task_wdt: CPU 0: main[0m
+[0;31mE (24072) task_wdt: CPU 1: IDLE[0m
+[0;31mE (24072) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400DDC0B:0x3FFB0B90 0x40082BAD:0x3FFB0BB0 0x400D4BA9:0x3FFB9FD0 0x400D5341:0x3FFBA000 0x400D4267:0x3FFBA020 0x400D386B:0x3FFBA040 0x4000BD83:0x3FFBA060 0x4000117D:0x3FFBA080 0x400592FE:0x3FFBA0A0 0x4005937A:0x3FFBA0C0 0x40058BBF:0x3FFBA0E0 0x40142FA3:0x3FFBA110 0x4013EB4F:0x3FFBA130 0x4013ECCD:0x3FFBA440 0x40148DA9:0x3FFBA470 0x4008DC8D:0x3FFBA4A0 0x400D708D:0x3FFBA4F0 0x40148A9C:0x3FFBA530 0x4008B885:0x3FFBA550
+0x400ddc0b: task_wdt_isr at C:/esp/esp-idf/components/esp_system/task_wdt.c:183 (discriminator 3)
+0x40082bad: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x400d4ba9: uart_tx_char at C:/esp/esp-idf/components/vfs/vfs_uart.c:154
+0x400d5341: uart_write at C:/esp/esp-idf/components/vfs/vfs_uart.c:209
+0x400d4267: console_write at C:/esp/esp-idf/components/vfs/vfs_console.c:73
+0x400d386b: esp_vfs_write at C:/esp/esp-idf/components/vfs/vfs.c:431 (discriminator 4)
+0x40142fa3: __sprint_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:433
+ (inlined by) __sprint_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:403
+0x4013eb4f: _vfprintf_r at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vfprintf.c:1781 (discriminator 1)
+0x4013eccd: vprintf at /builds/idf/crosstool-NG/.build/HOST-x86_64-w64-mingw32/xtensa-esp32-elf/src/newlib/newlib/libc/stdio/vprintf.c:34 (discriminator 5)
+0x40148da9: esp_log_writev at C:/esp/esp-idf/components/log/log.c:200
+0x4008dc8d: esp_log_write at C:/esp/esp-idf/components/log/log.c:210
+0x400d708d: app_main at C:/esp/esp-idf/examples/esp-medidor-consumo-web-server/main/main.c:540 (discriminator 13)
+0x40148a9c: main_task at C:/esp/esp-idf/components/freertos/port/port_common.c:141 (discriminator 2)
+0x4008b885: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+[0;31mE (24072) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x40084D39:0x3FFB1190 0x40082BAD:0x3FFB11B0 0x4000BFED:0x3FFBB350 0x4008BB36:0x3FFBB360 0x400DDE68:0x3FFBB380 0x400DDE73:0x3FFBB3B0 0x400D2C99:0x3FFBB3D0 0x40089C31:0x3FFBB3F0 0x4008B885:0x3FFBB410
+0x40084d39: esp_crosscore_isr at C:/esp/esp-idf/components/esp_system/crosscore_int.c:92
+0x40082bad: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x4008bb36: vPortClearInterruptMaskFromISR at C:/esp/esp-idf/components/freertos/port/xtensa/include/freertos/portmacro.h:571
+ (inlined by) vPortExitCritical at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:319
+0x400dde68: esp_task_wdt_reset at C:/esp/esp-idf/components/esp_system/task_wdt.c:330
+0x400dde73: idle_hook_cb at C:/esp/esp-idf/components/esp_system/task_wdt.c:80
+0x400d2c99: esp_vApplicationIdleHook at C:/esp/esp-idf/components/esp_system/freertos_hooks.c:51 (discriminator 1)
+0x40089c31: prvIdleTask at C:/esp/esp-idf/components/freertos/tasks.c:3987 (discriminator 1)
+0x4008b885: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+ressif: Writing 305[0m
+[0;32mI (24172) espressif: Writing 306[0m
+[0;32mI (24172) espressif: Writing 307[0m
+[0;32mI (24172) espressif: Writing 308[0m
+[0;32mI (24182) espressif: Writing 309[0m
+[0;32mI (24182) espressif: Writing 310[0m
+[0;32mI (24192) espressif: Writing 311[0m
+[0;32mI (24192) espressif: Writing 312[0m
+[0;32mI (24192) espressif: Writing 313[0m
+[0;32mI (24202) espressif: Writing 314[0m
+[0;32mI (24202) espressif: Writing 315[0m
+[0;32mI (24212) espressif: Writing 316[0m
+[0;32mI (24212) espressif: Writing 317[0m
+[0;32mI (24212) espressif: Writing 318[0m
+[0;32mI (24222) espressif: Writing 319[0m
+[0;32mI (24222) espressif: Writing 320[0m
+[0;32mI (24222) espressif: Writing 321[0m
+[0;32mI (24232) espressif: Writing 322[0m
+[0;32mI (24232) espressif: Writing 323[0m
+[0;32mI (24242) espressif: Writing 324[0m
+[0;32mI (24242) espressif: Writing 325[0m
+[0;32mI (24242) espressif: Writing 326[0m
+[0;32mI (24252) espressif: Writing 327[0m
+[0;32mI (24252) espressif: Writing 328[0m
+[0;32mI (24262) espressif: Writing 329[0m
+[0;32mI (24262) espressif: Writing 330[0m
+[0;32mI (24262) espressif: Writing 331[0m
+[0;32mI (24272) espressif: Writing 332[0m
+[0;32mI (24272) espressif: Writing 333[0m
+[0;32mI (24282) espressif: Writing 334[0m
+[0;32mI (24282) espressif: Writing 335[0m
+[0;32mI (24282) espressif: Writing 336[0m
+[0;32mI (24292) espressif: Writing 337[0m
+[0;32mI (24292) espressif: Writing 338[0m
+[0;32mI (24302) espressif: Writing 339[0m
+[0;32mI (24302) espressif: Writing 340[0m
+[0;32mI (24302) espressif: Writing 341[0m
+[0;32mI (24312) espressif: Writing 342[0m
+[0;32mI (24312) espressif: Writing 343[0m
+[0;32mI (24312) espressif: Writing 344[0m
+[0;32mI (24322) espressif: Writing 345[0m
+[0;32mI (24322) espressif: Writing 346[0m
+[0;32mI (24332) espressif: Writing 347[0m
+[0;32mI (24332) espressif: Writing 348[0m
+[0;32mI (24332) espressif: Writing 349[0m
+[0;32mI (24342) espressif: Writing 350[0m
+[0;32mI (24342) espressif: Writing 351[0m
+[0;32mI (24352) espressif: Writing 352[0m
+[0;32mI (24352) espressif: Writing 353[0m
+[0;32mI (24352) espressif: Writing 354[0m
+[0;32mI (24362) espressif: Writing 355[0m
+[0;32mI (24362) espressif: Writing 356[0m
+[0;32mI (24372) espressif: Writing 357[0m
+[0;32mI (24372) espressif: Writing 358[0m
+[0;32mI (24372) espressif: Writing 359[0m
+[0;32mI (24382) espressif: Writing 360[0m
+[0;32mI (24382) espressif: Writing 361[0m
+[0;32mI (24382) espressif: Writing 362[0m
+[0;32mI (24392) espressif: Writing 363[0m
+[0;32mI (24392) espressif: Writing 364[0m
+[0;32mI (24402) espressif: Writing 365[0m
+[0;32mI (24402) espressif: Writing 366[0m
+[0;32mI (24402) espressif: Writing 367[0m
+[0;32mI (24412) espressif: Writing 368[0m
+[0;32mI (24412) espressif: Writing 369[0m
+[0;32mI (24422) espressif: Writing 370[0m
+[0;32mI (24422) espressif: Writing 371[0m
+[0;32mI (24422) espressif: Writing 372[0m
+[0;32mI (24432) espressif: Writing 373[0m
+[0;32mI (24432) espressif: Writing 374[0m
+[0;32mI (24442) espressif: Writing 375[0m
+[0;32mI (24442) espressif: Writing 376[0m
+[0;32mI (24442) espressif: Writing 377[0m
+[0;32mI (24452) espressif: Writing 378[0m
+[0;32mI (24452) espressif: Writing 379[0m
+[0;32mI (24462) espressif: Writing 380[0m
+[0;32mI (24462) espressif: Writing 381[0m
+[0;32mI (24462) espressif: Writing 382[0m
+[0;32mI (24472) espressif: Writing 383[0m
+[0;32mI (24472) espressif: Writing 384[0m
+[0;32mI (24472) espressif: Writing 385[0m
+[0;32mI (24482) espressif: Writing 386[0m
+[0;32mI (24482) espressif: Writing 387[0m
+[0;32mI (24492) espressif: Writing 388[0m
+[0;32mI (24492) espressif: Writing 389[0m
+[0;32mI (24492) espressif: Writing 390[0m
+[0;32mI (24502) espressif: Writing 391[0m
+[0;32mI (24502) espressif: Writing 392[0m
+[0;32mI (24512) espressif: Writing 393[0m
+[0;32mI (24512) espressif: Writing 394[0m
+[0;32mI (24512) espressif: Writing 395[0m
+[0;32mI (24522) espressif: Writing 396[0m
+[0;32mI (24522) espressif: Writing 397[0m
+[0;32mI (24532) espressif: Writing 398[0m
+[0;32mI (24532) espressif: Writing 399[0m
+[0;32mI (24532) espressif: Writing 400[0m
+[0;32mI (24542) espressif: Writing 401[0m
+[0;32mI (24542) espressif: Writing 402[0m
+[0;32mI (24552) espressif: Writing 403[0m
+[0;32mI (24552) espressif: Writing 404[0m
+[0;32mI (24552) espressif: Writing 405[0m
+[0;32mI (24562) espressif: Writing 406[0m
+[0;32mI (24562) espressif: Writing 407[0m
+[0;32mI (24562) espressif: Writing 408[0m
+[0;32mI (24572) espressif: Writing 409[0m
+[0;32mI (24572) espressif: Writing 410[0m
+[0;32mI (24582) espressif: Writing 411[0m
+[0;32mI (24582) espressif: Writing 412[0m
+[0;32mI (24582) espressif: Writing 413[0m
+[0;32mI (24592) espressif: Writing 414[0m
+[0;32mI (24592) espressif: Writing 415[0m
+[0;32mI (24602) espressif: Writing 416[0m
+[0;32mI (24602) espressif: Writing 417[0m
+[0;32mI (24602) espressif: Writing 418[0m
+[0;32mI (24612) espressif: Writing 419[0m
+[0;32mI (24612) espressif: Writing 420[0m
+[0;32mI (24622) espressif: Writing 421[0m
+[0;32mI (24622) espressif: Writing 422[0m
+[0;32mI (24622) espressif: Writing 423[0m
+[0;32mI (24632) espressif: Writing 424[0m
+[0;32mI (24632) espressif: Writing 425[0m
+[0;32mI (24632) espressif: Writing 426[0m
+[0;32mI (24642) espressif: Writing 427[0m
+[0;32mI (24642) espressif: Writing 428[0m
+[0;32mI (24652) espressif: Writing 429[0m
+[0;32mI (24652) espressif: Writing 430[0m
+[0;32mI (24652) espressif: Writing 431[0m
+[0;32mI (24662) espressif: Writing 432[0m
+[0;32mI (24662) espressif: Writing 433[0m
+[0;32mI (24672) espressif: Writing 434[0m
+[0;32mI (24672) espressif: Writing 435[0m
+[0;32mI (24672) espressif: Writing 436[0m
+[0;32mI (24682) espressif: Writing 437[0m
+[0;32mI (24682) espressif: Writing 438[0m
+[0;32mI (24692) espressif: Writing 439[0m
+[0;32mI (24692) espressif: Writing 440[0m
+[0;32mI (24692) espressif: Writing 441[0m
+[0;32mI (24702) espressif: Writing 442[0m
+[0;32mI (24702) espressif: Writing 443[0m
+[0;32mI (24712) espressif: Writing 444[0m
+[0;32mI (24712) espressif: Writing 445[0m
+[0;32mI (24712) espressif: Writing 446[0m
+[0;32mI (24722) espressif: Writing 447[0m
+[0;32mI (24722) espressif: Writing 448[0m
+[0;32mI (24722) espressif: Writing 449[0m
+[0;32mI (24732) espressif: Writing 450[0m
+[0;32mI (24732) espressif: Writing 451[0m
+[0;32mI (24742) espressif: Writing 452[0m
+[0;32mI (24742) espressif: Writing 453[0m
+[0;32mI (24742) espressif: Writing 454[0m
+[0;32mI (24752) espressif: Writing 455[0m
+[0;32mI (24752) espressif: Writing 456[0m
+[0;32mI (24762) espressif: Writing 457[0m
+[0;32mI (24762) espressif: Writing 458[0m
+[0;32mI (24762) espressif: Writing 459[0m
+[0;32mI (24772) espressif: Writing 460[0m
+[0;32mI (24772) espressif: Writing 461[0m
+[0;32mI (24782) espressif: Writing 462[0m
+[0;32mI (24782) espressif: Writing 463[0m
+[0;32mI (24782) espressif: Writing 464[0m
+[0;32mI (24792) espressif: Writing 465[0m
+[0;32mI (24792) espressif: Writing 466[0m
+[0;32mI (24802) espressif: Writing 467[0m
+[0;32mI (24802) espressif: Writing 468[0m
+[0;32mI (24802) espressif: Writing 469[0m
+[0;32mI (24812) espressif: Writing 470[0m
+[0;32mI (24812) espressif: Writing 471[0m
+[0;32mI (24812) espressif: Writing 472[0m
+[0;32mI (24822) espressif: Writing 473[0m
+[0;32mI (24822) espressif: Writing 474[0m
+[0;32mI (24832) espressif: Writing 475[0m
+[0;32mI (24832) espressif: Writing 476[0m
+[0;32mI (24832) espressif: Writing 477[0m
+[0;32mI (24842) espressif: Writing 478[0m
+[0;32mI (24842) espressif: Writing 479[0m
+[0;32mI (24852) espressif: Writing 480[0m
+[0;32mI (24852) espressif: Writing 481[0m
+[0;32mI (24852) espressif: Writing 482[0m
+[0;32mI (24862) espressif: Writing 483[0m
+[0;32mI (24862) espressif: Writing 484[0m
+[0;32mI (24872) espressif: Writing 485[0m
+[0;32mI (24872) espressif: Writing 486[0m
+[0;32mI (24872) espressif: Writing 487[0m
+[0;32mI (24882) espressif: Writing 488[0m
+[0;32mI (24882) espressif: Writing 489[0m
+[0;32mI (24882) espressif: Writing 490[0m
+[0;32mI (24892) espressif: Writing 491[0m
+[0;32mI (24892) espressif: Writing 492[0m
+[0;32mI (24902) espressif: Writing 493[0m
+[0;32mI (24902) espressif: Writing 494[0m
+[0;32mI (24902) espressif: Writing 495[0m
+[0;32mI (24912) espressif: Writing 496[0m
+[0;32mI (24912) espressif: Writing 497[0m
+[0;32mI (24922) espressif: Writing 498[0m
+[0;32mI (24922) espressif: Writing 499[0m
+[0;32mI (24922) espressif: Writing 500[0m
+[0;32mI (24932) espressif: Writing 501[0m
+[0;32mI (24932) espressif: Writing 502[0m
+[0;32mI (24942) espressif: Writing 503[0m
+[0;32mI (24942) espressif: Writing 504[0m
+[0;32mI (24942) espressif: Writing 505[0m
+[0;32mI (24952) espressif: Writing 506[0m
+[0;32mI (24952) espressif: Writing 507[0m
+[0;32mI (24962) espressif: Writing 508[0m
+[0;32mI (24962) espressif: Writing 509[0m
+[0;32mI (24962) espressif: Writing 510[0m
+[0;32mI (24972) espressif: Writing 511[0m
+[0;32mI (24972) espressif: Writing 512[0m
+[0;32mI (24972) espressif: Writing 513[0m
+[0;32mI (24982) espressif: Writing 514[0m
+[0;32mI (24982) espressif: Writing 515[0m
+[0;32mI (24992) espressif: Writing 516[0m
+[0;32mI (24992) espressif: Writing 517[0m
+[0;32mI (24992) espressif: Writing 518[0m
+[0;32mI (25002) espressif: Writing 519[0m
+[0;32mI (25002) espressif: Writing 520[0m
+[0;32mI (25012) espressif: Writing 521[0m
+[0;32mI (25012) espressif: Writing 522[0m
+[0;32mI (25012) espressif: Writing 523[0m
+[0;32mI (25022) espressif: Writing 524[0m
+[0;32mI (25022) espressif: Writing 525[0m
+[0;32mI (25032) espressif: Writing 526[0m
+[0;32mI (25032) espressif: Writing 527[0m
+[0;32mI (25032) espressif: Writing 528[0m
+[0;32mI (25042) espressif: Writing 529[0m
+[0;32mI (25042) espressif: Writing 530[0m
+[0;32mI (25052) espressif: Writing 531[0m
+[0;32mI (25052) espressif: Writing 532[0m
+[0;32mI (25052) espressif: Writing 533[0m
+[0;32mI (25062) espressif: Writing 534[0m
+[0;32mI (25062) espressif: Writing 535[0m
+[0;32mI (25062) espressif: Writing 536[0m
+[0;32mI (25072) espressif: Writing 537[0m
+[0;32mI (25072) espressif: Writing 538[0m
+[0;32mI (25082) espressif: Writing 539[0m
+[0;32mI (25082) espressif: Writing 540[0m
+[0;32mI (25082) espressif: Writing 541[0m
+[0;32mI (25092) espressif: Writing 542[0m
+[0;32mI (25092) espressif: Writing 543[0m
+[0;32mI (25102) espressif: Writing 544[0m
+[0;32mI (25102) espressif: Writing 545[0m
+[0;32mI (25102) espressif: Writing 546[0m
+[0;32mI (25112) espressif: Writing 547[0m
+[0;32mI (25112) espressif: Writing 548[0m
+[0;32mI (25122) espressif: Writing 549[0m
+[0;32mI (25122) espressif: Writing 550[0m
+[0;32mI (25122) espressif: Writing 551[0m
+[0;32mI (25132) espressif: Writing 552[0m
+[0;32mI (25132) espressif: Writing 553[0m
+[0;32mI (25132) espressif: Writing 554[0m
+[0;32mI (25142) espressif: Writing 555[0m
+[0;32mI (25142) espressif: Writing 556[0m
+[0;32mI (25152) espressif: Writing 557[0m
+[0;32mI (25152) espressif: Writing 558[0m
+[0;32mI (25152) espressif: Writing 559[0m
+[0;32mI (25162) espressif: Writing 560[0m
+[0;32mI (25162) espressif: Writing 561[0m
+[0;32mI (25172) espressif: Writing 562[0m
+[0;32mI (25172) espressif: Writing 563[0m
+[0;32mI (25172) espressif: Writing 564[0m
+[0;32mI (25182) espressif: Writing 565[0m
+[0;32mI (25182) espressif: Writing 566[0m
+[0;32mI (25192) espressif: Writing 567[0m
+[0;32mI (25192) espressif: Writing 568[0m
+[0;32mI (25192) espressif: Writing 569[0m
+[0;32mI (25202) espressif: Writing 570[0m
+[0;32mI (25202) espressif: Writing 571[0m
+[0;32mI (25212) espressif: Writing 572[0m
+[0;32mI (25212) espressif: Writing 573[0m
+[0;32mI (25212) espressif: Writing 574[0m
+[0;32mI (25222) espressif: Writing 575[0m
+[0;32mI (25222) espressif: Writing 576[0m
+[0;32mI (25222) espressif: Writing 577[0m
+[0;32mI (25232) espressif: Writing 578[0m
+[0;32mI (25232) espressif: Writing 579[0m
+[0;32mI (25242) espressif: Writing 580[0m
+[0;32mI (25242) espressif: Writing 581[0m
+[0;32mI (25242) espressif: Writing 582[0m
+[0;32mI (25252) espressif: Writing 583[0m
+[0;32mI (25252) espressif: Writing 584[0m
+[0;32mI (25262) espressif: Writing 585[0m
+[0;32mI (25262) espressif: Writing 586[0m
+[0;32mI (25262) espressif: Writing 587[0m
+[0;32mI (25272) espressif: Writing 588[0m
+[0;32mI (25272) espressif: Writing 589[0m
+[0;32mI (25282) espressif: Writing 590[0m
+[0;32mI (25282) espressif: Writing 591[0m
+[0;32mI (25282) espressif: Writing 592[0m
+[0;32mI (25292) espressif: Writing 593[0m
+[0;32mI (25292) espressif: Writing 594[0m
+[0;32mI (25302) espressif: Writing 595[0m
+[0;32mI (25302) espressif: Writing 596[0m
+[0;32mI (25302) espressif: Writing 597[0m
+[0;32mI (25312) espressif: Writing 598[0m
+[0;32mI (25312) espressif: Writing 599[0m
+[0;32mI (25312) espressif: Writing 600[0m
+[0;32mI (25322) espressif: Writing 601[0m
+[0;32mI (25322) espressif: Writing 602[0m
+[0;32mI (25332) espressif: Writing 603[0m
+[0;32mI (25332) espressif: Writing 604[0m
+[0;32mI (25332) espressif: Writing 605[0m
+[0;32mI (25342) espressif: Writing 606[0m
+[0;32mI (25342) espressif: Writing 607[0m
+[0;32mI (25352) espressif: Writing 608[0m
+[0;32mI (25352) espressif: Writing 609[0m
+[0;32mI (25352) espressif: Writing 610[0m
+[0;32mI (25362) espressif: Writing 611[0m
+[0;32mI (25362) espressif: Writing 612[0m
+[0;32mI (25372) espressif: Writing 613[0m
+[0;32mI (25372) espressif: Writing 614[0m
+[0;32mI (25372) espressif: Writing 615[0m
+[0;32mI (25382) espressif: Writing 616[0m
+[0;32mI (25382) espressif: Writing 617[0m
+[0;32mI (25382) espressif: Writing 618[0m
+[0;32mI (25392) espressif: Writing 619[0m
+[0;32mI (25392) espressif: Writing 620[0m
+[0;32mI (25402) espressif: Writing 621[0m
+[0;32mI (25402) espressif: Writing 622[0m
+[0;32mI (25402) espressif: Writing 623[0m
+[0;32mI (25412) espressif: Writing 624[0m
+[0;32mI (25412) espressif: Writing 625[0m
+[0;32mI (25422) espressif: Writing 626[0m
+[0;32mI (25422) espressif: Writing 627[0m
+[0;32mI (25422) espressif: Writing 628[0m
+[0;32mI (25432) espressif: Writing 629[0m
+[0;32mI (25432) espressif: Writing 630[0m
+[0;32mI (25442) espressif: Writing 631[0m
+[0;32mI (25442) espressif: Writing 632[0m
+[0;32mI (25442) espressif: Writing 633[0m
+[0;32mI (25452) espressif: Writing 634[0m
+[0;32mI (25452) espressif: Writing 635[0m
+[0;32mI (25462) espressif: Writing 636[0m
+[0;32mI (25462) espressif: Writing 637[0m
+[0;32mI (25462) espressif: Writing 638[0m
+[0;32mI (25472) espressif: Writing 639[0m
+[0;32mI (25472) espressif: Writing 640[0m
+[0;32mI (25472) espressif: Writing 641[0m
+[0;32mI (25482) espressif: Writing 642[0m
+[0;32mI (25482) espressif: Writing 643[0m
+[0;32mI (25492) espressif: Writing 644[0m
+[0;32mI (25492) espressif: Writing 645[0m
+[0;32mI (25492) espressif: Writing 646[0m
+[0;32mI (25502) espressif: Writing 647[0m
+[0;32mI (25502) espressif: Writing 648[0m
+[0;32mI (25512) espressif: Writing 649[0m
+[0;32mI (25512) espressif: Writing 650[0m
+[0;32mI (25512) espressif: Writing 651[0m
+[0;32mI (25522) espressif: Writing 652[0m
+[0;32mI (25522) espressif: Writing 653[0m
+[0;32mI (25532) espressif: Writing 654[0m
+[0;32mI (25532) espressif: Writing 655[0m
+[0;32mI (25532) espressif: Writing 656[0m
+[0;32mI (25542) espressif: Writing 657[0m
+[0;32mI (25542) espressif: Writing 658[0m
+[0;32mI (25552) espressif: Writing 659[0m
+[0;32mI (25552) espressif: Writing 660[0m
+[0;32mI (25552) espressif: Writing 661[0m
+[0;32mI (25562) espressif: Writing 662[0m
+[0;32mI (25562) espressif: Writing 663[0m
+[0;32mI (25562) espressif: Writing 664[0m
+[0;32mI (25572) espressif: Writing 665[0m
+[0;32mI (25572) espressif: Writing 666[0m
+[0;32mI (25582) espressif: Writing 667[0m
+[0;32mI (25582) espressif: Writing 668[0m
+[0;32mI (25582) espressif: Writing 669[0m
+[0;32mI (25592) espressif: Writing 670[0m
+[0;32mI (25592) espressif: Writing 671[0m
+[0;32mI (25602) espressif: Writing 672[0m
+[0;32mI (25602) espressif: Writing 673[0m
+[0;32mI (25602) espressif: Writing 674[0m
+[0;32mI (25612) espressif: Writing 675[0m
+[0;32mI (25612) espressif: Writing 676[0m
+[0;32mI (25622) espressif: Writing 677[0m
+[0;32mI (25622) espressif: Writing 678[0m
+[0;32mI (25622) espressif: Writing 679[0m
+[0;32mI (25632) espressif: Writing 680[0m
+[0;32mI (25632) espressif: Writing 681[0m
+[0;32mI (25632) espressif: Writing 682[0m
+[0;32mI (25642) espressif: Writing 683[0m
+[0;32mI (25642) espressif: Writing 684[0m
+[0;32mI (25652) espressif: Writing 685[0m
+[0;32mI (25652) espressif: Writing 686[0m
+[0;32mI (25652) espressif: Writing 687[0m
+[0;32mI (25662) espressif: Writing 688[0m
+[0;32mI (25662) espressif: Writing 689[0m
+[0;32mI (25672) espressif: Writing 690[0m
+[0;32mI (25672) espressif: Writing 691[0m
+[0;32mI (25672) espressif: Writing 692[0m
+[0;32mI (25682) espressif: Writing 693[0m
+[0;32mI (25682) espressif: Writing 694[0m
+[0;32mI (25692) espressif: Writing 695[0m
+[0;32mI (25692) espressif: Writing 696[0m
+[0;32mI (25692) espressif: Writing 697[0m
+[0;32mI (25702) espressif: Writing 698[0m
+[0;32mI (25702) espressif: Writing 699[0m
+[0;32mI (25712) espressif: Writing 700[0m
+[0;32mI (25712) espressif: Writing 701[0m
+[0;32mI (25712) espressif: Writing 702[0m
+[0;32mI (25722) espressif: Writing 703[0m
+[0;32mI (25722) espressif: Writing 704[0m
+[0;32mI (25722) espressif: Writing 705[0m
+[0;32mI (25732) espressif: Writing 706[0m
+[0;32mI (25732) espressif: Writing 707[0m
+[0;32mI (25742) espressif: Writing 708[0m
+[0;32mI (25742) espressif: Writing 709[0m
+[0;32mI (25742) espressif: Writing 710[0m
+[0;32mI (25752) espressif: Writing 711[0m
+[0;32mI (25752) espressif: Writing 712[0m
+[0;32mI (25762) espressif: Writing 713[0m
+[0;32mI (25762) espressif: Writing 714[0m
+[0;32mI (25762) espressif: Writing 715[0m
+[0;32mI (25772) espressif: Writing 716[0m
+[0;32mI (25772) espressif: Writing 717[0m
+[0;32mI (25782) espressif: Writing 718[0m
+[0;32mI (25782) espressif: Writing 719[0m
+[0;32mI (25782) espressif: Writing 720[0m
+[0;32mI (25792) espressif: Writing 721[0m
+[0;32mI (25792) espressif: Writing 722[0m
+[0;32mI (25802) espressif: Writing 723[0m
+[0;32mI (25802) espressif: Writing 724[0m
+[0;32mI (25802) espressif: Writing 725[0m
+[0;32mI (25812) espressif: Writing 726[0m
+[0;32mI (25812) espressif: Writing 727[0m
+[0;32mI (25812) espressif: Writing 728[0m
+[0;32mI (25822) espressif: Writing 729[0m
+[0;32mI (25822) espressif: Writing 730[0m
+[0;32mI (25832) espressif: Writing 731[0m
+[0;32mI (25832) espressif: Writing 732[0m
+[0;32mI (25832) espressif: Writing 733[0m
+[0;32mI (25842) espressif: Writing 734[0m
+[0;32mI (25842) espressif: Writing 735[0m
+[0;32mI (25852) espressif: Writing 736[0m
+[0;32mI (25852) espressif: Writing 737[0m
+[0;32mI (25852) espressif: Writing 738[0m
+[0;32mI (25862) espressif: Writing 739[0m
+[0;32mI (25862) espressif: Writing 740[0m
+[0;32mI (25872) espressif: Writing 741[0m
+[0;32mI (25872) espressif: Writing 742[0m
+[0;32mI (25872) espressif: Writing 743[0m
+[0;32mI (25882) espressif: Writing 744[0m
+[0;32mI (25882) espressif: Writing 745[0m
+[0;32mI (25882) espressif: Writing 746[0m
+[0;32mI (25892) espressif: Writing 747[0m
+[0;32mI (25892) espressif: Writing 748[0m
+[0;32mI (25902) espressif: Writing 749[0m
+[0;32mI (25902) espressif: Writing 750[0m
+[0;32mI (25902) espressif: Writing 751[0m
+[0;32mI (25912) espressif: Writing 752[0m
+[0;32mI (25912) espressif: Writing 753[0m
+[0;32mI (25922) espressif: Writing 754[0m
+[0;32mI (25922) espressif: Writing 755[0m
+[0;32mI (25922) espressif: Writing 756[0m
+[0;32mI (25932) espressif: Writing 757[0m
+[0;32mI (25932) espressif: Writing 758[0m
+[0;32mI (25942) espressif: Writing 759[0m
+[0;32mI (25942) espressif: Writing 760[0m
+[0;32mI (25942) espressif: Writing 761[0m
+[0;32mI (25952) espressif: Writing 762[0m
+[0;32mI (25952) espressif: Writing 763[0m
+[0;32mI (25962) espressif: Writing 764[0m
+[0;32mI (25962) espressif: Writing 765[0m
+[0;32mI (25962) espressif: Writing 766[0m
+[0;32mI (25972) espressif: Writing 767[0m
+[0;32mI (25972) espressif: Writing 768[0m
+[0;32mI (25972) espressif: Writing 769[0m
+[0;32mI (25982) espressif: Writing 770[0m
+[0;32mI (25982) espressif: Writing 771[0m
+[0;32mI (25992) espressif: Writing 772[0m
+[0;32mI (25992) espressif: Writing 773[0m
+[0;32mI (25992) espressif: Writing 774[0m
+[0;32mI (26002) espressif: Writing 775[0m
+[0;32mI (26002) espressif: Writing 776[0m
+[0;32mI (26012) espressif: Writing 777[0m
+[0;32mI (26012) espressif: Writing 778[0m
+[0;32mI (26012) espressif: Writing 779[0m
+[0;32mI (26022) espressif: Writing 780[0m
+[0;32mI (26022) espressif: Writing 781[0m
+[0;32mI (26032) espressif: Writing 782[0m
+[0;32mI (26032) espressif: Writing 783[0m
+[0;32mI (26032) espressif: Writing 784[0m
+[0;32mI (26042) espressif: Writing 785[0m
+[0;32mI (26042) espressif: Writing 786[0m
+[0;32mI (26052) espressif: Writing 787[0m
+[0;32mI (26052) espressif: Writing 788[0m
+[0;32mI (26052) espressif: Writing 789[0m
+[0;32mI (26062) espressif: Writing 790[0m
+[0;32mI (26062) espressif: Writing 791[0m
+[0;32mI (26062) espressif: Writing 792[0m
+[0;32mI (26072) espressif: Writing 793[0m
+[0;32mI (26072) espressif: Writing 794[0m
+[0;32mI (26082) espressif: Writing 795[0m
+[0;32mI (26082) espressif: Writing 796[0m
+[0;32mI (26082) espressif: Writing 797[0m
+[0;32mI (26092) espressif: Writing 798[0m
+[0;32mI (26092) espressif: Writing 799[0m
+[0;32mI (26102) espressif: Writing 800[0m
+[0;32mI (26102) espressif: Writing 801[0m
+[0;32mI (26102) espressif: Writing 802[0m
+[0;32mI (26112) espressif: Writing 803[0m
+[0;32mI (26112) espressif: Writing 804[0m
+[0;32mI (26122) espressif: Writing 805[0m
+[0;32mI (26122) espressif: Writing 806[0m
+[0;32mI (26122) espressif: Writing 807[0m
+[0;32mI (26132) espressif: Writing 808[0m
+[0;32mI (26132) espressif: Writing 809[0m
+[0;32mI (26132) espressif: Writing 810[0m
+[0;32mI (26142) espressif: Writing 811[0m
+[0;32mI (26142) espressif: Writing 812[0m
+[0;32mI (26152) espressif: Writing 813[0m
+[0;32mI (26152) espressif: Writing 814[0m
+[0;32mI (26152) espressif: Writing 815[0m
+[0;32mI (26162) espressif: Writing 816[0m
+[0;32mI (26162) espressif: Writing 817[0m
+[0;32mI (26172) espressif: Writing 818[0m
+[0;32mI (26172) espressif: Writing 819[0m
+[0;32mI (26172) espressif: Writing 820[0m
+[0;32mI (26182) espressif: Writing 821[0m
+[0;32mI (26182) espressif: Writing 822[0m
+[0;32mI (26192) espressif: Writing 823[0m
+[0;32mI (26192) espressif: Writing 824[0m
+[0;32mI (26192) espressif: Writing 825[0m
+[0;32mI (26202) espressif: Writing 826[0m
+[0;32mI (26202) espressif: Writing 827[0m
+[0;32mI (26212) espressif: Writing 828[0m
+[0;32mI (26212) espressif: Writing 829[0m
+[0;32mI (26212) espressif: Writing 830[0m
+[0;32mI (26222) espressif: Writing 831[0m
+[0;32mI (26222) espressif: Writing 832[0m
+[0;32mI (26222) espressif: Writing 833[0m
+[0;32mI (26232) espressif: Writing 834[0m
+[0;32mI (26232) espressif: Writing 835[0m
+[0;32mI (26242) espressif: Writing 836[0m
+[0;32mI (26242) espressif: Writing 837[0m
+[0;32mI (26242) espressif: Writing 838[0m
+[0;32mI (26252) espressif: Writing 839[0m
+[0;32mI (26252) espressif: Writing 840[0m
+[0;32mI (26262) espressif: Writing 841[0m
+[0;32mI (26262) espressif: Writing 842[0m
+[0;32mI (26262) espressif: Writing 843[0m
+[0;32mI (26272) espressif: Writing 844[0m
+[0;32mI (26272) espressif: Writing 845[0m
+[0;32mI (26282) espressif: Writing 846[0m
+[0;32mI (26282) espressif: Writing 847[0m
+[0;32mI (26282) espressif: Writing 848[0m
+[0;32mI (26292) espressif: Writing 849[0m
+[0;32mI (26292) espressif: Writing 850[0m
+[0;32mI (26302) espressif: Writing 851[0m
+[0;32mI (26302) espressif: Writing 852[0m
+[0;32mI (26302) espressif: Writing 853[0m
+[0;32mI (26312) espressif: Writing 854[0m
+[0;32mI (26312) espressif: Writing 855[0m
+[0;32mI (26312) espressif: Writing 856[0m
+[0;32mI (26322) espressif: Writing 857[0m
+[0;32mI (26322) espressif: Writing 858[0m
+[0;32mI (26332) espressif: Writing 859[0m
+[0;32mI (26332) espressif: Writing 860[0m
+[0;32mI (26332) espressif: Writing 861[0m
+[0;32mI (26342) espressif: Writing 862[0m
+[0;32mI (26342) espressif: Writing 863[0m
+[0;32mI (26352) espressif: Writing 864[0m
+[0;32mI (26352) espressif: Writing 865[0m
+[0;32mI (26352) espressif: Writing 866[0m
+[0;32mI (26362) espressif: Writing 867[0m
+[0;32mI (26362) espressif: Writing 868[0m
+[0;32mI (26372) espressif: Writing 869[0m
+[0;32mI (26372) espressif: Writing 870[0m
+[0;32mI (26372) espressif: Writing 871[0m
+[0;32mI (26382) espressif: Writing 872[0m
+[0;32mI (26382) espressif: Writing 873[0m
+[0;32mI (26382) espressif: Writing 874[0m
+[0;32mI (26392) espressif: Writing 875[0m
+[0;32mI (26392) espressif: Writing 876[0m
+[0;32mI (26402) espressif: Writing 877[0m
+[0;32mI (26402) espressif: Writing 878[0m
+[0;32mI (26402) espressif: Writing 879[0m
+[0;32mI (26412) espressif: Writing 880[0m
+[0;32mI (26412) espressif: Writing 881[0m
+[0;32mI (26422) espressif: Writing 882[0m
+[0;32mI (26422) espressif: Writing 883[0m
+[0;32mI (26422) espressif: Writing 884[0m
+[0;32mI (26432) espressif: Writing 885[0m
+[0;32mI (26432) espressif: Writing 886[0m
+[0;32mI (26442) espressif: Writing 887[0m
+[0;32mI (26442) espressif: Writing 888[0m
+[0;32mI (26442) espressif: Writing 889[0m
+[0;32mI (26452) espressif: Writing 890[0m
+[0;32mI (26452) espressif: Writing 891[0m
+[0;32mI (26462) espressif: Writing 892[0m
+[0;32mI (26462) espressif: Writing 893[0m
+[0;32mI (26462) espressif: Writing 894[0m
+[0;32mI (26472) espressif: Writing 895[0m
+[0;32mI (26472) espressif: Writing 896[0m
+[0;32mI (26472) espressif: Writing 897[0m
+[0;32mI (26482) espressif: Writing 898[0m
+[0;32mI (26482) espressif: Writing 899[0m
+[0;32mI (26492) espressif: Writing 900[0m

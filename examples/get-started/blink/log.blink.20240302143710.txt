@@ -1,0 +1,193 @@
+Valor RMS calculado: 218.05
+Valor RMS calculado: 217.14
+Valor RMS calculado: 212.79
+Valor RMS calculado: 212.97
+Valor RMS calculado: 210.70
+Valor RMS calculado: 215.92
+Valor RMS calculado: 216.28
+Valor RMS calculado: 219.00
+Valor RMS calculado: 210.52
+Valor RMS calculado: 210.74
+Valor RMS calculado: 213.45
+Valor RMS calculado: 212.97
+Valor RMS calculado: 210.47
+Valor RMS calculado: 216.03
+Valor RMS calculado: 215.74
+Valor RMS calculado: 218.48
+Valor RMS calculado: 218.96
+Valor RMS calculado: 210.75
+Valor RMS calculado: 213.95
+Valor RMS calculado: 213.75
+Valor RMS calculado: 210.77
+Valor RMS calculado: 215.93
+Valor RMS calculado: 216.64
+Valor RMS calculado: 218.70
+Valor RMS calculado: 218.33
+Valor RMS calculado: 211.14
+Valor RMS calculado: 214.02
+Valor RMS calculado: 213.81
+Valor RMS calculado: 210.28
+Valor RMS calculado: 218.38
+Valor RMS calculado: 215.94
+Valor RMS calculado: 219.18
+Valor RMS calculado: 219.21
+Valor RMS calculado: 210.63
+Valor RMS calculado: 213.72
+Valor RMS calculado: 214.32
+Valor RMS calculado: 210.95
+Valor RMS calculado: 210.74
+Valor RMS calculado: 218.03
+Valor RMS calculado: 218.12
+Valor RMS calculado: 217.29
+Valor RMS calculado: 210.69
+Valor RMS calculado: 213.75
+Valor RMS calculado: 213.99
+Valor RMS calculado: 210.64
+Valor RMS calculado: 210.88
+Valor RMS calculado: 217.92
+Valor RMS calculado: 218.17
+Valor RMS calculado: 218.22
+Valor RMS calculado: 211.29
+Valor RMS calculado: 213.19
+Valor RMS calculado: 213.72
+Valor RMS calculado: 210.70
+Valor RMS calculado: 210.77
+Valor RMS calculado: 217.52
+Valor RMS calculado: 218.77
+Valor RMS calculado: 218.27
+[0;31mE (25320) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (25320) task_wdt:  - IDLE (CPU 1)[0m
+[0;31mE (25320) task_wdt: Tasks currently running:[0m
+[0;31mE (25320) task_wdt: CPU 0: IDLE[0m
+[0;31mE (25320) task_wdt: CPU 1: core0_task[0m
+[0;31mE (25320) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400D7637:0x3FFB0B90 0x40082799:0x3FFB0BB0 0x400E594B:0x3FFB63E0 0x400D19C7:0x3FFB6400 0x40086602:0x3FFB6420 0x40087C79:0x3FFB6440
+0x400d7637: task_wdt_isr at C:/esp/esp-idf/components/esp_system/task_wdt.c:183 (discriminator 3)
+0x40082799: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x400e594b: cpu_ll_waiti at C:/esp/esp-idf/components/hal/esp32/include/hal/cpu_ll.h:183
+ (inlined by) esp_pm_impl_waiti at C:/esp/esp-idf/components/esp_pm/pm_impl.c:837
+0x400d19c7: esp_vApplicationIdleHook at C:/esp/esp-idf/components/esp_system/freertos_hooks.c:63
+0x40086602: prvIdleTask at C:/esp/esp-idf/components/freertos/tasks.c:3987 (discriminator 1)
+0x40087c79: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+[0;31mE (25320) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x400841AD:0x3FFB1190 0x40082799:0x3FFB11B0 0x4000BFED:0x3FFB8DB0 0x40087F2A:0x3FFB8DC0 0x400D6A41:0x3FFB8DE0 0x400D6ABD:0x3FFB8E00 0x400D4D0F:0x3FFB8E40 0x40087C79:0x3FFB8E60
+0x400841ad: esp_crosscore_isr at C:/esp/esp-idf/components/esp_system/crosscore_int.c:92
+0x40082799: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x40087f2a: vPortClearInterruptMaskFromISR at C:/esp/esp-idf/components/freertos/port/xtensa/include/freertos/portmacro.h:571
+ (inlined by) vPortExitCritical at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:319
+0x400d6a41: adc1_rtc_mode_acquire at C:/esp/esp-idf/components/driver/adc_common.c:412
+0x400d6abd: adc1_get_raw at C:/esp/esp-idf/components/driver/adc_common.c:431
+0x400d4d0f: hello_task_core_1 at C:/esp/esp-idf/examples/get-started/blink/main/blink_example_main.c:141
+0x40087c79: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+Valor RMS calculado: 220.90
+Valor RMS calculado: 210.75
+Valor RMS calculado: 219.21
+Valor RMS calculado: 219.09
+Valor RMS calculado: 217.40
+Valor RMS calculado: 211.08
+Valor RMS calculado: 210.78
+Valor RMS calculado: 213.22
+Valor RMS calculado: 214.11
+Valor RMS calculado: 211.25
+Valor RMS calculado: 218.42
+Valor RMS calculado: 218.88
+Valor RMS calculado: 217.91
+Valor RMS calculado: 210.78
+Valor RMS calculado: 211.62
+Valor RMS calculado: 213.56
+Valor RMS calculado: 213.29
+Valor RMS calculado: 211.31
+Valor RMS calculado: 219.90
+Valor RMS calculado: 218.44
+Valor RMS calculado: 217.53
+Valor RMS calculado: 210.66
+Valor RMS calculado: 211.31
+Valor RMS calculado: 213.82
+Valor RMS calculado: 214.11
+Valor RMS calculado: 210.75
+Valor RMS calculado: 219.95
+Valor RMS calculado: 219.87
+Valor RMS calculado: 215.69
+Valor RMS calculado: 215.80
+Valor RMS calculado: 211.99
+Valor RMS calculado: 213.66
+Valor RMS calculado: 213.74
+Valor RMS calculado: 210.99
+Valor RMS calculado: 219.72
+Valor RMS calculado: 220.41
+Valor RMS calculado: 216.46
+Valor RMS calculado: 216.41
+Valor RMS calculado: 211.00
+Valor RMS calculado: 213.12
+Valor RMS calculado: 213.34
+Valor RMS calculado: 212.96
+Valor RMS calculado: 213.44
+Valor RMS calculado: 221.20
+Valor RMS calculado: 217.33
+Valor RMS calculado: 216.74
+Valor RMS calculado: 212.06
+Valor RMS calculado: 213.74
+Valor RMS calculado: 213.73
+Valor RMS calculado: 212.75
+Valor RMS calculado: 213.02
+Valor RMS calculado: 221.60
+Valor RMS calculado: 214.52
+Valor RMS calculado: 215.37
+Valor RMS calculado: 213.00
+Valor RMS calculado: 212.90
+Valor RMS calculado: 213.77
+[0;31mE (30320) task_wdt: Task watchdog got triggered. The following tasks did not reset the watchdog in time:[0m
+[0;31mE (30320) task_wdt:  - IDLE (CPU 1)[0m
+[0;31mE (30320) task_wdt: Tasks currently running:[0m
+[0;31mE (30320) task_wdt: CPU 0: IDLE[0m
+[0;31mE (30320) task_wdt: CPU 1: core0_task[0m
+[0;31mE (30320) task_wdt: Print CPU 0 (current core) backtrace[0m
+
+
+Backtrace: 0x400D7637:0x3FFB0B90 0x40082799:0x3FFB0BB0 0x400E594B:0x3FFB63E0 0x400D19C7:0x3FFB6400 0x40086602:0x3FFB6420 0x40087C79:0x3FFB6440
+0x400d7637: task_wdt_isr at C:/esp/esp-idf/components/esp_system/task_wdt.c:183 (discriminator 3)
+0x40082799: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x400e594b: cpu_ll_waiti at C:/esp/esp-idf/components/hal/esp32/include/hal/cpu_ll.h:183
+ (inlined by) esp_pm_impl_waiti at C:/esp/esp-idf/components/esp_pm/pm_impl.c:837
+0x400d19c7: esp_vApplicationIdleHook at C:/esp/esp-idf/components/esp_system/freertos_hooks.c:63
+0x40086602: prvIdleTask at C:/esp/esp-idf/components/freertos/tasks.c:3987 (discriminator 1)
+0x40087c79: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+[0;31mE (30320) task_wdt: Print CPU 1 backtrace[0m
+
+
+Backtrace: 0x400841AD:0x3FFB1190 0x40082799:0x3FFB11B0 0x4000BFED:0x3FFB8DD0 0x40087F2A:0x3FFB8DE0 0x400D6C00:0x3FFB8E00 0x400D4D0F:0x3FFB8E40 0x40087C79:0x3FFB8E60
+0x400841ad: esp_crosscore_isr at C:/esp/esp-idf/components/esp_system/crosscore_int.c:92
+0x40082799: _xt_lowint1 at C:/esp/esp-idf/components/freertos/port/xtensa/xtensa_vectors.S:1111
+0x40087f2a: vPortClearInterruptMaskFromISR at C:/esp/esp-idf/components/freertos/port/xtensa/include/freertos/portmacro.h:571
+ (inlined by) vPortExitCritical at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:319
+0x400d6c00: adc1_get_raw at C:/esp/esp-idf/components/driver/adc_common.c:449
+0x400d4d0f: hello_task_core_1 at C:/esp/esp-idf/examples/get-started/blink/main/blink_example_main.c:141
+0x40087c79: vPortTaskWrapper at C:/esp/esp-idf/components/freertos/port/xtensa/port.c:131
+
+Valor RMS clculado 219.71
+Valor RMS calculado: 214.59
+Valor RMS calculado: 212.61
+Valor RMS calculado: 213.06
+Valor RMS calculado: 212.87
+Valor RMS calculado: 212.52
+Valor RMS calculado: 212.72
+Valor RMS calculado: 221.43
+Valor RMS calculado: 220.97
+Valor RMS calculado: 214.90
+Valor RMS calculado: 212.50
+Valor RMS calculado: 212.94
+Valor RMS calculado: 213.37
+Valor RMS calculado: 213.62
+Valor RMS calculado: 214.26
+Valor RMS calculado: 221.81
+Valor RMS calculado: 221.74
+Valor RMS calculado: 213.08
+Valor RMS calculado: 213.66
+Valor RMS calculado: 212.84
